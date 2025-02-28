@@ -1,0 +1,6 @@
+pandas
+mysql.connector
+streamlit
+faker
+random
+datetime
