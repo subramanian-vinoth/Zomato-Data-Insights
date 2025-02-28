@@ -1,0 +1,738 @@
+customer_id,name,email,phone,location,signup_date,is_premium,preferred_cuisine,total_orders,average_rating
+11986dcd-c0f2-4030-908f-b3e81b2fb377,Yashasvi Morar,ramindrajit@example.org,2312090837,"57/01
+Kothari Street, Chennai, Tamil Nadu",2020-02-23,Yes,American,3,3.88
+e1bd6cd3-e3b5-4e7c-927d-36340b960377,Nimrat Dube,paimahika@example.com,+915381089296,"55, Mahal Street, Chennai, Tamil Nadu",2023-03-14,Yes,Thai,32,3.14
+1d2588dc-bed8-49c5-b939-768ab34f3423,Yuvraj Wagle,idika61@example.net,2418786245,"732, Swaminathan Marg, Chennai, Tamil Nadu",2020-10-02,No,American,12,3.27
+f7700dfa-4aeb-4875-9f16-9605c0ab6a30,Hema Puri,lekha01@example.net,05190544987,"81/46
+Prabhu Nagar, Chennai, Tamil Nadu",2021-01-20,Yes,Indian,39,2.9
+574aa842-6218-4881-836f-e5152ca145bb,Faris Deshmukh,hdugar@example.net,01931265717,"67
+Deshmukh Zila, Chennai, Tamil Nadu",2022-08-01,No,Indian,45,1.82
+e8aeaa53-9703-4f02-99d1-76b682fdb2ee,Hemani Raja,kantliam@example.net,6760173854,"H.No. 958
+Bhardwaj Zila, Chennai, Tamil Nadu",2020-02-27,Yes,American,17,1.89
+181295be-ddd9-43e7-bc20-74d857327622,Girindra Roy,imaran64@example.org,+914955373189,"87/605
+Prashad Street, Chennai, Tamil Nadu",2024-08-28,Yes,Thai,27,3.43
+da636026-0b13-4052-94a4-4f1cd2155a55,Lakshit Sarna,theodore09@example.net,06016728652,"H.No. 015, Din Circle, Chennai, Tamil Nadu",2024-05-31,No,Indian,11,3.12
+57b004ac-7a6b-42b2-b02e-a051a1100b48,Dominic Chacko,rmangat@example.org,07229403507,"38/31, Pall Chowk, Chennai, Tamil Nadu",2024-10-16,No,Thai,37,1.9
+dda64857-2311-4663-9db7-edd1be3453ca,Dayita Patla,khannaqasim@example.net,+919590832576,"H.No. 61, Maharaj Marg, Chennai, Tamil Nadu",2020-07-08,No,Chinese,45,3.18
+eb33ed23-f4f9-4dde-b637-d7d57c3c387e,Balveer Bhandari,ekbal34@example.net,08188741264,"H.No. 64, Nayar Path, Chennai, Tamil Nadu",2020-01-05,Yes,Italian,28,3.28
+95dca8e1-cbd0-47c6-9241-e127091478e2,Yuvraj Yadav,chahalzinal@example.org,1351162907,"406, Pingle Nagar, Chennai, Tamil Nadu",2022-10-21,No,Indian,13,2.44
+114eda98-7b81-4818-a048-c099935df8ff,Meera Bhavsar,yjaggi@example.net,+914484918094,"307, Munshi Path, Chennai, Tamil Nadu",2022-01-25,Yes,Indian,6,3.34
+1d2431b3-7542-401b-b0d0-d21f006fdf03,Naksh Goda,georgebutala@example.com,01422496363,"12/766, Samra Zila, Chennai, Tamil Nadu",2024-01-20,Yes,American,25,2.11
+27272fed-4dac-401d-9096-551b0753c57c,Upma Sidhu,urishilla43@example.org,5654385848,"45/820, Pai Chowk, Chennai, Tamil Nadu",2020-02-23,Yes,Thai,9,3.6
+26128e25-3966-41f0-acbb-4a7105c1ef3e,Gavin Andra,ksoni@example.com,7445507066,"H.No. 956, Gupta Zila, Chennai, Tamil Nadu",2024-03-06,No,Chinese,18,4.7
+cb5eaa7b-9d9f-4010-b2ea-e87adf69975b,Lavanya Misra,reyansh06@example.org,+910871485487,"388, Kumar Road, Chennai, Tamil Nadu",2020-02-10,Yes,Indian,6,4.87
+b24d1511-7809-4179-932c-b75cbe98f560,Michael Raman,bloyal@example.com,6522508459,"H.No. 31
+Anne Marg, Chennai, Tamil Nadu",2023-04-11,No,Indian,44,1.45
+dbf6e0fe-104e-4b49-ad72-9b0f138e8b2f,Onveer Jaggi,mannansuhani@example.com,03212777743,"59/20, Sur Street, Chennai, Tamil Nadu",2022-10-28,No,Indian,18,4.96
+2e2a7de6-f974-4730-8f6b-e979ce9ce4b7,Sudiksha Bahri,xpalla@example.com,06548706895,"H.No. 798, Ahuja Ganj, Chennai, Tamil Nadu",2024-05-14,No,Thai,19,2.28
+6ce72b60-fb31-46fe-8e1d-98ca0ab32ff8,Wriddhish Mittal,isaiahdivan@example.org,+916922630673,"H.No. 85
+Sinha Marg, Chennai, Tamil Nadu",2020-09-09,No,American,9,2.25
+56731e7c-8663-4278-acae-ac399f7698a9,Harrison Walia,devikachana@example.com,1927061945,"17/475, Agrawal Path, Chennai, Tamil Nadu",2020-05-27,No,Thai,44,3.59
+0fe40f13-fafe-4182-890a-afd14f4a7960,Charan Saxena,bkeer@example.org,+914399036302,"74/180, Nori Marg, Chennai, Tamil Nadu",2021-04-27,Yes,Mexican,7,2.16
+5d517600-74c0-4a1b-9cbb-f367670d7b4b,Yochana Shanker,bahadurjitgoda@example.org,04883452508,"73, Agate, Chennai, Tamil Nadu",2021-07-25,Yes,Indian,7,2.46
+0f3a6e2a-4338-4b16-809b-0d82bcc1451b,Lipika Manda,narayananyutika@example.org,5723706563,"96/05, Madan Circle, Chennai, Tamil Nadu",2023-07-27,Yes,Italian,14,3.9
+52fd61d3-ea0e-4a72-9173-7cd89fdab24f,Simon Mittal,kapadiadaniel@example.org,5352695242,"26/21, Bath Path, Chennai, Tamil Nadu",2023-06-12,No,Thai,46,2.5
+760b29ed-f59f-4bbc-9f13-69e94ac5fa83,Kevin Palla,qkeer@example.net,5849397138,"62, Jhaveri Zila, Chennai, Tamil Nadu",2022-05-07,Yes,Chinese,49,1.79
+6052e7e1-f6f2-4419-b6bf-7048fcea5d2f,Frederick Mall,qswaminathan@example.com,06744766107,"88/815
+Chakrabarti Ganj, Chennai, Tamil Nadu",2022-06-28,No,Thai,2,1.29
+35ffff76-34b9-4b33-93bf-e845efc8dfa4,Simon Gokhale,diyabumb@example.com,04527616268,"H.No. 365, Deshpande Zila, Chennai, Tamil Nadu",2022-12-03,Yes,Thai,6,1.24
+6b6c5590-4974-4423-958e-6e04b7f24289,Chakradhar Biswas,rsood@example.org,+913006840650,"63/211, Amble, Chennai, Tamil Nadu",2022-06-24,No,American,13,2.47
+af7b612c-540c-4e9c-8d46-e4af8f336a19,Janya Agrawal,warriorkabir@example.net,3283735032,"H.No. 226
+Devan Circle, Chennai, Tamil Nadu",2022-12-26,Yes,Chinese,31,4.92
+151c9e49-ac92-441d-86bf-2d0a35cfd97c,Shravya Padmanabhan,lopadin@example.org,8149892768,"H.No. 420
+Sura Path, Chennai, Tamil Nadu",2020-10-07,Yes,Chinese,44,2.65
+18f5467b-2a5a-4fa9-a216-bdc9fc3c98b7,Chanchal Kala,krishnaissac@example.net,+918098097426,"25/967, Krish, Chennai, Tamil Nadu",2022-03-18,Yes,Indian,37,2.06
+2c350ae0-8e31-4ab5-a225-3cc9ab607dfd,Veda Chada,farhan19@example.com,+913675021244,"H.No. 51
+Lad Nagar, Chennai, Tamil Nadu",2023-11-18,No,American,12,2.2
+957f739e-7bdd-45e4-bc7a-b3be286896bf,Charvi Narain,joshirehaan@example.com,+910845247236,"78
+Johal Street, Chennai, Tamil Nadu",2024-06-01,No,Chinese,21,4.08
+85e5ef40-58f3-4f97-b1d9-83c7b4d5ecb2,Lopa Rajan,saurora@example.org,01479815060,"723, Chander Road, Chennai, Tamil Nadu",2023-05-05,Yes,Chinese,29,2.32
+a188b99f-9efc-4465-9337-d421192c867b,Ekta Date,dayitamisra@example.org,8566524484,"H.No. 90
+Prabhakar Chowk, Chennai, Tamil Nadu",2022-07-02,No,Mexican,8,3.53
+82881cc8-5504-4102-a812-d0a343300335,Warhi Gupta,nihal20@example.net,01094495913,"H.No. 858
+Tailor Road, Chennai, Tamil Nadu",2023-06-08,Yes,Italian,36,3.87
+735e772e-a4a1-47e2-a489-bf533d346214,Nachiket Shukla,manan69@example.org,+916863181748,"94
+Dugar Path, Chennai, Tamil Nadu",2024-01-06,Yes,Mexican,12,1.05
+e5185d1c-3e2b-491e-94d8-5867542e9d13,Aryan Butala,labanpai@example.net,3218777593,"609, Sangha Road, Chennai, Tamil Nadu",2022-03-13,Yes,Chinese,14,1.25
+71851b2e-22db-4d69-8b0d-1a07198bfcaf,Waida Prasad,mittalethan@example.net,+918395597028,"63, Shankar Nagar, Chennai, Tamil Nadu",2024-10-07,Yes,Italian,39,3.72
+cced0e43-f895-4494-8492-12f15526d831,Aarna Menon,sulepranit@example.com,6370918004,"82/89, Mohanty Road, Chennai, Tamil Nadu",2023-05-05,Yes,Mexican,39,2.56
+1fc10a61-2eb7-4cc6-9658-0376d0b1fbc7,Eshana Tripathi,aarnavrout@example.net,+914467528028,"340, Grover Zila, Chennai, Tamil Nadu",2020-03-11,Yes,American,24,4.22
+b7c5cf44-2b0f-4800-b91f-221b2bd6a75d,Brijesh Wali,akshay59@example.com,+919699717805,"214
+Radhakrishnan Nagar, Chennai, Tamil Nadu",2023-11-05,No,Mexican,32,4.55
+044ba75f-8b76-428c-babe-eaffd5ccac62,Jhalak Rama,dhillondamini@example.org,0208193638,"H.No. 322, Nath Zila, Chennai, Tamil Nadu",2022-08-11,Yes,Indian,38,1.05
+75838213-0151-42ab-9d65-4aa9112eabb6,Nisha Bhatti,deepagill@example.net,08547457257,"96
+Parmar Zila, Chennai, Tamil Nadu",2024-04-21,Yes,Mexican,37,3.58
+f6d69ada-52f7-4e03-a68d-152d898c4800,Aishani Mukhopadhyay,moraralexander@example.net,09880655416,"21/614
+Shere Circle, Chennai, Tamil Nadu",2024-02-20,No,Mexican,15,2.87
+a01dd6fa-e4de-443d-b1d2-5fc5642e8108,Ishaan Mitter,manbir47@example.org,+913422154706,"12/91
+Gupta Zila, Chennai, Tamil Nadu",2022-12-09,Yes,Thai,37,4.48
+50c6440e-8b89-4551-aec9-142fa6bc2173,Nidhi Sengupta,ladsaumya@example.com,+914163521490,"67
+Bhardwaj Nagar, Chennai, Tamil Nadu",2024-07-13,Yes,Italian,1,2.08
+af12f524-5380-4edc-8339-4e0dccb6871e,Leena Barman,upma34@example.net,4845654415,"H.No. 007, Tella Chowk, Chennai, Tamil Nadu",2023-11-08,Yes,American,31,4.9
+79008d60-01aa-455d-8d29-26e71599b875,Urishilla Atwal,kvala@example.com,+917772964466,"869
+Bumb, Chennai, Tamil Nadu",2021-04-30,Yes,Mexican,49,4.82
+66434487-afdd-4d0a-b94b-cbfc54c72db2,Dalaja Warrior,jeremiah06@example.com,+911155702752,"541
+Goel Zila, Chennai, Tamil Nadu",2022-08-13,Yes,Thai,33,1.32
+a947a410-4ed8-4be4-836e-96cb84441cfd,Saanvi Mand,hritik31@example.org,+917879625139,"H.No. 65, Muni Zila, Chennai, Tamil Nadu",2023-07-25,Yes,Chinese,40,2.64
+e5bfc2f4-4829-4f8a-bc7b-ef682d3aec31,Falan Subramanian,hmemon@example.com,+912272234546,"09/27, Chadha Path, Chennai, Tamil Nadu",2020-05-19,Yes,Thai,17,2.43
+170b4a14-52ff-49b5-ae28-b81ca7c8e112,Onkar Basu,chandajeremiah@example.org,5683135603,"H.No. 914
+Chand, Chennai, Tamil Nadu",2022-03-02,Yes,Thai,21,2.7
+da198539-ef18-4a1e-a858-0cbcf258d93b,Laksh Shah,irya69@example.org,8959929154,"H.No. 66
+Butala Circle, Chennai, Tamil Nadu",2022-08-23,Yes,Mexican,3,2.03
+b87e4eaf-0e30-48d2-bbdb-6bf40f58a043,Anya Vaidya,anika85@example.com,8882275366,"22/517
+Aurora Circle, Chennai, Tamil Nadu",2021-02-19,No,Italian,6,1.23
+2151c255-fd65-404e-94bd-78cbe1cb01e9,Faraj Shan,anirudhtak@example.net,+913016227737,"10/834, Babu Chowk, Chennai, Tamil Nadu",2022-02-13,No,Thai,13,2.73
+853b889a-037f-4f8c-a76b-ee53e5419875,Gaurangi Gupta,sharafvivaan@example.org,6019351728,"24, Rai Zila, Chennai, Tamil Nadu",2024-07-12,Yes,Indian,30,3.15
+3e09e957-674f-4de5-aabf-3d235e1766ff,Dhruv D’Alia,amaira56@example.org,+914996282194,"46/15, Chadha Circle, Chennai, Tamil Nadu",2023-09-13,Yes,Chinese,33,1.51
+5abb88b2-0b86-47a2-a230-ca9c6981ad18,Watika Arora,bainsdalbir@example.net,05148575463,"74
+Bhardwaj Chowk, Chennai, Tamil Nadu",2021-05-20,Yes,Thai,14,1.44
+835cd370-e423-4491-9b81-c28a96eaab2f,Indali Gaba,krisha91@example.com,01370850776,"H.No. 53, Rai Circle, Chennai, Tamil Nadu",2021-07-09,Yes,Italian,48,3.76
+83df17f9-c081-4a21-9af7-9e64eefb2848,Wazir Dube,zaidmander@example.net,+912139999713,"H.No. 70, Ben Circle, Chennai, Tamil Nadu",2020-12-06,Yes,Italian,13,4.17
+06f29fc8-b8b3-4d02-b356-6844414652a1,Geetika Sekhon,xthaker@example.org,4495914268,"33
+Sheth Chowk, Chennai, Tamil Nadu",2024-11-26,No,Mexican,3,1.92
+fecfd629-d730-4f03-af3e-8be4aa67323e,Manan Arya,yashvi79@example.net,05011797330,"49/34, Khalsa Road, Chennai, Tamil Nadu",2020-03-11,No,Italian,17,1.44
+77762718-ce41-4f82-90cd-d03ca4064be7,Varsha Batta,issacyashvi@example.net,7756435859,"01/42
+Dash Marg, Chennai, Tamil Nadu",2022-01-10,No,Thai,40,4.05
+f9c4cf12-fdff-4b64-b412-a18a6d9fc752,Abhiram Bera,jagrati58@example.net,+910124374098,"768
+Gulati Path, Chennai, Tamil Nadu",2020-03-02,Yes,Chinese,12,1.17
+ccb9373e-e088-4b27-8b52-954a6c439659,Krisha Krishnamurthy,pillayria@example.com,2465254708,"86/784
+Sampath Zila, Chennai, Tamil Nadu",2021-03-31,No,Thai,33,1.81
+aaa7a0ab-3214-4866-9e29-b5d72b3466e8,Atharv Tank,chameliguha@example.net,08143146227,"H.No. 915, Warrior Zila, Chennai, Tamil Nadu",2020-04-15,No,Thai,16,2.72
+2ee38a08-aebd-4d0e-8e09-6bc50d61cb9d,Onkar Bobal,xsaha@example.com,03637967687,"681, Bobal Ganj, Chennai, Tamil Nadu",2022-09-02,Yes,Italian,30,3.83
+12bc8c1d-0080-4906-a628-be9412a0dc4a,Hitesh Parmar,ishwar97@example.com,8520566789,"H.No. 92
+Vig Circle, Chennai, Tamil Nadu",2023-11-22,Yes,Mexican,50,2.71
+70b51b91-18e6-48a0-8e35-013d8e449c2d,Madhavi Tiwari,sanaya83@example.net,00079281591,"H.No. 843, Nagi Path, Chennai, Tamil Nadu",2022-08-29,Yes,Italian,22,1.15
+6680457f-fd1e-454e-947c-736b22b8cd48,Jacob Saini,jack95@example.com,+914263745303,"H.No. 97, Singh Street, Chennai, Tamil Nadu",2022-01-19,No,Indian,22,1.39
+a65c9952-51d4-449b-938f-7b595a78fdd3,Kiaan Merchant,hnayak@example.org,04040102683,"81, Kapoor Street, Chennai, Tamil Nadu",2021-07-07,Yes,American,27,2.97
+c1a8ea7c-f306-4f12-9c1e-909cd1e4f0b9,Jacob Rajan,haritasrinivasan@example.com,+917013846133,"80/34, Gaba Circle, Chennai, Tamil Nadu",2021-05-15,No,American,13,4.0
+933f462a-3f57-422a-9c0e-12ae027ba101,Bhanumati Devan,sanya09@example.org,3450550560,"H.No. 03
+Pingle Street, Chennai, Tamil Nadu",2023-12-29,No,Chinese,16,2.38
+87498158-4208-44f2-9f49-be5e5c53e32a,Osha Dasgupta,udant96@example.org,+910124635441,"17/308, Shroff Street, Chennai, Tamil Nadu",2023-10-31,Yes,Chinese,18,2.87
+998b3a47-0f9b-45bc-919a-e784d18341d5,Varenya Merchant,samuel71@example.com,+919475287363,"14, Pau Path, Chennai, Tamil Nadu",2022-03-11,Yes,Indian,25,3.23
+bb111028-d36f-409e-ab2f-4bac2614715c,Ubika Kara,ojasvikaur@example.net,+912531348467,"H.No. 379, Lalla Ganj, Chennai, Tamil Nadu",2024-04-08,No,Italian,48,1.42
+b322d43a-b773-444a-8292-d8179743a6de,Chaman Walia,biralka@example.com,+913233829906,"H.No. 540
+Lanka Marg, Chennai, Tamil Nadu",2021-08-05,Yes,Chinese,35,1.7
+5d497425-d3c1-488d-8fc4-eb1c77f2aec8,Max Dhillon,yanand@example.org,02145213911,"367
+Ben Zila, Chennai, Tamil Nadu",2024-01-24,Yes,Italian,33,4.7
+ad2bb784-0ac7-42c4-90a6-4c808a3b8ed4,Damyanti Sundaram,guhaomaja@example.com,+912474096183,"69/403, Shukla Zila, Chennai, Tamil Nadu",2020-06-01,No,Mexican,50,2.13
+3a2aba30-2741-439f-9b84-c7d4c5b18c1b,Sneha Johal,qabil26@example.org,03370917804,"H.No. 77
+Purohit Street, Chennai, Tamil Nadu",2023-08-06,No,American,11,2.88
+3ffb51bc-e79f-4acb-8d35-f38ddc99ab65,Jasmit Banik,nmishra@example.org,09115906102,"15/692, Kata Path, Chennai, Tamil Nadu",2022-12-10,No,Indian,18,3.13
+2be8f569-8417-4e90-ae55-a4bbf6163b0d,Reyansh Som,ijaya44@example.org,+912923141261,"26/58, Tank Path, Chennai, Tamil Nadu",2023-02-21,No,Italian,31,3.29
+67822037-9e14-4394-82c9-b39fd6d0c76f,Gayathri Butala,azaanwali@example.com,+916545010134,"H.No. 41, Kanda Marg, Chennai, Tamil Nadu",2023-06-08,No,Thai,19,1.61
+61ab5ce5-f917-4327-a4b5-bdb67add473c,Zaid Prasad,fsetty@example.com,2030111186,"277
+Cherian, Chennai, Tamil Nadu",2021-12-15,No,Thai,5,1.42
+e08f0211-c8f6-4d85-9343-86e9cc1e1f70,Nikita Dutt,upasna18@example.org,02393959851,"H.No. 405, Bandi Path, Chennai, Tamil Nadu",2021-12-23,No,Italian,32,1.14
+60b655bf-81f1-4caf-868f-7c1079a805ab,Zansi Narayanan,kalabhakta@example.org,06467350302,"H.No. 771, Doctor Nagar, Chennai, Tamil Nadu",2023-07-10,No,Mexican,8,1.45
+580b97a6-e9ed-4315-9a43-c595e43d78f7,Dipta Sule,aayush41@example.org,02565118822,"126
+Choudhary Path, Chennai, Tamil Nadu",2023-10-21,Yes,Italian,34,4.05
+9ab5e357-52d2-45f9-b599-d81ebc14b491,Anay Bala,harshvig@example.net,03197861688,"04/12
+Chahal Path, Chennai, Tamil Nadu",2024-11-18,Yes,Indian,7,4.78
+e99623ca-1cc6-4471-bd87-5e0360bd649e,Ikbal Rajan,surabhavya@example.com,03939352342,"47/62, Kapadia Zila, Chennai, Tamil Nadu",2024-11-07,Yes,American,13,1.56
+90204266-59b6-4e85-b1f0-6996b802a53a,Orinder Murty,zehaanmistry@example.com,2073712859,"86/33
+Deshmukh Circle, Chennai, Tamil Nadu",2023-05-15,Yes,American,13,2.47
+f0cda138-c181-4260-823e-223c41df50cc,Tripti Mandal,vrinda44@example.com,8676711856,"57/723, Shroff, Chennai, Tamil Nadu",2022-08-01,Yes,Thai,23,3.71
+10542d54-827d-40ec-80ab-682bc7626173,Janaki Sama,oraman@example.org,+919701547954,"45/819
+Trivedi Road, Chennai, Tamil Nadu",2024-01-23,Yes,Mexican,21,4.89
+d8494bf2-946c-4049-a466-07725b306ce9,Praneel Kala,chandranchandresh@example.org,04915702613,"08/10, Dutt Street, Chennai, Tamil Nadu",2023-10-09,No,Chinese,37,3.47
+e8ef1ebb-f430-47f7-bcc4-ddcdd7e03dfd,Neha Jhaveri,udant39@example.org,8611715621,"H.No. 376, Varty Road, Chennai, Tamil Nadu",2020-08-31,No,Mexican,24,3.52
+175d2a3a-11c3-42a6-99cc-4a2d640a6fe3,Geetika More,inadig@example.com,04906843228,"52/650, Lal Zila, Chennai, Tamil Nadu",2024-09-17,Yes,Mexican,12,2.36
+0c9a9bf6-4076-43f4-b633-18d7cd5f639e,Utkarsh Kannan,joshua69@example.org,2917323175,"22
+Dasgupta Marg, Chennai, Tamil Nadu",2023-09-17,Yes,Mexican,17,2.27
+3df5315c-aa88-455c-ae78-00c07c3206c3,Deepa Singhal,xchopra@example.org,5431844435,"78
+Gole Path, Chennai, Tamil Nadu",2020-12-17,No,Italian,5,1.15
+324be0c8-b390-4ea2-bb8d-0420359a3dea,Vasana Anne,amruta79@example.net,2030877855,"64/952
+Narain Circle, Chennai, Tamil Nadu",2023-04-06,No,Chinese,48,2.57
+6348f109-c56e-45b8-8f27-b2f764caa084,Udarsh Kunda,balisaiah@example.org,08358352665,"81/869, Magar Marg, Chennai, Tamil Nadu",2020-03-17,No,American,7,2.66
+d20c7cf9-fd28-46a7-9e6d-2176c5a4a036,Triveni Deol,sundercharita@example.net,+918408070175,"210, Varughese, Chennai, Tamil Nadu",2024-05-31,Yes,Thai,41,3.45
+8039a83d-7a8e-4e9d-b618-cee9421b0bb9,Samarth Krishnamurthy,mittallakshmi@example.org,+910312389397,"90, Amble Zila, Chennai, Tamil Nadu",2023-11-18,Yes,Italian,16,2.74
+1651ef6e-89ff-4a5e-a09d-312b356c056f,Daniel Gulati,lvala@example.org,04870139217,"H.No. 48
+Baral Chowk, Chennai, Tamil Nadu",2023-08-05,Yes,Italian,21,4.97
+58bc623e-bde4-44ca-a1c6-de953d951d88,Zinal Kohli,isaacbhagat@example.org,01976223185,"75/672, Dora Road, Chennai, Tamil Nadu",2020-03-20,No,American,14,4.12
+92dd925f-21d5-4ff4-977c-9087bdb5b2d4,Hamsini Kadakia,tchander@example.com,+919986842479,"432, Balan Zila, Chennai, Tamil Nadu",2024-06-22,No,Mexican,20,2.21
+fbbd875c-1f24-426b-842d-85a7ccd93483,Bhavini Mukhopadhyay,upkaar28@example.com,+912214420687,"13
+Majumdar, Chennai, Tamil Nadu",2024-06-12,No,Thai,48,3.32
+17d7a524-bcba-409e-9b6d-fb82aca6d37d,Amruta Mangat,niharikagrewal@example.com,3124374398,"231
+Patil Chowk, Chennai, Tamil Nadu",2021-04-26,No,American,2,2.12
+78e6e91e-d7ba-4891-96f0-4cd6577f76f4,Aarini Hayer,samaksh94@example.com,4232216225,"41/711, Date Marg, Chennai, Tamil Nadu",2022-12-20,Yes,American,48,1.7
+1a19bc6a-54ab-4b8a-8c4d-42965621be30,Finn Seshadri,agastyaraja@example.com,5489587853,"H.No. 51, Kanda Street, Chennai, Tamil Nadu",2020-10-18,No,Thai,49,3.32
+d6210384-479a-42e9-ad73-8bc88be5efaf,Vihaan Kapadia,yanne@example.org,01370043755,"53
+Parmar Road, Chennai, Tamil Nadu",2023-02-04,No,Italian,24,3.03
+ffc30d51-9490-429f-bcc7-3b8676dad7b7,Hritik Sekhon,ybanerjee@example.net,+910971661567,"449, Kale, Chennai, Tamil Nadu",2024-04-11,No,Chinese,32,4.27
+72ddb985-a2c1-4244-a86f-d1cd6445aca7,Mitali Salvi,jananibir@example.net,01842826702,"H.No. 04
+Lanka Marg, Chennai, Tamil Nadu",2022-08-19,Yes,Mexican,20,3.92
+487d3033-c29a-4931-a06f-a021e4b7b67c,Siddharth Ghose,vsubramanian@example.net,+914658171160,"28/488, Sane Chowk, Chennai, Tamil Nadu",2024-11-12,Yes,Italian,16,4.15
+956087db-3bd1-41bd-b24e-bcb1bfa6bfb9,Charvi Gole,wazirbala@example.org,3691822770,"23/628
+Kuruvilla Nagar, Chennai, Tamil Nadu",2023-04-26,Yes,Indian,45,1.36
+b5b84e0b-875c-4d55-981a-a220ec3fe00a,Sanya Kade,vedhikamuni@example.org,+911537291180,"66/262, Raja Ganj, Chennai, Tamil Nadu",2023-12-17,Yes,American,24,1.83
+759103b6-a538-4068-a7c3-7769f30babe9,Mugdha Majumdar,patelrobert@example.com,5935250633,"46/335
+Vasa Street, Chennai, Tamil Nadu",2020-09-29,No,Italian,13,4.38
+6d0fa992-2cfc-4752-bea8-d36ca537ccb4,Jai Zachariah,aishani31@example.com,+915474984322,"272
+Murthy Chowk, Chennai, Tamil Nadu",2024-05-17,No,Thai,49,3.98
+44a30767-a1ea-466d-b5eb-851207f2c203,Dhriti Bali,obaral@example.net,7566509831,"195, Khalsa Zila, Chennai, Tamil Nadu",2021-04-11,Yes,Italian,1,2.7
+dba37b9b-54b1-481e-994e-ae60b8c02408,Netra Rege,azaandutta@example.org,+919276746005,"08/431, Sidhu Street, Chennai, Tamil Nadu",2020-08-17,Yes,Chinese,49,3.69
+6e5b7013-ed74-4f6d-98c6-0c0e3192e6cd,Jyoti Doshi,champakanne@example.net,01002283691,"H.No. 431
+Sehgal Zila, Chennai, Tamil Nadu",2021-09-29,No,Thai,24,4.16
+48c39094-af7a-41bc-81b8-1303d2777a8e,Charan Anne,pallaadweta@example.net,07448670943,"H.No. 907
+Sahota Chowk, Chennai, Tamil Nadu",2024-07-17,No,Italian,24,2.19
+ec7eac8f-9f03-4712-9a47-7cab0806943d,Qushi Bala,pallavikeer@example.com,04247882947,"40/37, Gaba Zila, Chennai, Tamil Nadu",2023-07-10,Yes,Thai,27,1.09
+f67bfd92-6120-4507-bb33-8e0db2ab8fbe,Mitesh Koshy,senshivani@example.com,01928516779,"36/93, Om Chowk, Chennai, Tamil Nadu",2022-09-09,No,American,18,2.69
+6a0e4042-9ffd-46c0-961c-7c9a34900072,Charan Raja,rajagopalanzehaan@example.org,09306088995,"H.No. 613
+Sura Chowk, Chennai, Tamil Nadu",2020-02-23,Yes,American,23,1.62
+11bef431-ca5c-4de2-ab43-30a89efcf265,Gunbir Misra,valaforum@example.com,05955216069,"17
+Thakur Marg, Chennai, Tamil Nadu",2023-09-17,Yes,American,28,1.52
+f0c05159-cd73-4b12-9a1f-5d01a0aff153,Ijaya Kapur,xmutti@example.net,+919754846740,"83/648
+Sengupta Street, Chennai, Tamil Nadu",2024-02-21,No,Indian,42,3.46
+ff9065a8-feac-4e4e-a5bb-ccf7bb89d426,Yash Gara,issacyashvi@example.com,06748609535,"H.No. 29, Sarma Marg, Chennai, Tamil Nadu",2023-03-29,No,Indian,40,4.52
+118edaf6-7eba-479c-874e-6871091dcd3d,Balendra Gara,reyansh81@example.net,09040596761,"15/964
+Om Chowk, Chennai, Tamil Nadu",2020-09-19,Yes,Thai,39,2.63
+9f9f546c-bd92-4824-9015-3cce3220fcb5,Anjali Choudhary,jananichander@example.org,03525631155,"33/86
+Bose Chowk, Chennai, Tamil Nadu",2024-07-27,No,Italian,40,3.18
+c4aebd33-9d34-4a06-898c-08c129760162,Brinda Varkey,triyahanda@example.net,+917129661725,"81/786
+Sem Path, Chennai, Tamil Nadu",2021-04-08,No,American,11,1.38
+b581f2de-71ce-42b9-8609-e46378bc73b1,Lila Ahluwalia,arorakritika@example.org,02981174534,"01/067, Bose Zila, Chennai, Tamil Nadu",2020-02-27,No,Thai,28,3.14
+cda7c5f5-24a6-49f5-b701-20ea7498fa54,Agastya Reddy,udant62@example.com,+919690028464,"379, Wable Path, Chennai, Tamil Nadu",2023-10-09,No,American,50,2.76
+8db992d9-faf9-48c5-a90d-96b4fb6ea7ab,Lila Keer,gabrielshan@example.com,0087244667,"485
+Pathak Nagar, Chennai, Tamil Nadu",2023-02-08,No,Italian,21,2.28
+ce61f54e-426b-49c2-a317-2ef55dfeb6c2,Kalpit Pai,chokshichanchal@example.com,06933445304,"57/207
+Wason Circle, Chennai, Tamil Nadu",2022-12-20,Yes,Indian,49,2.4
+6d93a142-c463-4253-8cf1-1007ffd0f5f3,Nisha Ravel,tellaarin@example.net,+910992996858,"162, Bora Marg, Chennai, Tamil Nadu",2023-08-27,No,American,46,1.08
+1f744611-ea7e-4041-9cf4-99e7dbc58f9e,Ikbal Gupta,warinderbakshi@example.org,04688814746,"H.No. 236
+Baral Zila, Chennai, Tamil Nadu",2020-11-05,No,Italian,28,2.04
+bc2b1f4d-7360-4087-9c62-f51c56c3a6cd,Jack Sangha,patrick96@example.net,5078583060,"66
+Bath, Chennai, Tamil Nadu",2020-01-24,No,Mexican,31,1.22
+fcec8cde-eb2d-41e0-b5b9-6a4ad205ef09,Pranit Purohit,routmaya@example.com,+910719994475,"91
+Tandon Street, Chennai, Tamil Nadu",2020-03-13,Yes,Mexican,20,2.14
+9d968fd3-1748-46c7-8544-762719c6f9a4,Maya Gala,chandani74@example.com,0027984634,"91/68, Bail Ganj, Chennai, Tamil Nadu",2023-12-30,No,Chinese,33,3.2
+6ae15108-40ac-4b66-9a9f-df7146d57056,Yasti Hayer,darpan04@example.org,+916821217129,"22/015, Ramesh Ganj, Chennai, Tamil Nadu",2021-09-18,Yes,Chinese,27,3.66
+685286d5-c082-44e2-a8e6-a94b8eaa53a2,Vritti Mangal,mohammed52@example.org,05094211511,"H.No. 35
+Bhatnagar Path, Chennai, Tamil Nadu",2021-04-02,Yes,American,6,1.9
+55524359-3160-490b-8b64-0f7199158bef,Rachita Kalita,dayita52@example.org,1131425730,"04, Sandhu Circle, Chennai, Tamil Nadu",2024-07-11,No,Mexican,35,1.3
+f7483a8d-3db5-4ad0-9373-581b105f04ef,Alka Kala,kalaupadhriti@example.org,+912703693141,"19/35, Wagle Road, Chennai, Tamil Nadu",2023-02-02,Yes,Italian,1,4.66
+7156691f-922f-4ae1-962b-2ab17d48d4dd,Fariq Bakshi,umaster@example.org,8829100150,"27/51
+Bhargava Nagar, Chennai, Tamil Nadu",2020-09-19,Yes,Indian,49,2.84
+0d39532d-43b3-4c46-b767-be43ccca22ff,Lohit Doctor,tejas19@example.com,01194140275,"525
+Reddy Ganj, Chennai, Tamil Nadu",2024-02-24,No,Italian,1,3.16
+5ab2349f-f525-4e56-9287-4883d0513603,Eesha More,aurorabhavika@example.org,7122559460,"H.No. 62, Khare Nagar, Chennai, Tamil Nadu",2024-10-04,No,Thai,9,3.45
+82bff424-e25c-472f-9ef8-eb98cac33ad7,Hemang Anne,pushti58@example.net,07677273728,"298, Dubey Chowk, Chennai, Tamil Nadu",2021-09-16,No,Thai,40,2.77
+9f8773fa-a922-440a-ad24-9f88ab4a16de,Nitara Mane,parikhekani@example.org,+915439205388,"H.No. 160
+Nagarajan Chowk, Chennai, Tamil Nadu",2024-08-15,Yes,American,28,1.15
+d7eb05a4-7cfb-4bc4-9bda-e60093ba58d3,Rayaan Chandra,victor99@example.net,09973703910,"42/387, Atwal Chowk, Chennai, Tamil Nadu",2024-06-28,Yes,Indian,38,3.01
+896d16a8-55a7-4773-ad43-d1d77283cce9,Omya Banerjee,indrajitsandal@example.com,06147009979,"035, Sastry Zila, Chennai, Tamil Nadu",2020-08-15,No,Chinese,47,3.25
+a8434b79-7ea9-4738-b82c-ffbf454d69fa,Jairaj Reddy,fkaran@example.net,4424053214,"44/87
+Gokhale Circle, Chennai, Tamil Nadu",2020-06-14,No,Thai,16,1.16
+7503fa47-525e-4207-9be1-a0c6241758e2,Brinda Ray,mshukla@example.com,9833149338,"29, Krishnamurthy Circle, Chennai, Tamil Nadu",2021-08-28,No,Thai,18,4.59
+d39be4b6-0243-441e-a99c-06c7c91dc257,Urmi Nayar,zaitra59@example.org,04713741651,"84/09
+More Nagar, Chennai, Tamil Nadu",2020-06-22,Yes,Italian,32,4.57
+32a3477f-7b3f-498b-b3d1-0994229c3064,Zinal Loke,onkar37@example.com,3392470592,"32
+Mutti Street, Chennai, Tamil Nadu",2021-06-21,Yes,American,49,1.04
+e1196582-a2fc-408b-b588-10367ff04504,Nachiket Balay,atharvtandon@example.org,+917963662385,"34/60
+Butala Marg, Chennai, Tamil Nadu",2021-01-22,No,Thai,19,3.0
+df608aa0-0729-490c-b0ba-4856d910da3c,Chameli Chauhan,thamanisaiah@example.net,+910749853403,"H.No. 41, Bhagat Marg, Chennai, Tamil Nadu",2021-02-11,Yes,American,25,4.68
+ea6ec70c-0406-46e0-a3f5-813f602867cb,Bhavya Bahl,tanvi63@example.org,9263279877,"80/57
+Kaur Circle, Chennai, Tamil Nadu",2023-01-29,Yes,American,45,1.07
+e2950a39-a9a3-495f-bb53-ba1c38ddf0b6,Henry Halder,skeer@example.net,+913822069005,"H.No. 63, Dara, Chennai, Tamil Nadu",2022-07-27,Yes,Mexican,13,3.12
+17c31637-9eeb-4ace-8f47-bb602acf66df,Anika Mann,rvig@example.net,8397268386,"78/91, Nair Nagar, Chennai, Tamil Nadu",2020-04-04,Yes,Thai,13,2.48
+f83a0e63-6d49-4024-a751-714cd80503aa,Rushil Choudhury,rsangha@example.org,+911142853948,"30/882
+Morar Nagar, Chennai, Tamil Nadu",2023-01-26,Yes,Thai,9,1.23
+b68f37a8-3006-4d49-8456-716aa8a18de8,Warinder Sule,galasanya@example.org,+916736122369,"77
+Kuruvilla Road, Chennai, Tamil Nadu",2022-01-09,No,Thai,7,4.6
+b78e74ce-3e34-4377-8f0b-6953515996dd,Tarak Sawhney,kiaan98@example.org,8098573218,"317, Kumar Street, Chennai, Tamil Nadu",2021-02-14,No,Italian,30,1.88
+7b386d72-98cf-460a-a900-2dfc5602b552,Widisha Vig,masonshankar@example.net,7052711290,"H.No. 78, Dar Ganj, Chennai, Tamil Nadu",2021-11-20,No,Indian,21,1.87
+065a19b5-da8c-4f51-b60e-02be77e73dec,Qabil Bajwa,darshmenon@example.net,+914837108681,"15/19
+Vala Street, Chennai, Tamil Nadu",2022-01-21,Yes,Italian,20,3.25
+33d6b2b0-70a6-4792-9238-1f3516bb4feb,Nitara Shroff,liam27@example.com,03083942129,"39, Nayar, Chennai, Tamil Nadu",2020-03-23,Yes,Italian,13,4.31
+cd35d54e-3206-4542-8467-002151704b9b,Oni Dora,rajangaurang@example.com,+913451736386,"01/381, Kamdar Circle, Chennai, Tamil Nadu",2022-03-15,Yes,Indian,12,1.56
+07325e3f-5777-45f4-8b8e-25a77990946f,Zayan Kothari,nilima98@example.net,02009835727,"H.No. 307
+Sama Street, Chennai, Tamil Nadu",2023-06-25,Yes,American,6,4.32
+cb9c5f56-498b-4e65-aca9-fb45a054337e,Yashasvi Rattan,andrewagrawal@example.org,09625131869,"H.No. 098
+Vyas Road, Chennai, Tamil Nadu",2024-02-18,Yes,Mexican,28,2.16
+073eae6e-5adf-499e-b701-a4282e812054,Oni Solanki,hitesh44@example.com,03198099885,"17
+Shukla Path, Chennai, Tamil Nadu",2022-04-16,No,Thai,35,3.7
+604d3352-2cf7-4897-aa06-04df39775697,Timothy Iyer,ridhi13@example.com,2493981845,"328, More Ganj, Chennai, Tamil Nadu",2021-11-16,No,Thai,18,4.44
+1888bce5-2839-411f-9429-29d83642167f,Suhani De,yash92@example.net,02882865766,"77/984
+Lad Marg, Chennai, Tamil Nadu",2022-01-21,Yes,Italian,41,3.08
+52592e51-4ee3-45d2-94a5-f3ac8ce832e9,Ekaja Munshi,soninaksh@example.com,09274483023,"997, Ganesh Road, Chennai, Tamil Nadu",2020-08-01,Yes,Thai,50,4.46
+f8b5b8b1-c66e-4453-9f07-5eb0a937536c,Lajita Kar,usoman@example.net,+914874961198,"32
+Ravel Marg, Chennai, Tamil Nadu",2022-04-17,Yes,Italian,27,4.27
+1d5c4537-8114-4661-aa38-52b8bcbf1822,Tarak Wali,ywali@example.com,4787329182,"88, Murthy Road, Chennai, Tamil Nadu",2022-11-22,No,American,6,1.58
+4c2d0d5e-dadd-45fb-bdf6-8f7cfaafd839,Dhruv Khanna,thakurdayamai@example.org,6794513199,"53/45, Minhas Ganj, Chennai, Tamil Nadu",2020-08-06,Yes,Mexican,49,4.36
+9cdaa7d0-32d6-4b68-892e-33ae00af3ba3,Xiti Bera,vsule@example.org,8667876467,"H.No. 71
+Nori Path, Chennai, Tamil Nadu",2021-08-14,No,American,46,1.32
+94d414c4-a118-4384-a16c-e9d898c4849d,Patrick Babu,iryabatta@example.org,06118179171,"H.No. 46, Sarin Street, Chennai, Tamil Nadu",2023-03-30,Yes,Chinese,50,2.63
+835fc620-0c8a-4117-89d9-6c4504a3b297,Shivani Jaggi,schandran@example.org,3988559837,"H.No. 24
+Bala Road, Chennai, Tamil Nadu",2024-09-17,Yes,Indian,9,3.95
+9da98c41-4bd9-4c91-b2ba-79f461c758cb,Yuvraj Hayer,avni43@example.com,+913504593224,"51/27, Savant Marg, Chennai, Tamil Nadu",2020-03-18,Yes,Indian,24,4.95
+2ecbff58-6789-41a2-bb3e-2e93be177d46,Nirja Dixit,uppaldamyanti@example.org,+913877682444,"H.No. 20
+Sinha Marg, Chennai, Tamil Nadu",2020-05-31,Yes,American,22,1.4
+28fb4625-adc9-49f6-af93-01578b89f83f,Reyansh Dhawan,zarnaoommen@example.net,07803319662,"72/41, Minhas Marg, Chennai, Tamil Nadu",2022-05-25,No,Mexican,32,1.29
+9a2879dd-8b2e-46cd-898c-7b6f0c21fe9a,Samar Murty,chadhaojas@example.net,+915564688777,"771, Manda Path, Chennai, Tamil Nadu",2022-08-17,Yes,Indian,26,2.52
+cf69390a-648d-4e70-b504-ec776f423542,Jeevika Palla,mananbabu@example.org,1395206260,"H.No. 57
+Kapadia Road, Chennai, Tamil Nadu",2024-04-15,No,Chinese,38,4.35
+c5fdda76-186c-4fff-a81d-3deadf2871cc,Kamya Gour,mahika48@example.org,3081422681,"63/880
+Pradhan Path, Chennai, Tamil Nadu",2022-06-22,No,Indian,30,4.65
+58cf7544-0471-4afc-95a7-b9d219dd919c,Faras Doctor,deshmukhdhriti@example.net,09683360206,"771
+Dora Nagar, Chennai, Tamil Nadu",2022-05-04,Yes,Italian,10,4.33
+2e9a24ea-d72b-4a67-a2b4-02600e213209,Oliver Rao,kbassi@example.org,+914036987681,"883, Mann Marg, Chennai, Tamil Nadu",2021-08-10,No,Chinese,36,1.06
+4cdb888a-7715-492d-9259-e5ca748565c4,Michael Madan,rishi73@example.com,+916971554505,"14/75
+Sheth Path, Chennai, Tamil Nadu",2022-04-25,Yes,Mexican,13,3.25
+926b90b0-4b0d-4f58-b1f2-60066a8522a2,Lajita Dube,zsharma@example.com,9533455039,"50/59, Sanghvi, Chennai, Tamil Nadu",2022-03-06,No,American,49,4.16
+57eafe37-78dc-4d0f-a61a-61b1f13a3399,Imaran Wason,nnath@example.net,+919837040377,"74/335, Raghavan Marg, Chennai, Tamil Nadu",2021-12-22,Yes,Chinese,16,4.71
+1ae6c51e-cc10-492b-b0e9-4421ba87e32d,Ekansh Konda,dhruv89@example.net,+915902633190,"11/12
+Devi Circle, Chennai, Tamil Nadu",2024-08-07,No,American,22,3.58
+d35e7308-dd49-4498-8012-a0112c7d85b7,Daksha Sidhu,manbir12@example.net,06405780448,"87/844, Tak Road, Chennai, Tamil Nadu",2022-03-11,Yes,Italian,43,4.0
+95c23bb8-51b6-4ae1-836b-b34ffda09639,Gaurangi Deshpande,champakkapadia@example.net,+917833809206,"720
+Chanda Zila, Chennai, Tamil Nadu",2022-11-29,Yes,Indian,44,4.62
+ab1796fd-6174-4e28-aea1-c0d0b252a61e,Raagini Bakshi,aarini34@example.net,07960420191,"35/008, Dugal Street, Chennai, Tamil Nadu",2021-11-15,Yes,Chinese,41,3.53
+95aecc25-e27a-4a89-b574-35542a343aa9,David Sinha,daksha37@example.org,+910538270258,"26/804
+Suresh Marg, Chennai, Tamil Nadu",2022-08-12,No,Italian,40,3.93
+998e7170-2bb3-45da-9b35-1a00a76b30cf,Leela Bhat,xranganathan@example.net,03042155662,"60
+Bhagat Zila, Chennai, Tamil Nadu",2020-05-16,Yes,Indian,9,1.94
+dbf1b893-a5c4-47b1-92a2-316d900d214e,Tanvi Deshmukh,nsant@example.com,0453280798,"13/76, Grewal Nagar, Chennai, Tamil Nadu",2022-06-12,No,American,41,1.7
+a010687d-3116-4d3f-a113-34322231ff57,Manan Bajaj,apillay@example.net,2777951392,"H.No. 12
+Tak Path, Chennai, Tamil Nadu",2020-04-17,No,American,47,2.26
+69435e51-3edc-4905-8b4a-f374fc399784,Abhiram Sangha,zaidvenkatesh@example.org,03259341899,"22/622
+Pillai Ganj, Chennai, Tamil Nadu",2024-01-28,Yes,Thai,10,3.2
+7c43a693-aeab-4412-8c7c-113653f5c933,Hamsini Karan,hmahajan@example.net,+912591195874,"H.No. 245
+Basu Street, Chennai, Tamil Nadu",2020-12-20,No,Italian,35,1.18
+85c996fd-06c7-48a0-a4bd-cf3e0f6fa7dd,Vidhi Mukhopadhyay,dgulati@example.com,1699852025,"17
+Nazareth, Chennai, Tamil Nadu",2023-07-14,Yes,Indian,3,3.62
+4ca4af80-4b77-47a4-a7bc-c323dca32117,Manan Chandra,chadhabimala@example.net,+910674205743,"70, Yadav Street, Chennai, Tamil Nadu",2022-10-05,No,Mexican,40,4.69
+aab9f9d4-c2ba-4fe6-9d08-026eac9a2b8b,Diya Tandon,yauvani05@example.com,09347439345,"H.No. 639, Goyal Road, Chennai, Tamil Nadu",2022-04-26,Yes,Mexican,42,2.14
+95f15526-8fb5-43a8-ad0c-72e786c373c5,Odika Morar,devdatta@example.org,08741528244,"022, Ramanathan Circle, Chennai, Tamil Nadu",2021-01-25,No,American,9,2.73
+1df53acf-de72-41a5-b3bb-fc9022b5c844,Jeet Mukherjee,smagar@example.com,1115193974,"10
+Saxena Road, Chennai, Tamil Nadu",2020-02-24,Yes,Mexican,28,3.45
+6d0168fc-7a3c-480d-bf4d-96aad019e819,Charita Buch,rayaansane@example.org,+919226614732,"H.No. 386
+Dua Circle, Chennai, Tamil Nadu",2020-03-31,No,American,1,1.36
+466e2d8f-4e62-4d57-8ed5-4c806a790a58,Vedika Mann,nilimabedi@example.com,03110850821,"54, Grover Path, Chennai, Tamil Nadu",2020-04-02,No,Mexican,4,3.93
+449c62d5-52ad-4022-a8fa-a508b36b17de,Watika Palan,mbhakta@example.org,+916712623388,"58/679, Rai Path, Chennai, Tamil Nadu",2023-02-27,Yes,Thai,34,3.2
+0fa734c0-e1ab-4707-93cb-977f11304969,Irya Kohli,ekaja51@example.org,2733326049,"H.No. 70, Bala Marg, Chennai, Tamil Nadu",2022-07-06,Yes,Mexican,12,1.56
+b9760c66-2702-4d53-8cee-93a1343a85b8,Aashi Bath,anirudh41@example.org,4998814931,"H.No. 50, Soman Zila, Chennai, Tamil Nadu",2020-07-06,Yes,Mexican,37,3.86
+21f879b0-2d5f-454b-9ea4-f369322a24ac,Max Vaidya,wwalla@example.net,+914313571185,"23/955
+Setty Path, Chennai, Tamil Nadu",2020-07-24,Yes,Thai,28,1.09
+de59b168-df60-4e65-962c-c733810e43ff,Gaurangi Puri,sdutta@example.com,2463811497,"96/10
+Sen Path, Chennai, Tamil Nadu",2023-04-22,No,Mexican,5,2.45
+830803a7-f6eb-415e-977c-ec5a129896ce,Rohan Manda,kurianjasmit@example.net,1146025609,"84, Seshadri Zila, Chennai, Tamil Nadu",2024-04-16,Yes,Mexican,25,1.75
+ae877b06-8459-4b85-af55-75f5fd444046,Hredhaan Sani,karnathan@example.com,+914595181440,"62
+Khosla Ganj, Chennai, Tamil Nadu",2021-03-13,Yes,Thai,21,3.19
+2da34a3f-c348-4263-8608-7a5b3ee2b329,Sneha Sarma,anusha11@example.net,04381102880,"72/88
+Contractor Road, Chennai, Tamil Nadu",2023-04-27,No,Thai,17,2.55
+cb74727c-af12-4d6b-92fa-02f814ed813f,Priya Baria,deshmukhsamesh@example.com,+913982335543,"H.No. 82, Thaman Road, Chennai, Tamil Nadu",2022-12-02,No,American,4,4.67
+b53e7e9f-a5b2-4c79-86ee-bd882aab818c,Warda Nayak,perigayathri@example.net,4191933598,"H.No. 53
+Memon Circle, Chennai, Tamil Nadu",2020-08-03,Yes,Italian,41,2.37
+9767175a-a0f8-4c4a-bc5c-af1e3ed798a9,Harrison Purohit,jhayre@example.com,08321034650,"48
+Rout Circle, Chennai, Tamil Nadu",2022-06-27,Yes,Thai,11,3.44
+f46c7837-b41c-4edb-97d5-b0ec9232919f,Siya Agate,ggrewal@example.net,00586526612,"83
+Deol Street, Chennai, Tamil Nadu",2024-05-16,No,Mexican,40,1.2
+24bf345b-ec85-466a-b11a-42364b83ee3d,Nidra Zacharia,nagiansh@example.com,8697152772,"H.No. 437, Baral Nagar, Chennai, Tamil Nadu",2021-10-20,Yes,Indian,50,4.12
+4ecd1404-8b80-46f3-a7ac-002cb64d79eb,Anya Dhillon,nihalkeer@example.org,05612810703,"255
+Munshi Nagar, Chennai, Tamil Nadu",2021-04-05,No,Italian,32,1.58
+e9f1c039-2f15-44c6-b1ba-6b8e256fa06e,Guneet Sarkar,bailviraj@example.net,6650820065,"H.No. 131
+Buch Path, Chennai, Tamil Nadu",2023-06-12,Yes,Thai,41,1.87
+357befff-882d-4ddf-b120-5dacdac6ec14,Bakhshi Verma,mannanjairaj@example.net,+912473598398,"12, Dugal Nagar, Chennai, Tamil Nadu",2022-03-22,No,Indian,26,1.77
+0cb5103e-98a2-4058-9cb9-cf676b8c25e3,Christopher Char,jagat60@example.net,2720214311,"80/67
+Bawa Road, Chennai, Tamil Nadu",2020-09-07,Yes,Indian,16,2.96
+43a98f78-50aa-4086-8891-71c55a38cda9,Jack Sodhi,chakradhar45@example.com,+910232696217,"H.No. 327, Murty Circle, Chennai, Tamil Nadu",2020-05-20,No,American,43,4.5
+af48829e-0550-4672-babe-4d427097811d,Anjali Kurian,kaulqadim@example.com,+910137718928,"14/684, Rau Nagar, Chennai, Tamil Nadu",2024-07-11,No,Thai,16,4.87
+c5dc7e52-a054-46a6-9eae-397b553e0792,Bhavini Pathak,yadavi40@example.net,01890625072,"28
+Sinha Road, Chennai, Tamil Nadu",2020-01-17,Yes,Chinese,37,3.9
+8981afc2-64b1-426b-88db-f1b500c39777,Rehaan Chada,sarrafrajata@example.org,2038183563,"H.No. 452, Dara Circle, Chennai, Tamil Nadu",2023-11-13,Yes,American,33,1.91
+9807fd3f-2912-4f38-8cd7-25bf600fc14b,Yuvraj Vohra,dakshchaudhari@example.com,8897538853,"H.No. 21, Sawhney Zila, Chennai, Tamil Nadu",2024-08-10,No,Italian,24,3.15
+d6a57c1d-3ecd-413f-aaf7-72221c9f1e08,Advay Varughese,odoshi@example.net,+919579263865,"H.No. 413
+Raman Chowk, Chennai, Tamil Nadu",2023-10-28,Yes,Chinese,41,1.99
+f954ff97-4ffd-4784-92fa-81d7a52d05b9,Sudiksha Bhatnagar,xtiwari@example.com,00350293204,"67
+Johal Path, Chennai, Tamil Nadu",2021-07-29,No,Italian,11,4.38
+8979e338-c18e-4c02-91b4-68312c93be7e,Rajata Sankar,prabhuhardik@example.org,+919443434979,"10/953, Purohit Circle, Chennai, Tamil Nadu",2024-01-02,Yes,Indian,20,4.43
+ecdcf83f-4ff8-495f-b4b9-84bad8fd8be3,Netra Arya,wahab46@example.org,05413454242,"H.No. 87, Chaudhari Marg, Chennai, Tamil Nadu",2021-03-03,Yes,Mexican,20,4.34
+017ad6a9-c686-42fe-950a-ca3eeb14a795,Janani Sekhon,arya87@example.net,05145142031,"H.No. 93, Badal Marg, Chennai, Tamil Nadu",2022-07-05,Yes,American,47,3.43
+0f785765-57c9-4bc1-a0fe-c9ddf2d2e284,Zarna Nadig,pingleyamini@example.org,9442586189,"732, Wali, Chennai, Tamil Nadu",2021-10-12,Yes,American,44,1.7
+d0d51fce-b53d-423d-acd0-c1d64a68b30a,Kala Din,warhi28@example.com,9554354438,"18/95, Deshmukh Zila, Chennai, Tamil Nadu",2021-10-25,No,American,25,4.92
+67f1c7c5-1184-4933-9f74-ee8bfd164611,Abhimanyu Nagar,aryadin@example.com,+911795903744,"H.No. 072, Kashyap Nagar, Chennai, Tamil Nadu",2021-02-09,No,Chinese,9,2.89
+1e1497c3-e60d-418f-b248-ab8aaea972ae,Falan Chaudhary,mannbhavya@example.org,09978924413,"41/73, Mane Zila, Chennai, Tamil Nadu",2024-06-12,No,Thai,10,1.36
+08d9731b-cb3a-40f2-ba7e-263c400b9813,Hamsini Kumer,shivansh86@example.com,03881197988,"61/205, Warrior Road, Chennai, Tamil Nadu",2021-03-26,Yes,Chinese,31,1.66
+1b09395b-c3b1-4a4a-9fbe-f380a8691362,Abhiram Nadig,ykohli@example.com,3917250082,"H.No. 956
+Bera Street, Chennai, Tamil Nadu",2022-11-07,No,Indian,39,2.91
+9cabc0ef-427a-4c71-ac25-2d6c781c259b,Pranav Bhalla,keyasaini@example.com,08973398612,"56, Chowdhury Path, Chennai, Tamil Nadu",2022-10-03,No,Thai,8,1.5
+cba72739-13ba-4277-854a-b12dd11f1482,Baghyawati Koshy,lbhatnagar@example.com,08396596855,"206
+Guha Ganj, Chennai, Tamil Nadu",2023-12-07,Yes,Mexican,28,3.29
+7b0c0756-774c-48e4-be84-f67a56f8f272,Maanas Rajan,zinal36@example.org,+917739491345,"34, Kata Road, Chennai, Tamil Nadu",2024-11-15,Yes,Chinese,29,4.02
+840c9b28-a2a8-498e-b65d-34d676d7172a,Vidhi Pai,ctripathi@example.com,+915797835170,"H.No. 83, Grover Marg, Chennai, Tamil Nadu",2022-10-25,No,American,31,2.11
+ec4f68b3-f1fa-4c8d-92cd-4f8fb552cd4a,Gagan Mangat,ftank@example.net,02187422588,"H.No. 063, Dara Path, Chennai, Tamil Nadu",2021-05-22,No,Mexican,22,4.04
+484e55d0-8087-4c34-bc3c-6cbf4e5ba474,Yochana Nanda,ganesanwarjas@example.com,09715847959,"H.No. 098, Karpe Nagar, Chennai, Tamil Nadu",2020-03-02,Yes,Mexican,43,2.32
+f8ca0827-fb4e-48da-af80-ed38c6636e83,Jalsa Jaggi,bhatakshay@example.com,08626362312,"71/76, Keer Circle, Chennai, Tamil Nadu",2021-10-29,Yes,Mexican,38,3.28
+ff9bca50-10ff-402e-a1fb-fc75c9c186ac,Harini Walla,leena14@example.org,09367272782,"24
+Bhatia Zila, Chennai, Tamil Nadu",2024-03-27,Yes,American,12,1.96
+038e77ee-ea85-4db4-8063-dc43511d5ddb,Upkaar Zacharia,shravya40@example.net,6169278424,"H.No. 26, De Chowk, Chennai, Tamil Nadu",2023-07-13,No,Italian,4,1.56
+48cad14e-fc21-4b41-8454-57c55e4817e1,Patrick Choudhary,gaurang91@example.org,6703430440,"20/01, Srinivas Path, Chennai, Tamil Nadu",2022-07-12,Yes,Italian,31,4.63
+b1b0e138-1be6-47e3-a3d8-b3f5260fce55,Aryan Arya,vedikapalla@example.com,+917668160247,"66/064
+Sarkar Circle, Chennai, Tamil Nadu",2021-09-06,No,Indian,35,3.29
+ff296fb5-58e6-44af-ba33-820a90fb8284,Jeet Dasgupta,oraj@example.org,+919533161952,"722, Kale, Chennai, Tamil Nadu",2022-01-08,Yes,Thai,6,2.46
+e413fc4d-7fcd-4c9c-b7da-580f0e6f247c,Jalsa Oza,veer74@example.com,00133129503,"27, Peri Marg, Chennai, Tamil Nadu",2023-04-23,No,Italian,37,1.66
+32713238-7e07-4e67-9d7a-3527626c2e40,Ubika Dhingra,kandayug@example.net,0187527714,"H.No. 819, Sule Road, Chennai, Tamil Nadu",2022-08-18,Yes,Indian,8,4.77
+9c5f7b97-7dcb-4970-8579-bcccdacc19d8,Aadhya Dasgupta,warinder60@example.com,2354626529,"61/86, Acharya Circle, Chennai, Tamil Nadu",2023-07-03,Yes,Mexican,41,2.21
+9f733909-3e36-41ff-9d42-12c390501a1a,Tripti Chauhan,nilimaprasad@example.org,3111337935,"H.No. 86
+Bhakta Marg, Chennai, Tamil Nadu",2023-03-14,Yes,Chinese,24,3.71
+1123b12a-279a-4e97-ade2-38807fcf8132,Simon Krishnamurthy,saanvi57@example.org,+911119354754,"64, Mistry Nagar, Chennai, Tamil Nadu",2023-04-21,No,Chinese,14,4.75
+3a593701-ee20-4ae0-abe7-62064138dd6d,Brijesh Parmer,charbenjamin@example.net,5628655701,"H.No. 851
+Toor Ganj, Chennai, Tamil Nadu",2020-12-28,No,Mexican,16,1.64
+9b089646-364f-4630-aaf8-edb7c61f7d98,Mitali Tandon,yogiowen@example.com,07369973577,"25, Mukhopadhyay, Chennai, Tamil Nadu",2023-12-14,No,Mexican,46,1.18
+596e3b78-9e14-4ad6-b79a-aaae60e4985a,Om Kaur,jhalak91@example.org,+918980746874,"96/07, Karpe Nagar, Chennai, Tamil Nadu",2021-10-06,Yes,Indian,15,3.68
+c3c15ad5-2bc9-4859-bbcf-d4dcd1035406,Chaitaly Sem,vaidyadarika@example.com,02788066279,"H.No. 17
+Sangha Path, Chennai, Tamil Nadu",2021-09-30,Yes,Thai,37,2.15
+c8483682-8520-4090-9ce4-5a7d74d0e5c0,Xavier Atwal,dugarekavir@example.net,+915584666697,"20/12, Desai, Chennai, Tamil Nadu",2021-01-16,Yes,American,9,2.11
+133979cb-05d2-4499-9bd7-a4123fdcbe33,Sanaya Bail,varghesearya@example.org,+918655862625,"H.No. 711
+Talwar Zila, Chennai, Tamil Nadu",2023-09-19,Yes,Italian,20,4.91
+8e9bc66a-e4fc-4a4f-8fff-cc8c5055844e,Yamini Kumer,gaurora@example.net,05935213508,"782, Choudhury Path, Chennai, Tamil Nadu",2022-09-08,Yes,Chinese,35,1.77
+ee05df33-5d76-4d58-bfa7-ea83b2c40a6e,Tanveer Dubey,yvaidya@example.net,7693652026,"H.No. 19
+Padmanabhan Marg, Chennai, Tamil Nadu",2020-10-28,Yes,American,12,4.7
+814beb64-f485-4be6-b683-bc0df894d72f,Vedant Palla,vanya54@example.com,01524125103,"51/356
+Loyal Marg, Chennai, Tamil Nadu",2023-11-06,No,Chinese,42,1.07
+c019fd1b-9b8b-4bef-86e1-d7902d14def0,Maanav Hora,wnaik@example.net,8737369293,"109, Raj Path, Chennai, Tamil Nadu",2022-04-09,Yes,American,49,4.58
+0d67364d-a9a6-44b4-9d1b-0bd1f6915359,Upadhriti Butala,riadhawan@example.org,5410842474,"24
+Behl Zila, Chennai, Tamil Nadu",2023-08-29,Yes,Italian,11,2.86
+4b80fec2-9170-4c6b-a5ee-58bd06b0f05b,Indrajit Sengupta,xdin@example.com,7594598646,"65/668, Barad Street, Chennai, Tamil Nadu",2021-04-20,No,Italian,42,4.51
+75590b1e-f30e-4313-b898-e1072439095e,Oliver Dubey,tejas75@example.com,08833505160,"49
+Pau Chowk, Chennai, Tamil Nadu",2024-09-20,Yes,Indian,4,1.18
+cb32b5ee-5122-4613-b5c5-6924ed558add,Imaran Sarkar,chandresh99@example.com,09709823903,"H.No. 12, Mishra Road, Chennai, Tamil Nadu",2021-03-22,No,Chinese,2,2.05
+f6c75c05-aa07-4d5b-b3c4-98cef946e845,Watika Sem,nisha28@example.net,+916608234611,"H.No. 27
+Yohannan Chowk, Chennai, Tamil Nadu",2020-06-23,Yes,Thai,23,3.04
+a7049bde-af17-41fd-8501-b842b1a95553,Anita Mitter,onidutta@example.org,2700347200,"66/534, Bajwa Path, Chennai, Tamil Nadu",2020-06-20,No,Chinese,44,3.16
+9e333e2e-49b3-4c9a-b2d0-fbf4b9e8307f,Viraj Kalla,ektakhosla@example.net,07094273993,"826
+Sha Road, Chennai, Tamil Nadu",2021-11-30,No,Chinese,21,2.82
+d21a793a-5fa9-41c0-98bd-88635d8c034e,Avni Warrior,leenachauhan@example.com,+919449649613,"69, Doshi Zila, Chennai, Tamil Nadu",2020-11-03,No,Indian,50,2.02
+19b7e2c4-669f-488c-bddd-da68ed6c0d53,Balveer De,hanne@example.org,+911371701328,"03/42, Kata Circle, Chennai, Tamil Nadu",2021-11-08,No,American,32,1.05
+70fb2b97-bf53-404d-8440-2673c340ae3f,Sneha Bhakta,praneelkrishna@example.com,05854562320,"H.No. 585
+Varkey Nagar, Chennai, Tamil Nadu",2022-01-23,No,Chinese,10,1.17
+a7508206-8cb9-40e5-be10-6414d07d95e1,Sai Ganesan,yatansibal@example.net,06556376921,"16, Chacko Ganj, Chennai, Tamil Nadu",2021-10-16,No,Chinese,18,2.52
+27c20850-1bc0-4f3a-b60a-5927e8bb1efc,Radha Pradhan,girindrarout@example.org,+910235309624,"635
+Dugar, Chennai, Tamil Nadu",2020-03-07,No,Thai,41,1.26
+53b2ce07-ed01-4921-927c-03bb44dfc66f,Wridesh Hari,raghav49@example.net,06743069686,"68
+Desai Nagar, Chennai, Tamil Nadu",2022-06-05,Yes,Chinese,34,1.75
+832fec90-1607-4fc6-b31a-0ab401e15149,Kritika Narayan,kamalanadkarni@example.net,05260945674,"87/523
+Padmanabhan Road, Chennai, Tamil Nadu",2021-01-17,Yes,Chinese,3,3.74
+548edc1e-4f35-4d02-9c0f-4d257926ab77,Libni Kota,darpanmunshi@example.org,04872988422,"H.No. 949
+Biswas Path, Chennai, Tamil Nadu",2020-08-10,Yes,Mexican,29,3.66
+ec7bc71d-f8d2-4b2c-8280-86799b627260,Urmi Kulkarni,pooja99@example.org,+919169032240,"136, Gulati Road, Chennai, Tamil Nadu",2022-11-29,Yes,Indian,43,2.4
+97747369-d534-40c4-a6d0-ab7b538ae7b2,Arya Lal,deolaradhana@example.org,2570068915,"H.No. 422
+Randhawa Path, Chennai, Tamil Nadu",2023-08-19,Yes,Mexican,15,1.62
+b96d3302-5a8d-48a8-9fee-d264b447135f,Ekaraj Comar,avi86@example.net,3725982768,"10
+Sachdev Path, Chennai, Tamil Nadu",2023-10-26,No,Indian,38,2.44
+a73bfc18-8883-403f-bb2c-4d2d72069f6f,Ethan Wadhwa,pdash@example.com,08404792587,"H.No. 996
+Ghose, Chennai, Tamil Nadu",2020-03-08,Yes,American,26,3.38
+ee74d107-2dfc-4160-b080-e53ee4e019f5,Tarak Dey,nikita75@example.com,+911947709082,"09/73, Krishnamurthy Nagar, Chennai, Tamil Nadu",2020-06-04,Yes,Chinese,34,2.28
+01bebdea-ae47-4d33-a28f-4a4d128a3538,Sanaya Khurana,geraomisha@example.org,+916170615802,"H.No. 37, Choudhary Zila, Chennai, Tamil Nadu",2021-10-31,No,Indian,31,2.56
+a39e8f55-153e-4769-99bb-70fd8cdef061,Hemang Wali,pushti00@example.net,09232334285,"H.No. 44
+Khurana Chowk, Chennai, Tamil Nadu",2020-06-12,No,Mexican,29,3.24
+76c43f61-cce6-4028-b4d1-a42951f78889,Triya Purohit,mandurvashi@example.net,+916363757816,"07/607, Ramakrishnan Ganj, Chennai, Tamil Nadu",2024-07-19,Yes,American,16,3.64
+f26b2e1e-5d60-4d6b-9884-1bea7a7736da,Tanay Kata,aashi71@example.com,2339550105,"H.No. 469
+Vala Zila, Chennai, Tamil Nadu",2024-04-01,No,Chinese,10,1.38
+5c356103-40b8-4903-bd9a-659a2b24b75e,Riya Dutt,pmand@example.net,5773498523,"69/27
+Nigam Chowk, Chennai, Tamil Nadu",2022-03-26,No,Italian,39,2.8
+34f1a87e-419e-4da5-9077-ab32d210b0f3,Agastya Basu,cherianidika@example.net,+912771761968,"00
+Rai Path, Chennai, Tamil Nadu",2024-11-19,No,Mexican,48,1.92
+7b032623-f26a-436e-a47f-69ccb1dac1e9,Varsha Grewal,zayan60@example.com,03085891369,"495
+Gaba Ganj, Chennai, Tamil Nadu",2020-05-21,Yes,American,39,1.45
+574c6935-9071-4ac2-a58e-643b3b1ad36d,Maanas Saha,odoshi@example.org,+913956867227,"47/169
+Patil Marg, Chennai, Tamil Nadu",2021-09-03,No,Italian,44,2.93
+032a9958-6f9c-48b0-b969-4b36283e59e3,Chatresh Verma,saumyashanker@example.net,+911362427367,"80/25
+Kant Street, Chennai, Tamil Nadu",2020-02-15,Yes,Mexican,46,3.57
+d39f9b4e-2cf5-431e-8ef6-8857c4139676,Guneet Raju,dsem@example.net,+910215100361,"00, Ramaswamy Chowk, Chennai, Tamil Nadu",2021-10-17,Yes,Thai,4,2.45
+cdf9fada-a444-4dd8-b19b-7fc3f70b6b93,Tejas Anand,rachana07@example.net,01685698428,"27/94, Purohit Street, Chennai, Tamil Nadu",2020-01-04,Yes,Chinese,50,4.57
+e405de40-53b2-4ab0-ba30-2c752e6adc6b,Ekiya Saraf,chaudhariekapad@example.com,05429203953,"81, Edwin Zila, Chennai, Tamil Nadu",2021-01-07,Yes,Thai,37,3.55
+f5a840ae-004c-4f86-b3a4-8629318a51b4,Vansha Mani,neha94@example.org,6297889898,"95/74, Kata Street, Chennai, Tamil Nadu",2024-01-03,No,Italian,4,4.91
+a104dabf-3b10-4867-8727-6086882ef8ed,Matthew Kalita,qabilganesh@example.org,0007178616,"780
+Kakar Chowk, Chennai, Tamil Nadu",2022-02-27,No,Italian,17,2.63
+c7e7c399-3fd8-4635-a5cd-47ecaea87ed7,Aadhya Sarna,xkhurana@example.com,07093482877,"H.No. 899, Bora Nagar, Chennai, Tamil Nadu",2020-01-16,Yes,Thai,10,3.13
+1fa3b4b7-c216-4ac0-aa05-43422f307631,Praneel Choudhury,aahana92@example.net,5342253512,"01/864, Pall Ganj, Chennai, Tamil Nadu",2021-04-17,No,Indian,45,1.07
+05dee087-d91f-4312-82a8-cadfa4c1433f,Hredhaan Sarkar,venkataramanvritti@example.net,9324917483,"20/075
+Sinha Street, Chennai, Tamil Nadu",2024-08-08,No,Indian,27,1.13
+a1bef8c0-2721-41b7-8395-b731b96f393c,Nihal Mody,tnagar@example.net,07860950974,"53/64
+Kala Marg, Chennai, Tamil Nadu",2020-12-18,Yes,Italian,22,4.82
+548d2527-2e06-4ddf-874d-e026bf065f3d,Luke Dayal,simon45@example.org,02016006232,"06/297
+Shah Circle, Chennai, Tamil Nadu",2021-04-04,Yes,Mexican,13,3.04
+75397916-2e71-4e23-8fbb-e4bf0ddceca2,Darsh Kumer,abiswas@example.com,07779449962,"21
+Kaur Road, Chennai, Tamil Nadu",2022-11-30,No,American,27,1.3
+8936c54e-0a81-48c8-bd26-cbdcb7953612,Zansi Chandra,talwarupma@example.net,8916533416,"28/07, Kothari Marg, Chennai, Tamil Nadu",2023-07-27,No,Indian,43,4.14
+39d3225d-2d29-4da4-b446-c47a61f3f846,Ayaan De,inaya39@example.net,05374806475,"20
+Korpal Nagar, Chennai, Tamil Nadu",2022-11-17,No,Chinese,42,3.98
+eeb5727f-c51d-414d-ab67-54cdf20347e3,Gopal De,tshetty@example.com,5795308171,"477
+Madan Ganj, Chennai, Tamil Nadu",2020-02-10,Yes,Italian,31,4.21
+791ccb86-6103-4ea8-93db-92e7512db2d0,Arya Sagar,bina90@example.com,+910567934362,"20/415, Lala Ganj, Chennai, Tamil Nadu",2022-06-08,Yes,American,32,3.77
+cd0781f0-bd61-478f-b20e-9b286032f62d,Jack Dar,brinda99@example.net,03052678848,"H.No. 50, Vasa Marg, Chennai, Tamil Nadu",2022-09-04,No,Chinese,38,4.43
+58f731e2-19b0-42a1-9564-6cbbc35efdc6,Chakradev Manda,uloke@example.net,+910165781747,"H.No. 664
+Kari Zila, Chennai, Tamil Nadu",2020-03-17,Yes,Mexican,38,2.14
+7431c6eb-79e2-4222-8c93-6a9d290c3ac1,Sai Dave,kaulwyatt@example.com,3985990167,"640, Lanka Road, Chennai, Tamil Nadu",2023-01-03,Yes,Indian,13,3.17
+f1775bcb-5423-4928-8017-3af629127d59,Lucky Sastry,ybhavsar@example.com,5943434450,"65/02
+Rastogi Road, Chennai, Tamil Nadu",2021-07-19,No,Mexican,19,2.45
+c7aeda5a-2b7b-4e5e-99f3-a8aa19c1baa8,Adweta Handa,flal@example.com,05393882806,"H.No. 299
+Ratta, Chennai, Tamil Nadu",2021-10-07,No,Indian,16,1.15
+756e00e5-0abc-4b00-bcbc-a35a3f33c07d,Ryan Mitra,mahajanfrado@example.com,+910870295259,"17/168, Krish Road, Chennai, Tamil Nadu",2020-10-09,No,American,12,3.37
+0965c892-e1d1-4634-a7e1-13164115b6ed,Kabir Biswas,goyalsudiksha@example.com,1759760460,"621
+Kakar, Chennai, Tamil Nadu",2020-06-09,Yes,Thai,49,4.15
+d7629246-79f9-4d36-b941-ddc9ac0e4923,Gunbir Bala,odeshmukh@example.com,+910257903734,"664, Ramesh, Chennai, Tamil Nadu",2024-11-26,No,Indian,20,4.71
+1ea69423-d828-49a9-b589-1e1dfe5a2609,Kai Kar,choudharygirik@example.net,01104415880,"H.No. 191
+Mishra Marg, Chennai, Tamil Nadu",2020-08-14,No,Indian,44,3.53
+6e82174d-330a-44f6-b4f2-08736b40e278,Rehaan Bajwa,kritikavora@example.org,4714510832,"H.No. 985
+Thaker Chowk, Chennai, Tamil Nadu",2022-07-14,No,Italian,6,2.75
+56cad326-d3d7-4cf1-b3d8-6444859a6496,Zansi Murty,ganeshhema@example.com,03345662936,"H.No. 24
+Sangha Marg, Chennai, Tamil Nadu",2024-01-03,No,Chinese,39,1.19
+a372346c-f207-4ed8-b022-a709168e1833,Aditya Sant,vparsa@example.com,5362040445,"15, Chawla Path, Chennai, Tamil Nadu",2022-05-14,No,Mexican,36,1.53
+4f98c0cb-6716-4ff4-8773-f013a159ed02,Saanvi Kothari,deoldhruv@example.net,00587792702,"62/326, Bobal, Chennai, Tamil Nadu",2020-03-01,No,Italian,33,2.91
+e4c2102d-8cd0-47ed-980d-9d65f6710df9,Ekbal Tailor,jagratianne@example.com,8393074152,"41/823, Cheema Chowk, Chennai, Tamil Nadu",2020-07-04,No,Italian,35,3.2
+5612cdbf-590c-4fe0-9330-38e9e1f96156,Waida Seshadri,upau@example.org,05468758729,"H.No. 712, Panchal Street, Chennai, Tamil Nadu",2024-07-07,No,Italian,16,2.92
+31b8dd6c-99f9-4a70-a47d-b4e63bfea501,Advika Guha,ozabalendra@example.com,9406956977,"985
+Nagy Zila, Chennai, Tamil Nadu",2020-01-15,Yes,Thai,13,3.7
+c679d536-0723-45e0-9913-cd3f13e80a8b,Gaurangi Sodhi,dalajaghosh@example.org,07162136011,"353
+Bala Path, Chennai, Tamil Nadu",2021-03-11,Yes,Indian,10,3.74
+6e2cc050-d66f-4db8-9178-1bc0c788ebad,Indira Raval,bwable@example.com,06472615501,"764
+Sant Ganj, Chennai, Tamil Nadu",2020-07-29,Yes,Thai,46,3.88
+d08951e5-2d63-4880-a4c6-ebfc5c996221,Hiral Kakar,yashodhara70@example.net,+916650109992,"H.No. 084
+Keer Nagar, Chennai, Tamil Nadu",2023-11-10,No,Mexican,24,4.06
+f5cf407e-b119-4463-afd4-e2ee73ecc527,Barkha Agarwal,tmore@example.net,5446154531,"682, Choudhry Ganj, Chennai, Tamil Nadu",2021-10-01,Yes,American,43,3.7
+df3e2b80-96ed-40d3-9744-73d27b0dbc02,Gabriel Sami,jsood@example.org,0311131649,"H.No. 160
+Sane Road, Chennai, Tamil Nadu",2022-10-02,Yes,Indian,26,1.32
+45fda827-4bdf-4a68-a375-92a58f9a7c0a,Mohini Subramaniam,tailorneel@example.org,03111904233,"H.No. 360, Chokshi Street, Chennai, Tamil Nadu",2022-01-09,Yes,American,38,2.82
+15f7d7d7-2744-4f1a-8cb9-20d17b7fc8bb,Qarin Kar,sai97@example.net,+914183404323,"83/54, Sodhi Marg, Chennai, Tamil Nadu",2021-11-09,No,Mexican,16,1.83
+05659fbd-5cd8-4ace-a227-f951abb3cc0c,Rachit Iyengar,jbabu@example.com,06530885047,"70
+Kothari Chowk, Chennai, Tamil Nadu",2023-11-05,No,Italian,22,3.4
+9b16959c-2ae9-4827-a5e6-5ceb61494005,Zaid Gola,vinayaghose@example.com,1514397952,"24
+Gopal Nagar, Chennai, Tamil Nadu",2020-03-22,No,Italian,7,4.48
+cb1698ba-5665-44da-9cd7-1190eb87a44f,Hema Sankaran,zarna14@example.com,02314628460,"16/46, Koshy Street, Chennai, Tamil Nadu",2022-11-14,Yes,Mexican,40,2.56
+5a1ce40d-770a-4858-a3d7-e2122f82a3ff,Dominic Dani,mangaljagvi@example.org,+910550406668,"H.No. 103, Mukhopadhyay Nagar, Chennai, Tamil Nadu",2020-11-03,No,Indian,5,2.33
+1387df43-4704-4b6f-a984-fcd045120528,Manthan Bedi,tanaybhat@example.com,+911041481717,"H.No. 30
+Wadhwa Nagar, Chennai, Tamil Nadu",2024-01-11,Yes,American,5,4.55
+e817c0c3-c613-44a5-89f3-70a2d8576ec5,Yochana Gokhale,ojasvi90@example.com,8044351527,"H.No. 130
+Baral Nagar, Chennai, Tamil Nadu",2022-08-22,Yes,Chinese,7,1.97
+26bf2e4e-5e34-4b74-8cbc-1a40546cc535,Zayyan Sarma,triya38@example.net,1536904866,"H.No. 31
+Sura Road, Chennai, Tamil Nadu",2020-12-14,No,Thai,21,1.73
+144838d1-caa9-4e68-adb1-9ac3c8343a22,Saanvi Karnik,gchandra@example.org,+916469211813,"H.No. 983
+Mangal Street, Chennai, Tamil Nadu",2022-09-23,Yes,Mexican,21,3.35
+65b8e319-f97a-4b9f-b63b-d4631b20ac87,Chakradhar Master,anamikamittal@example.net,07410762031,"946, Mallick Chowk, Chennai, Tamil Nadu",2021-02-03,No,Indian,43,4.47
+70cf60dd-eb28-43ed-9fa2-61cab599ee52,Ladli Seth,yagneshsidhu@example.org,07937703957,"54, Wagle Circle, Chennai, Tamil Nadu",2022-03-28,No,Mexican,14,4.92
+b684382f-57cc-4f1b-8426-48093db0cd54,Chaitaly Char,darshpatla@example.net,6672149618,"34
+Ray Ganj, Chennai, Tamil Nadu",2024-08-21,No,Indian,25,4.37
+40e12022-7d7b-4a3e-a57a-2fbcb96b4124,Gavin Zacharia,atidoctor@example.com,+910242119898,"08
+Narain Circle, Chennai, Tamil Nadu",2024-05-11,Yes,Mexican,38,2.17
+6bd13736-0492-4af1-afd8-88ddbfc52a5d,Vihaan Balakrishnan,chaitalydayal@example.org,+913115381527,"238
+Grewal Nagar, Chennai, Tamil Nadu",2022-02-19,Yes,Indian,16,1.35
+b54b0cc7-c62f-4d2f-adef-388b8e657e9e,Chanchal Sami,madaninaya@example.org,+919357073790,"H.No. 599, Pall Road, Chennai, Tamil Nadu",2021-01-04,No,Chinese,37,2.32
+c3a3dc42-24bb-4152-b477-a824b3c0f06c,Ekapad Srivastava,chatura38@example.org,7009490149,"20, Taneja Road, Chennai, Tamil Nadu",2020-11-07,No,Italian,4,2.57
+59e352f5-56f0-48cd-93b6-8664f17b1205,Daniel Panchal,chahalbakhshi@example.net,+919653827854,"H.No. 01
+Sodhi Nagar, Chennai, Tamil Nadu",2020-06-09,No,Mexican,50,4.73
+5697d018-545e-49bc-b8e8-4af4d9ff4044,Darsh Deshmukh,saanviraval@example.com,+910767074765,"30/87, Doshi Nagar, Chennai, Tamil Nadu",2023-05-06,No,Mexican,35,4.51
+827db45a-1cbd-47e6-be66-67dc31434f32,Warjas Shan,tsom@example.net,0935200052,"24/65
+Bala Circle, Chennai, Tamil Nadu",2022-03-27,No,Chinese,18,1.98
+f61176b4-6236-40ec-a7f2-7b7c41141c68,Sneha Patel,nihal14@example.org,06027837051,"H.No. 129
+Dash Circle, Chennai, Tamil Nadu",2022-05-11,No,American,25,4.74
+408a6b91-6c1d-41f0-acd0-3659e4cf01d1,Eta Kohli,bailzehaan@example.com,+917084726797,"39/731, Dyal, Chennai, Tamil Nadu",2020-08-31,Yes,Chinese,6,1.35
+3c9a50da-0f07-4789-8711-71a370cc96c2,Wahab Wason,jkuruvilla@example.org,5773157919,"H.No. 499
+Mangal Marg, Chennai, Tamil Nadu",2023-07-14,No,American,37,3.7
+dfda93f7-887d-49a7-9b2c-50335f1ccfae,Hredhaan Sekhon,maanav61@example.com,+910378841055,"71/545, Char Nagar, Chennai, Tamil Nadu",2021-08-21,Yes,Mexican,30,1.97
+4ac42a7c-4a5d-43a4-9c17-a668f83de231,Devansh Konda,radhikapalan@example.com,09131152819,"68/946
+Bahri Street, Chennai, Tamil Nadu",2020-07-12,No,Chinese,8,3.73
+b6bd321a-dfff-4060-b498-890bd21c344b,Ojas Pradhan,vedant16@example.org,+915414574504,"H.No. 968
+Chatterjee Marg, Chennai, Tamil Nadu",2020-07-12,No,Mexican,44,3.49
+25022c75-9d67-4c76-969c-a5a06717d080,Rajeshri Samra,vedantvyas@example.org,05680008334,"04/93, Kaul Street, Chennai, Tamil Nadu",2024-01-12,Yes,Chinese,46,2.84
+dc3df8ce-9f2f-4a9a-827a-2f204b934e39,Yashodhara Desai,ekalingasule@example.net,6355683230,"86/84
+Bhalla Path, Chennai, Tamil Nadu",2021-05-27,No,Indian,28,2.46
+e7539f08-089d-4265-b4fb-bf488de1483d,Yauvani Dhingra,goyaldominic@example.net,+914629687451,"284
+Sachar Nagar, Chennai, Tamil Nadu",2024-03-23,No,Chinese,43,3.7
+aa185240-f973-4843-9631-81bad9fc3ef3,Robert Wali,pranit69@example.net,06101298496,"H.No. 656
+Dass Road, Chennai, Tamil Nadu",2021-06-28,Yes,Chinese,16,4.16
+8de647e5-aa5f-468b-ba5e-6a854c8290dd,Robert Gola,miteshjhaveri@example.net,04727862304,"307
+Kar Road, Chennai, Tamil Nadu",2024-11-08,No,Thai,24,1.72
+99b70435-5e89-470a-a690-94aa3ab64f7e,Alexander Butala,banerjeenaksh@example.org,09691622922,"H.No. 189
+Tank Path, Chennai, Tamil Nadu",2024-05-26,No,Chinese,9,2.69
+0d2b08c3-8bae-483c-a233-60db8ae7468f,Omisha Palan,lilawagle@example.com,01007444876,"69
+Mani, Chennai, Tamil Nadu",2022-03-04,Yes,American,28,2.72
+b4b6d1e8-bef8-47ea-ac6f-de3c8c9525cc,Ranbir Dhawan,tatasiddharth@example.org,08142842934,"55/14, Krishna Chowk, Chennai, Tamil Nadu",2020-04-23,No,Thai,16,3.01
+15559705-98fc-4adc-be10-78ce7048ee31,Bhavani Thakur,janakitata@example.org,8401893665,"H.No. 993, Kibe Road, Chennai, Tamil Nadu",2021-08-11,No,Indian,21,2.83
+a671da8d-84eb-4fd2-95e0-fc0cb9f592ff,Aachal Mishra,rajagopalansamesh@example.com,+911066346175,"838, Deep Ganj, Chennai, Tamil Nadu",2024-11-12,No,Italian,48,1.15
+544d03a1-25b0-4c23-8589-62b4e06073e4,Farhan Roy,hpuri@example.net,8714479857,"16, Chopra Chowk, Chennai, Tamil Nadu",2021-10-07,Yes,Chinese,16,2.15
+4250c9b1-7e10-499a-828c-7886645e2aaf,Chandran Ramesh,enagy@example.org,+919665134728,"98/217
+Jani Ganj, Chennai, Tamil Nadu",2023-02-08,No,Indian,46,2.35
+0397fae4-faf2-4979-a4a7-0871cefba084,Deepa Upadhyay,omya13@example.net,8834885490,"37
+Chandra Path, Chennai, Tamil Nadu",2021-10-04,Yes,Italian,5,4.54
+21863774-2a0e-4cf0-b95a-ec09d192e973,Aradhana Dewan,yogivasana@example.com,3312984343,"129
+Hayer Circle, Chennai, Tamil Nadu",2022-07-19,No,Indian,4,2.46
+4e41e565-df42-45fa-aa93-d8c10e80c9de,Balhaar Baral,opanchal@example.com,+912952917045,"H.No. 007, Khanna Street, Chennai, Tamil Nadu",2024-11-21,No,Chinese,24,2.96
+dab94d04-5390-42e8-bef8-fcd7488b6c93,Varsha Chad,chamanmohanty@example.org,09787392546,"028, Edwin Road, Chennai, Tamil Nadu",2020-04-01,No,American,40,1.71
+960a4807-b9b1-4a11-8ba1-5d8f293b1cfd,Tristan Sachar,nathcharvi@example.net,+912217648751,"253
+Borde Ganj, Chennai, Tamil Nadu",2021-09-18,No,Chinese,42,4.79
+b5addc15-a331-491b-a05a-9bb91395466a,Yadavi Pillay,darpannanda@example.org,02506612638,"202
+Bath, Chennai, Tamil Nadu",2020-06-11,No,Chinese,17,1.47
+fff6a045-9bfd-4090-b689-6fdf353ff880,Ekansh Dey,pallavanya@example.org,00553533686,"H.No. 82
+Bhat, Chennai, Tamil Nadu",2020-02-25,No,Mexican,25,4.92
+569f9349-5d90-44bf-bbce-eda0f842889a,Ladli Loyal,gagansengupta@example.net,3878886296,"195
+Chand, Chennai, Tamil Nadu",2022-06-28,No,Italian,29,2.68
+229b00c1-c8c2-469d-8865-00cc40d6a787,Pratyush Prabhu,abhasem@example.org,5564111840,"15
+Nazareth Zila, Chennai, Tamil Nadu",2020-05-03,No,Indian,21,1.39
+9385a40f-9943-4ddf-a955-ff36cd3db838,Chaaya Loyal,quincy18@example.net,9300467721,"69
+Tella Road, Chennai, Tamil Nadu",2023-07-02,No,Indian,31,1.69
+43655590-aa9b-4a3c-aa6f-531a1876b30b,Yahvi Tank,viswanathanranbir@example.net,+914849846127,"53, Yadav Ganj, Chennai, Tamil Nadu",2024-05-27,No,American,2,1.61
+7ecbbe1b-372d-4409-ad80-f3fb60d1e503,Sathvik Dhar,gadedayita@example.com,9418925258,"096
+Hora Path, Chennai, Tamil Nadu",2023-02-21,No,Italian,18,4.11
+2849b0ab-53b1-4f53-bdd6-efa2ffa51408,Teerth Ramachandran,ynatt@example.org,04225896025,"H.No. 870, Anne Marg, Chennai, Tamil Nadu",2021-04-14,Yes,Chinese,35,2.0
+1e7aa005-dc24-4ce1-8de0-8d3db4533519,Tanvi Sibal,ekrishnan@example.org,00387549942,"08/23, Mahal Ganj, Chennai, Tamil Nadu",2024-06-12,No,Indian,25,3.27
+ae9f6390-eb98-4176-807e-6e6cfc80a9f9,Viraj Mall,pandeysanaya@example.net,+918122365282,"36/743, Ramakrishnan Ganj, Chennai, Tamil Nadu",2024-11-05,No,Italian,18,2.89
+d9c2795b-a48c-411d-9260-7bbcbcc6e0cc,Tanvi Kalita,shachanchal@example.com,09618145665,"H.No. 39, Arya Ganj, Chennai, Tamil Nadu",2021-07-02,No,Italian,28,3.88
+38490b52-99ce-4531-b789-df9d1b8cd205,Vasudha Som,samuel51@example.net,5420514889,"94, Grewal, Chennai, Tamil Nadu",2021-08-19,Yes,Italian,42,3.52
+53d6840d-24c6-48c1-8734-69b61be67852,Abhimanyu Bhasin,pgill@example.net,8226176809,"86, Basak Circle, Chennai, Tamil Nadu",2023-07-30,Yes,American,11,2.97
+6a2b9dbe-f766-41ca-a5c6-ae66d8d81108,Chaitanya Balasubramanian,sahotachaman@example.net,+910691204966,"85/526
+Bhasin Marg, Chennai, Tamil Nadu",2024-09-12,No,Indian,25,3.9
+488123fc-f7dc-4624-bae2-5fd8918ca162,Odika Prabhakar,edhitha55@example.net,3052910921,"H.No. 910
+Sani Path, Chennai, Tamil Nadu",2024-08-15,No,Indian,7,4.07
+3b6d2273-5cba-4ba7-b786-c93d2443d70d,Jairaj Keer,kulkarnivamakshi@example.com,+911679240062,"H.No. 41, Majumdar Street, Chennai, Tamil Nadu",2023-02-23,Yes,Chinese,11,3.09
+05d77f11-d773-43ca-9dc3-c68c5922bf41,Girish Raval,syohannan@example.org,+919794377046,"151
+Prakash, Chennai, Tamil Nadu",2022-11-14,Yes,Mexican,29,1.69
+d16c80b8-d64e-45ad-9771-46f612c0f2bf,Anusha Bora,dakshesh06@example.org,2009828368,"H.No. 12, Bains Marg, Chennai, Tamil Nadu",2020-06-28,Yes,Indian,42,3.84
+e3eefba0-ab1a-4100-91aa-30f2840da114,Faris Walia,gangulymason@example.net,2515524691,"04/66, Viswanathan Marg, Chennai, Tamil Nadu",2020-11-25,Yes,American,46,1.06
+51a8ca01-c699-45fe-a112-c80d06a92fdb,Harita Sarma,ianne@example.net,2901472376,"H.No. 75
+Keer Chowk, Chennai, Tamil Nadu",2023-10-05,Yes,Mexican,13,4.12
+e1f36660-1bd6-4282-9ac1-3585e668052f,Chaman Aggarwal,siddharth10@example.net,+914496056272,"978
+Bhatt Zila, Chennai, Tamil Nadu",2020-07-31,No,Italian,13,3.9
+e58bd298-a5ca-41fb-b383-11bc58d1e9a4,Alexander Thakur,jmangat@example.net,04911341683,"70, Ravel Zila, Chennai, Tamil Nadu",2021-02-10,Yes,American,24,3.88
+b5959560-44ab-4a28-8373-da59509588cb,Chaman Saini,fjaggi@example.net,1596438547,"H.No. 376, Keer Chowk, Chennai, Tamil Nadu",2021-08-23,No,American,6,3.42
+758ea386-d21d-4b3c-92fa-7ed8ee73d261,Prisha Swamy,basukai@example.net,03849931780,"73/11, Roy Circle, Chennai, Tamil Nadu",2021-10-18,No,Chinese,46,2.85
+5a944210-5df5-4e27-b1d2-70495fc41532,Ekavir Palan,daksh76@example.org,09773652056,"H.No. 999
+Kashyap Nagar, Chennai, Tamil Nadu",2024-10-19,Yes,Mexican,13,2.15
+b4928f6e-9966-470a-aca5-7f8363032810,Vasana Khalsa,crai@example.net,5493816048,"03, Ram Road, Chennai, Tamil Nadu",2024-07-19,No,Mexican,33,3.78
+d760b945-21ab-4d3b-bdd8-0b401779a512,Oeshi Wali,bhavanisarraf@example.com,0717579287,"44/886, Kibe Nagar, Chennai, Tamil Nadu",2022-09-06,Yes,Indian,49,1.53
+03ca90ce-2ce2-4f95-a7ae-87787416b342,Yauvani Sinha,kaidash@example.org,0924591517,"817
+Dalal Marg, Chennai, Tamil Nadu",2020-01-17,No,Chinese,27,4.12
+80f3b4b9-aa3d-4d77-bf2c-fd8a39c28121,Yutika Saini,deepethan@example.net,7486278139,"H.No. 866
+Balakrishnan Ganj, Chennai, Tamil Nadu",2023-07-23,No,Mexican,41,4.19
+ca409ce4-1877-48be-ba70-db96fbbcf39f,Manya Mittal,bassiteerth@example.com,05966918635,"63/52, Dube Chowk, Chennai, Tamil Nadu",2023-08-07,Yes,Chinese,24,3.45
+843fd62f-5c7c-46ae-8a23-4fc038154be5,Chatura Walla,sgarg@example.org,+918913357514,"H.No. 407, Narula Path, Chennai, Tamil Nadu",2020-05-29,Yes,Mexican,23,4.54
+10e92db5-7183-40e6-846f-851a442c9a77,Upadhriti Barad,fsuri@example.com,07253927736,"512
+Sachar Ganj, Chennai, Tamil Nadu",2024-06-10,Yes,American,45,2.88
+70fbd996-29f0-4b3d-88b6-e871694d4f43,Ranbir Lad,rishi77@example.net,+911724687214,"H.No. 47, Gera Marg, Chennai, Tamil Nadu",2021-06-09,Yes,Chinese,19,1.9
+162775f4-ae46-4eac-9a0d-62c958072a36,Ishita Handa,sabharwaljhalak@example.com,07491490456,"H.No. 86
+Dixit Chowk, Chennai, Tamil Nadu",2024-08-10,No,Indian,45,2.33
+0ec5d2ae-ce2f-4fff-8fdd-d10f4c70dfbe,Laksh Basu,ishitasanghvi@example.net,+917308836996,"H.No. 32, Bandi Street, Chennai, Tamil Nadu",2024-01-03,Yes,Indian,25,2.18
+eaf164b7-cf73-47e8-932f-188ef7b2d87e,Jalsa Menon,bhanumati80@example.net,+916776901685,"H.No. 596
+Babu Marg, Chennai, Tamil Nadu",2021-06-26,Yes,Mexican,32,4.05
+ab90d954-1b07-4d96-a393-605ff037bd1d,Adya Lata,haritabhatti@example.org,02928114243,"19, Varghese Path, Chennai, Tamil Nadu",2024-01-13,Yes,Mexican,1,1.7
+e99f0378-6cf1-428e-af00-adaf4013a9ec,Netra Dasgupta,bchoudhury@example.com,05070247468,"74/09
+Dubey Circle, Chennai, Tamil Nadu",2022-05-15,No,Italian,47,4.3
+6d712cb3-3deb-4852-9169-eae3c43c6943,Ronith Banerjee,adwetabatta@example.com,03904488266,"H.No. 42, Bajaj Street, Chennai, Tamil Nadu",2024-08-25,Yes,Chinese,5,3.33
+eb4b86f3-c849-484c-85c3-57a42d1a5169,Gabriel Toor,nagileena@example.org,+917553799870,"H.No. 09
+Shetty, Chennai, Tamil Nadu",2021-02-28,Yes,Italian,40,1.39
+c5cb6024-1b82-4fb2-a605-e363c741c559,Yatan Dar,deshmukhdeepa@example.com,+919361939949,"H.No. 045, Minhas Ganj, Chennai, Tamil Nadu",2022-12-17,Yes,Chinese,23,1.45
+81cc3d3d-bdb1-48f5-86cf-0c45a586a0d2,Ishani Seth,zayyanmerchant@example.com,9703935057,"13/786, Rajan Road, Chennai, Tamil Nadu",2021-12-09,Yes,Italian,1,2.76
+61cf1c37-4c97-4203-aecb-a1f97e489093,Hema Sen,hemalsankar@example.net,+910154818038,"05/592
+Lanka Road, Chennai, Tamil Nadu",2020-04-26,Yes,Mexican,32,3.99
+f1ff6ff4-5293-4660-9b6f-1dc7afc30c1a,Jagdish Balakrishnan,caleb47@example.com,3273695762,"H.No. 74, Warrior Street, Chennai, Tamil Nadu",2024-12-10,No,Chinese,4,1.47
+579cc294-d893-4d97-b43a-3c80ecb4a82d,Daksha Bassi,mraghavan@example.org,+911573083652,"09/614, Subramaniam Marg, Chennai, Tamil Nadu",2023-06-16,No,Thai,26,1.01
+383c003c-1e50-45f1-91f5-ccac1f4279b3,Jeevika Gara,vrittijha@example.net,04137317872,"H.No. 89
+Mohanty Zila, Chennai, Tamil Nadu",2021-12-03,Yes,Chinese,9,2.04
+fdf7a4b6-17d9-4814-8b06-1bf59acb9407,Hemal Misra,yoshita19@example.com,02802692445,"37, Venkatesh Circle, Chennai, Tamil Nadu",2021-07-01,No,Thai,29,4.76
+762b132d-efa7-4998-8e61-fceb37081e69,Tanmayi Varkey,agaterohan@example.org,6847858790,"49, Varghese, Chennai, Tamil Nadu",2024-06-26,Yes,Italian,27,3.28
+5bacc047-2679-48a0-9d40-7ee96040b7b0,Peter Salvi,znarang@example.com,03065621235,"03/844, Andra, Chennai, Tamil Nadu",2023-03-23,Yes,Thai,26,4.99
+a89bd98c-d81d-42af-a09e-3cac1987e933,Arya Sekhon,jason91@example.com,7114706952,"26/964
+Saha Path, Chennai, Tamil Nadu",2020-03-26,No,Thai,14,3.38
+bbe3d6a7-3eff-46eb-8e83-c75926ca586f,Rachita Cheema,kamalayadav@example.org,+916481483369,"077, Yadav Chowk, Chennai, Tamil Nadu",2023-11-10,No,Italian,40,1.35
+e65e9043-ab90-4a9b-bfb8-8038e1596c19,Veda Choudhry,santaarini@example.org,+912228768901,"511, Rana Path, Chennai, Tamil Nadu",2024-06-23,Yes,Mexican,34,2.45
+3e62d199-6d05-4d5b-9909-bbceb3d4a540,Yagnesh Nadkarni,shankararyan@example.net,05608344622,"740, Bansal Road, Chennai, Tamil Nadu",2024-12-04,Yes,Mexican,39,1.33
+d4528101-26a6-449d-9438-a574abbacdd1,Shaurya Dara,yagnesh10@example.org,0497103645,"H.No. 10, Jani Road, Chennai, Tamil Nadu",2021-05-21,Yes,American,7,1.19
+2efc099f-660d-41d4-bd36-3b80e48a1dc7,Jackson Master,khoslaira@example.net,06764932093,"H.No. 704, Iyer, Chennai, Tamil Nadu",2020-12-01,Yes,Mexican,44,4.02
+3c42df40-3dc7-49d0-be8b-afadeb2909c2,Jeet Rajagopal,dedwin@example.org,1928111901,"H.No. 911, Sengupta, Chennai, Tamil Nadu",2022-05-25,Yes,American,16,2.36
+6f4df944-5f17-4e74-bf3b-f01dab79419c,Omkaar Oza,ridhi95@example.com,5891355802,"82, Madan Chowk, Chennai, Tamil Nadu",2024-12-22,Yes,Italian,11,4.25
+edb9bd0e-add2-4557-a4e4-c27849a3055a,Tara Mander,aarnav87@example.org,+914399228272,"H.No. 354, Anand Circle, Chennai, Tamil Nadu",2020-06-13,Yes,Chinese,48,2.83
+809fdb5d-1663-465a-aa72-5a56d250213f,Christopher Bose,bensai@example.net,05457890436,"28/38, Sha Chowk, Chennai, Tamil Nadu",2020-01-15,No,American,15,1.47
+4842c8de-c72e-412e-9542-9bb4a94dacaa,Niharika Luthra,bajajwidisha@example.net,+915159831077,"H.No. 78
+Varughese Zila, Chennai, Tamil Nadu",2021-12-12,Yes,Mexican,14,2.35
+bdbbef58-27c9-44e7-a8d9-bc53fbaf5e65,Isha Dani,gaurika53@example.org,05364483232,"00, Sampath Nagar, Chennai, Tamil Nadu",2023-10-15,No,Chinese,35,4.73
+e69f8e9f-59ac-4751-b4ab-dd7600a18be0,Netra Garde,fdash@example.org,04085062360,"H.No. 267
+Srinivas Zila, Chennai, Tamil Nadu",2023-03-28,No,Italian,22,3.24
+2e2df776-bba4-44c8-9627-c360fbfd0c9d,Hemangini Shere,grewalbalvan@example.org,4689085321,"H.No. 53
+Sahota, Chennai, Tamil Nadu",2023-03-24,No,Italian,18,1.02
+8a62f2aa-bfe3-4c33-81c6-cb6d42c0aa13,Anita Chokshi,dharcaleb@example.org,05562584542,"19
+Koshy Nagar, Chennai, Tamil Nadu",2023-12-29,No,Mexican,31,3.72
+40bfa9db-a341-4d75-a50d-3e9ae135a68d,Jack Shanker,pahal02@example.net,08432240533,"92/011, Samra, Chennai, Tamil Nadu",2021-11-01,No,Indian,14,3.86
+08d71ab8-139f-4e10-bed2-457fbda7866e,Umang Kala,lalaamrita@example.org,+919014356112,"83/18
+Dugar Circle, Chennai, Tamil Nadu",2022-10-12,Yes,Indian,33,1.72
+8f32529a-9604-41a7-921f-06797c1a4b00,Vasudha Dash,qjhaveri@example.org,00775402363,"830, Sibal Zila, Chennai, Tamil Nadu",2021-01-14,Yes,Chinese,22,1.1
+f6d83508-285d-49f5-b121-0851d8a0b642,Chandran Bhagat,barkha75@example.net,8927644830,"41, Johal Nagar, Chennai, Tamil Nadu",2024-07-03,No,Mexican,39,4.32
+23fc81db-b331-454c-b9fd-c0a7075319a8,Rajeshri Nadig,kannanomisha@example.org,+917115486077,"01
+Mall Marg, Chennai, Tamil Nadu",2023-10-05,No,Chinese,43,3.72
+d116f9d5-e017-4a15-98c3-92b29e154acc,Yasti Malhotra,loyalwazir@example.net,06752919180,"18/70, Mallick Path, Chennai, Tamil Nadu",2021-10-01,Yes,Mexican,47,3.82
+3ae97834-5962-4501-8a05-e60d89f1fa1c,Anamika Mohan,harshilviswanathan@example.org,+919533698691,"630
+Bansal Path, Chennai, Tamil Nadu",2022-05-27,No,Thai,46,2.12
+6b0405ee-f308-46eb-acad-30b6e7f13cc9,Siya Prasad,kritikacheema@example.net,02865390421,"37, Pillay Chowk, Chennai, Tamil Nadu",2024-08-06,Yes,American,46,2.37
+0ca7c2de-afa3-4be0-a34c-cfd94e6f251a,Timothy Walla,boballakshit@example.net,+912747207183,"13, Kari Street, Chennai, Tamil Nadu",2021-07-12,No,Mexican,19,3.96
+03a963bc-be90-42aa-85da-63483933a2b4,Theodore Gopal,imohanty@example.net,+917512736618,"07
+Sarraf Chowk, Chennai, Tamil Nadu",2022-07-05,No,Thai,38,3.52
+9f47c2e4-5cd7-4ca5-87ea-1072e2703412,Azad Kashyap,mannijaya@example.com,00812346615,"95/331
+Sachdeva Street, Chennai, Tamil Nadu",2024-12-25,No,Indian,26,1.83
+72d160ad-0e96-4f87-baa0-5adefb04f075,Abeer Bhattacharyya,jdeo@example.org,+913049236588,"H.No. 77
+Ramesh Chowk, Chennai, Tamil Nadu",2021-06-09,Yes,Indian,11,3.28
+e675b68b-5f44-4dcc-b7cc-bef26a6eebd5,Zashil Chahal,prisha68@example.net,2918284949,"108
+Raj Ganj, Chennai, Tamil Nadu",2020-12-15,Yes,Italian,8,2.71
+c4f97242-6399-4066-aed2-16f6263c996c,Chakradhar Suri,pmuni@example.org,01192577089,"57/72, Chadha Zila, Chennai, Tamil Nadu",2021-01-26,Yes,Indian,13,4.52
+a36b28a8-5e9e-4716-9019-36557da06971,Triya Boase,mandaturvi@example.net,0443283137,"72/05, Oommen Road, Chennai, Tamil Nadu",2022-04-16,No,Chinese,50,4.97
+61d61179-e4cb-4ce2-913b-a6abd54e66c2,Yahvi Krishnamurthy,nchada@example.com,05326319897,"54, Kota Circle, Chennai, Tamil Nadu",2022-09-24,Yes,Chinese,20,4.76
+200d50f3-9213-4a5f-abce-a7d16acb8587,Kashvi Patel,bathyashvi@example.org,1668800602,"29
+Kaur Chowk, Chennai, Tamil Nadu",2020-04-29,Yes,Italian,10,3.13
+66af9649-bd07-4752-b59d-8c17bff0b565,Mitali Baral,saanvikaran@example.org,+915970502648,"H.No. 653, Keer Marg, Chennai, Tamil Nadu",2024-01-05,No,American,21,2.19
+dca31659-fb97-4fcf-8b6e-a61d862b3d74,Umang Garg,ikshita53@example.org,02072941668,"H.No. 46
+Muni Ganj, Chennai, Tamil Nadu",2024-04-01,Yes,American,38,3.63
+859c78dd-52ac-48d9-a197-941015919c18,Lohit Nagy,chaudryisha@example.net,+911011365492,"02/93, Borde Nagar, Chennai, Tamil Nadu",2021-03-22,Yes,American,6,1.22
+dfe3dc96-9f36-4828-ad2e-2a35221bcc79,Matthew Lanka,dhritisridhar@example.net,0756663965,"H.No. 13
+Barad Nagar, Chennai, Tamil Nadu",2022-12-16,Yes,Indian,36,4.31
+da58bae4-0bc1-4db1-a9cd-23ec871167f2,Dev Roy,aarnaiyengar@example.com,5558691137,"H.No. 824, Bhatt, Chennai, Tamil Nadu",2021-12-02,Yes,Chinese,23,2.97
+c00c8bd8-0cb1-40af-91f8-edb56251e16d,Ekanta Ganesh,girindrakhurana@example.net,+919025983807,"H.No. 35
+Tandon Road, Chennai, Tamil Nadu",2020-04-25,No,Italian,22,4.07
+1a8f06c5-3b23-439e-a192-e9cb3c3776b9,Nachiket Lala,aggarwalhiral@example.com,+917264646225,"H.No. 876
+Gopal Chowk, Chennai, Tamil Nadu",2023-05-21,Yes,Indian,43,4.85
+ae09210e-1c30-40fc-83cd-44ca46888c40,Ira Pillay,wkala@example.org,09148609406,"90/068, Subramanian Zila, Chennai, Tamil Nadu",2021-01-30,No,Chinese,26,4.42
+c88d70e1-66d5-4593-a50a-364d61e45c8f,Qasim Talwar,wsachdeva@example.org,+917153068118,"336, Wali Nagar, Chennai, Tamil Nadu",2024-08-22,Yes,American,23,1.92
+bec01429-bbb9-433a-8ee9-ea80a380c137,Yadavi Lata,bansalati@example.com,+913034825232,"H.No. 574
+Natarajan Marg, Chennai, Tamil Nadu",2023-04-11,No,Mexican,40,2.61
+5d796953-733f-4f4b-b81f-7117b9dabd4e,Jagvi Parsa,kchada@example.net,0035212276,"94, Prabhu Path, Chennai, Tamil Nadu",2023-06-24,No,Mexican,35,3.72
+a3cb2694-c1a9-402c-9428-3e23ec684475,Dev Sule,ypalla@example.net,02069425567,"23
+Keer Circle, Chennai, Tamil Nadu",2021-02-04,No,Mexican,1,1.83
+5a65f560-603d-42a6-a8c0-18216b271142,Ijaya Bhargava,aaravkohli@example.org,06230589203,"H.No. 63, Kamdar Path, Chennai, Tamil Nadu",2024-11-05,No,Chinese,36,3.54
+a04193f7-7474-4b14-8550-510792b7a93e,Umang Nair,jhaverinitara@example.com,01778074776,"660
+Majumdar Marg, Chennai, Tamil Nadu",2024-04-01,Yes,Thai,7,3.76
+4e899c5f-5237-4e79-b3c0-dac0f4b7c29b,Frederick Salvi,ryan52@example.net,2681398964,"H.No. 88, Uppal Chowk, Chennai, Tamil Nadu",2020-09-16,Yes,Mexican,22,1.62
+410d489b-8945-4f53-8ff7-2183c22bbb95,Ranbir Golla,gabrielandra@example.com,+912632619607,"117, Shankar Chowk, Chennai, Tamil Nadu",2020-10-19,No,Chinese,11,1.91
+21d019d4-1684-4acb-8656-c64030e119f7,Vedhika Mutti,waida79@example.com,+917747269584,"00/082, Raja, Chennai, Tamil Nadu",2021-11-16,Yes,American,13,3.02
+3e55ed61-94f5-4b1b-9334-f7feb053b7fe,Aradhana Solanki,odikadani@example.org,8479029239,"16/18
+Shanker Marg, Chennai, Tamil Nadu",2020-10-10,No,Italian,27,3.34
+bef78221-855c-4d43-b333-9a11a3d9f020,Rushil Golla,anikadeep@example.com,01745831582,"333, Balan, Chennai, Tamil Nadu",2022-10-24,Yes,Mexican,44,2.92
+791fe995-f7b3-4c0e-b444-7e8757d49fd5,Sachi Jha,inath@example.org,+917441830395,"14
+Ghosh, Chennai, Tamil Nadu",2022-06-15,No,Chinese,25,2.48
+4c0f01c3-0702-4711-9bc5-1214b2f0345c,Varenya Karnik,bhavani56@example.com,04554116995,"09, Morar Chowk, Chennai, Tamil Nadu",2022-03-22,No,Thai,25,4.2
+66cc1c56-12b8-4247-8cf6-d50fcc4c04f7,Akshay Parmar,kpai@example.net,7862966585,"17
+Khanna Nagar, Chennai, Tamil Nadu",2022-05-09,No,Mexican,23,3.1
+6bef8d79-4619-41a0-857e-282dc3da7710,Ekantika Shankar,muttipanini@example.com,09020250469,"43/53
+Chaudry Nagar, Chennai, Tamil Nadu",2022-03-09,Yes,American,25,3.96
+3c405224-7b15-4db7-bfe1-1d9b56bf8683,Naveen Gulati,ddugar@example.net,9078706802,"20
+Bedi Road, Chennai, Tamil Nadu",2020-10-15,Yes,Chinese,26,4.72
+5f14130d-90b6-4d5b-8adb-c501d151db08,Dalaja Sachdeva,svohra@example.net,+917110612329,"84/47, Brar Path, Chennai, Tamil Nadu",2021-06-23,Yes,Mexican,45,3.97
+95978d57-4c01-44f2-b362-c680a7b67ff8,Manya Dugar,aachal22@example.net,+914700539214,"H.No. 015
+Date Street, Chennai, Tamil Nadu",2020-04-05,Yes,Mexican,40,4.33
+824d7204-2380-4cbe-ab33-7f16311b655f,Balhaar Mall,ykar@example.com,05290769895,"H.No. 173, Prakash Road, Chennai, Tamil Nadu",2023-09-09,No,Chinese,18,1.21
+ee34ead2-6cf0-4530-a07e-75e5c0a3281e,Hemangini Goswami,janani04@example.net,09677456048,"11/71, Warrior, Chennai, Tamil Nadu",2023-06-22,No,Chinese,35,1.93
+316e1273-b967-450e-abe8-21bdbfe7a816,Upadhriti Virk,rajagopaltejas@example.org,1591703477,"H.No. 192
+Butala Chowk, Chennai, Tamil Nadu",2020-05-07,No,Thai,38,1.67
+77e38da7-f914-444a-aafa-af25c670dd3c,Krishna Ram,bhavyapandit@example.net,+915582315949,"92, Hari, Chennai, Tamil Nadu",2020-04-05,Yes,Thai,16,4.95
+ff423933-a59a-4d67-898c-438807d5b20d,Janani Walia,wmitra@example.com,+915551965058,"354, Lad Path, Chennai, Tamil Nadu",2023-06-20,No,Italian,37,1.16
+24b1802f-f6f7-4d0f-b8e6-051c4412087c,Samar Gera,bakshidevansh@example.com,08048662970,"H.No. 719, Gokhale, Chennai, Tamil Nadu",2023-01-16,No,Mexican,25,4.79
+57396ce9-3700-4362-acfa-8e187c950d5a,Kalpit Mangal,nrai@example.com,+913934709069,"06/82, Bhattacharyya Marg, Chennai, Tamil Nadu",2022-11-26,No,Italian,11,2.78
+4b704bae-c65a-444a-9eb6-54c9480afcaa,Anamika Edwin,cnaidu@example.net,9038496783,"88/23, Mander Chowk, Chennai, Tamil Nadu",2021-03-06,Yes,Italian,27,3.07
+89ea0663-2451-4dd0-9d55-a987fa4f651f,Mohammed Kunda,lgokhale@example.org,+914969746364,"H.No. 92
+Som Street, Chennai, Tamil Nadu",2020-08-08,No,Thai,38,2.24
+4e5916c7-5c00-452c-8b6e-b9f99cb59652,Ira Ramaswamy,sudiksha60@example.org,+911053499876,"00, Thakkar Road, Chennai, Tamil Nadu",2020-11-19,No,Chinese,15,4.97
+9c508e8d-c8ea-405f-a24b-5882e78dc6b2,Christopher Aggarwal,garaikbal@example.org,+913009873683,"78/21, Bal Road, Chennai, Tamil Nadu",2021-10-19,No,Indian,41,3.56
+b238d5cb-6273-4ea9-b160-e78b5192f9ef,Advik Mukhopadhyay,ganeshucchal@example.org,+919046267431,"H.No. 57, Murthy Marg, Chennai, Tamil Nadu",2020-08-15,No,Indian,49,4.31
+3a32380f-65af-4fb5-8827-8e0e001dab71,Aarna Sibal,braj@example.com,+910956762880,"588
+Madan Path, Chennai, Tamil Nadu",2023-01-03,Yes,Thai,4,4.41
+96aceae2-e318-4595-9aea-f10af185df69,Baghyawati Kata,jagatvarty@example.com,+918351302046,"39
+Padmanabhan Chowk, Chennai, Tamil Nadu",2023-12-03,Yes,Indian,37,4.81
+c1d9e1f1-63b1-4b69-a0e9-7d5e2508aba8,Bhanumati Sibal,tankqabil@example.org,+918088816488,"94/55
+Arya Street, Chennai, Tamil Nadu",2023-05-01,Yes,Italian,11,4.06
+9744debf-fec0-4b55-9478-0e3c689d0ca4,Riya Thakkar,aahana45@example.org,08051465906,"H.No. 039
+Gade Ganj, Chennai, Tamil Nadu",2020-05-13,Yes,Chinese,39,3.36
+f438d45d-8908-403a-a748-080705d92ec9,Elijah Sen,cbobal@example.org,08849185079,"64/14, Hayer Street, Chennai, Tamil Nadu",2021-02-03,Yes,Thai,1,1.14

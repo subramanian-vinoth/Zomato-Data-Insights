@@ -1,0 +1,501 @@
+restaurant_id,name,cuisine_type,location,owner_name,average_delivery_time,contact_number,rating,total_orders,is_active
+834398fc-2ec3-45e5-add9-860ac9d99f6b,Sama-Rau,Thai,Chennai,Deepa Zachariah,22,09501389810,4.91,62,Yes
+5c92a860-ee4f-4eb2-9a28-a2f0b841d268,Singhal Group,Chinese,Chennai,Lipika Ramakrishnan,44,+916710442188,4.88,21,No
+dd43ea85-de12-4c43-93d5-5e606f9e1243,Trivedi-Sood,Mexican,Chennai,Ikbal Lala,58,07644943078,3.77,94,No
+9c4c3515-b3d6-4165-abd2-53062aa62aac,Narang Ltd,Indian,Chennai,Krisha Dewan,58,+912715272763,1.58,46,Yes
+824a45f8-6d25-4134-8605-e0677edaf795,Kaul Group,Thai,Chennai,Urmi Shah,55,+916404161135,1.02,3,Yes
+127cb258-effe-4607-9626-fd6b7c8cfebb,"Nagy, Babu and Salvi",Chinese,Chennai,Ucchal Rout,41,8213567029,2.08,56,No
+d0214d41-00e1-441c-9e02-00aa6ca56e53,Naidu-Palan,Italian,Chennai,Chatresh Khanna,21,02888354119,4.07,18,Yes
+517899bc-54e4-46e4-aa62-c96a946e7063,Som PLC,Thai,Chennai,Manan Narasimhan,44,+918204053406,3.01,78,Yes
+26d9e3e9-4bf9-4d67-a8d5-f65039de0562,Bansal and Sons,Italian,Chennai,Yutika Dua,57,06783363667,2.76,70,No
+c49f22c8-a56f-4fa7-8588-5d52ac75c29d,Karan-Toor,Chinese,Chennai,Lucky Mohanty,35,+915761468940,4.64,72,No
+6968ebbf-6da5-41e4-a79a-8c937c310e4d,"Bhakta, Thaman and Bumb",Italian,Chennai,Pratyush Pant,21,+911173218234,3.54,97,No
+4f054089-b0a3-40dc-868b-b0a50822ede4,"Mukhopadhyay, Kar and Kumer",Italian,Chennai,Farhan Chahal,39,08345146995,4.94,63,No
+8d5fe2da-69f3-437c-b540-b16cbc10918a,Dutt Ltd,Mexican,Chennai,Ganga Johal,29,0357862569,3.2,97,Yes
+83a40aa8-30ce-4a2c-89e3-c9fe1a34ebd5,Chada Ltd,Chinese,Chennai,Yoshita Kamdar,51,+912165860814,2.04,25,Yes
+f211af7a-c0ec-407a-b64a-a1a99c48458a,Varty Group,Italian,Chennai,Timothy Wali,45,07139101943,2.36,46,No
+63f5493d-f3f9-4299-9653-9e9dc6b84bbc,Mishra-Som,Thai,Chennai,Pranit Doctor,39,+919907265126,1.59,97,No
+280ca54e-b7d8-4935-bf5a-1a14cdc449b7,"Barad, Sami and Grover",Thai,Chennai,Isaiah Brar,41,+912339488246,1.1,11,Yes
+a45334c1-a74e-4808-affa-fa8b3ce066b8,Bora LLC,Thai,Chennai,Michael Edwin,25,+918932590286,2.65,25,No
+0a74c391-65f3-49a0-a920-f46982a8d66f,"Ramachandran, Borde and Mangat",Italian,Chennai,David Karan,58,02972793505,2.51,61,Yes
+eb1706ad-37c5-48f9-894b-fc7437ba4ae5,"Gupta, Singh and Jhaveri",Mexican,Chennai,Ojasvi Mangat,37,09310762494,3.58,5,Yes
+824054cf-06f9-4a63-87b9-365983e5a10c,Ahuja PLC,Italian,Chennai,Tejas Sekhon,36,8080989009,3.67,36,Yes
+5797b726-ad3f-45bf-8536-41ff911fd300,"Bhargava, Upadhyay and Baral",Chinese,Chennai,Logan Palla,39,+916659209017,4.27,79,Yes
+b5c12e5c-416a-441a-a40b-82817ca599f6,Badal-Dhar,Mexican,Chennai,Janani Varghese,52,+911011301070,2.5,28,Yes
+e13b361b-f371-45a9-9407-bb1fe4eea5ba,"Varty, Karnik and Sachdev",Italian,Chennai,Sarthak Jha,30,+918676897577,4.96,25,No
+476d99b3-d3cb-4766-89a0-a9fcbe5ad731,Peri-Badami,Thai,Chennai,Vrinda Mander,36,3781146924,1.45,61,Yes
+36c31f43-bb9d-44de-b22c-14df4e7e6bea,"Bali, Dhingra and Narain",Mexican,Chennai,Vritti Kala,37,04907135265,1.56,24,Yes
+654f5dc0-5c7a-4d8f-852d-4ff7a54d4e1d,Yogi Group,Chinese,Chennai,Ekta Bali,39,00180467104,2.63,29,No
+92910817-3283-4083-83fe-243da9991ccf,"Deshpande, Dar and Taneja",Italian,Chennai,Logan Atwal,27,08812783167,1.6,89,Yes
+44adb934-f01f-43ba-ace2-35b53d101929,Mannan-Thakkar,Indian,Chennai,Warinder Vig,51,+916002472505,2.05,62,Yes
+43bc8787-8266-4800-b91f-21432bf6a814,"Pandit, Seshadri and Sawhney",Chinese,Chennai,Saumya Morar,34,9474749640,2.09,33,No
+872e0fcc-ef47-4777-8682-646ac903e038,Dubey-Tella,Indian,Chennai,Quincy Jayaraman,30,3075517046,4.59,33,Yes
+90a8330c-21ba-4db4-a697-95a2ca4c2f74,"Konda, Kala and Bhatnagar",Chinese,Chennai,Zilmil Palla,55,1485293838,4.92,5,No
+3f5ddc48-3729-40bb-b438-197b28bb1fa3,Saraf Inc,Indian,Chennai,Krisha Uppal,35,09814160158,2.88,20,Yes
+66e9a93b-0e74-493c-ad93-1022c2f66533,Swaminathan-Choudhary,Thai,Chennai,Chaitanya Ramesh,34,+918356903643,2.06,50,Yes
+69054a43-31b9-4a55-9cad-7a2f81f8d319,"Edwin, Date and Arora",Italian,Chennai,Henry Sankar,29,08271249017,1.25,72,No
+564d3d88-a107-4a3a-8d5d-29aac48b93ca,Sani-Bhatt,Indian,Chennai,Odika Arya,47,+912250319421,1.76,28,Yes
+8b9bdb67-0333-4c24-a415-eb11f8e4bcab,"Buch, Rajagopalan and Gola",Chinese,Chennai,Ladli Dyal,58,03405611025,1.55,5,No
+60510c7a-fbbc-484c-8ad1-0d6cafeb8deb,Soni-Bhardwaj,Italian,Chennai,Abha Munshi,24,8307119571,3.82,20,Yes
+ceb2a1d3-28b1-4a8d-a071-18fb3f33092f,Golla and Sons,Chinese,Chennai,Nathaniel Pant,51,+911210956530,3.29,20,Yes
+91aafd7c-ca93-4c62-8688-86571d6bb82e,Kohli-Venkataraman,Chinese,Chennai,Henry Mitra,25,9268340024,2.87,34,Yes
+78d0fe75-25d2-460d-b196-bc74f5d401d9,Kota PLC,Italian,Chennai,Advaith Chaudhary,59,7327151197,3.45,46,No
+acaf074b-0f80-49a6-bc71-f9f444628574,Singhal-Raval,Thai,Chennai,Vasana Trivedi,26,4624058309,4.85,38,No
+1631bf60-dc45-4b31-a7a7-e977346ecde4,"Sahota, Gera and Bakshi",Italian,Chennai,Dipta Parekh,59,+910303662399,3.58,71,No
+165fc3e6-f9b6-44aa-b2d4-3e7491c3e1eb,Manda-Kuruvilla,Thai,Chennai,Umang Mukhopadhyay,56,+912816329092,2.99,31,Yes
+da771172-b0e2-42c4-9d1b-473b9e6df614,Golla Group,Mexican,Chennai,Warinder Bhatia,22,+919570801961,3.52,14,No
+8878148b-2800-4ef9-aa8e-a33d284032f3,"Gola, Dada and Kata",Thai,Chennai,Vritti Banik,49,02291011894,1.89,75,Yes
+8ea630e1-126e-40ff-abe7-578db8aa7a87,Mane Ltd,Italian,Chennai,Arjun Gade,23,5511531716,4.48,46,No
+cba06c58-be20-42ea-bd96-fbe95bf44cab,Desai PLC,Mexican,Chennai,Nathaniel Shah,52,3938194877,3.7,5,Yes
+6233bffc-6eeb-4de7-a1b1-ba0989c09ff4,Rattan-Raval,Chinese,Chennai,Vasatika Kakar,34,04291332025,2.63,30,Yes
+a7ca88d9-c9a2-4b8f-b761-0c6209fe575c,"Natt, Kota and Mohanty",Indian,Chennai,Ekapad D’Alia,50,07092237664,2.15,32,No
+40928289-fda5-4c6b-9b95-ede21104e13a,Jha Ltd,Mexican,Chennai,Warda Barad,50,5148552734,1.89,83,No
+125565ae-cecc-4f21-bec2-d90d9ac34d19,Varma and Sons,Indian,Chennai,Harinakshi Gade,44,+915534765135,4.76,89,No
+64381447-46dc-49fc-bebd-4926e1c059e5,Khanna-Pal,Thai,Chennai,Bhavika Cherian,46,09095738612,1.36,64,Yes
+26d77600-42e9-4ffa-b753-b990c5495405,Bandi-Mann,Indian,Chennai,Victor Patla,58,1524300692,1.1,54,No
+da9b9c38-af43-442c-9026-f45153435b26,Nagy-Bose,Mexican,Chennai,Nimrat Kari,25,07230889030,1.8,7,Yes
+e0dd9715-dabc-4d25-8b81-cae47c3f32b7,Hans and Sons,Mexican,Chennai,Chandresh Sathe,26,2745587347,1.73,90,Yes
+5afba063-38b8-460e-9958-938f2864ad9a,Suri PLC,Thai,Chennai,Yuvraj Pathak,20,08095943399,1.95,9,No
+af2237c8-e559-4b5b-b5da-ee179b4bdcf1,Lall LLC,Italian,Chennai,Fitan Raja,30,4811373626,1.31,29,No
+609f0271-6a38-48df-a704-91f364c1fd12,"Deshmukh, Nagy and Sane",Mexican,Chennai,Gauri Kota,60,05673171469,4.04,66,Yes
+a203d0e4-a5f7-49df-8947-cb68d4cb8df0,Patla-Raghavan,Mexican,Chennai,Udant Ramaswamy,59,9887707159,4.98,60,Yes
+e581f5c4-742e-4f53-b3bf-8f7ad3fc8ed4,Dhawan PLC,Indian,Chennai,Faraj Chandra,24,02254972296,3.97,10,No
+e00e287f-b064-4ad0-8983-57ff16cfea1e,"Subramaniam, Ramakrishnan and Gupta",Thai,Chennai,Rachana Hayer,20,1772182367,2.32,37,No
+fd97d43a-114b-40f7-9aec-d5a7abee5062,"Mani, Rajagopalan and Sani",Chinese,Chennai,Warinder Choudhry,53,08543368839,4.79,58,Yes
+59fa4321-d58a-4e6b-ba2e-e656d6f2e388,Sachdeva Ltd,Thai,Chennai,Eesha Boase,38,+916045903330,2.26,6,No
+de253523-d2ec-4b82-b44f-3ef3aa9b1943,Mukherjee PLC,Thai,Chennai,Gavin Vaidya,42,4035860072,2.92,32,No
+0dc152c7-65ff-48d8-ba33-451f6e7128c2,Kade-Verma,Chinese,Chennai,Anya Bhasin,44,09406876984,1.04,90,Yes
+d9032685-a2f6-4203-b72d-a0510086811b,"Mann, Chaudhari and Iyengar",Chinese,Chennai,Chakrika Dalal,20,+918943629572,2.22,34,No
+0edc6ad1-5b98-4770-91db-830be85ac1c9,"Naik, Goyal and Sridhar",Mexican,Chennai,Daksh Kota,26,6632526280,1.95,49,Yes
+fed1effd-af58-438c-99f9-5c355dc849e7,Madan Inc,Italian,Chennai,Raagini Dey,51,3888765704,1.28,99,Yes
+f2dc333f-185d-4206-94b2-4bff44505b6c,"Maharaj, Mahal and Pandya",Indian,Chennai,Ekapad Sengupta,48,01734925797,3.51,96,No
+ad7f942f-bddd-4ff2-b264-7b2372f42ad2,Mane-Srinivasan,Mexican,Chennai,Zarna Kamdar,40,2782242359,2.85,76,Yes
+966c21bd-09b0-4c57-a2e0-cf585d257f05,Dash-Borah,Chinese,Chennai,Vedhika Iyengar,57,02273784293,1.9,98,No
+dc86778a-b994-4592-abd4-393b4467c91d,Sarin-Bhakta,Chinese,Chennai,Harita Bansal,48,0471237527,3.39,83,No
+436b146f-1889-497a-8698-c229239ee215,Chaudhary-Mital,Mexican,Chennai,Udant Bhatia,25,02971481073,1.06,17,No
+5fd51b47-38c6-499a-a990-9f1ccb14a899,"Dada, Morar and Ahuja",Chinese,Chennai,Urmi Mutti,46,00809491634,4.34,9,Yes
+6f1bc0ef-3bde-48c5-a4cd-add978122428,"Murthy, Pillai and Aggarwal",Italian,Chennai,Vasatika Khurana,48,0080228666,3.06,97,No
+49d9e72e-e4d1-4a4a-bfe0-993fc5665790,Sarkar-Gola,Thai,Chennai,Avi Boase,46,+913175390867,4.71,67,Yes
+768daa7b-2e04-41fc-92f1-74d1a05e9d93,"Wason, Chhabra and Krish",Italian,Chennai,Rohan Loke,57,+911309107691,2.49,84,Yes
+3f3943f5-93a0-49f1-bee4-f120ede05287,Krishnan Ltd,Indian,Chennai,Chakradev Kari,20,+916630474204,3.22,88,No
+01f8338a-ad39-4e5d-a979-7694bc239683,Vora-Doctor,Thai,Chennai,Anay Sheth,23,05466838042,1.73,8,Yes
+7a2222e9-4ce6-4f4f-98ba-1a13079f6316,Rama PLC,Indian,Chennai,Vansha Ranganathan,45,08000230297,1.39,28,Yes
+3907c715-fe22-4c19-9d76-73da2c27c527,Dass and Sons,Indian,Chennai,Oni Chaudhari,60,+913948423244,3.58,80,No
+06b00ed5-5444-412b-9476-8cf9d18c5d14,"Krish, Chander and Sangha",Indian,Chennai,Devika Sunder,30,+910860255004,4.14,18,Yes
+da496d65-ccfd-4594-8de7-5c542472bb57,"Shetty, Nagar and Sandal",Thai,Chennai,Garima Pai,33,05163782374,3.22,96,No
+361595a6-0f4b-4767-97ad-683ddc1b6310,"Wason, Joshi and Lad",Italian,Chennai,Mugdha Bir,47,02899253759,1.95,60,Yes
+4bb9a19a-65ff-44aa-b729-83da0fef56b3,"Som, Saxena and Som",Mexican,Chennai,Leela Karpe,33,05246173228,4.02,18,No
+afe35687-8aba-489f-b4ff-45e75873d32b,Yogi-Agarwal,Thai,Chennai,Advik Bains,29,+913815244365,3.46,91,No
+6f0ec7a6-5d31-4459-9829-348863210360,Kibe-Ramanathan,Chinese,Chennai,Bimala Mangal,38,9054272656,1.23,34,No
+60319efa-173b-4882-be02-0b92ac09f954,Tara LLC,Italian,Chennai,Naveen Sharma,30,+915137775379,2.81,84,No
+a364b520-13df-47c8-90a7-d79d4a9221b0,Dua-Goswami,Chinese,Chennai,Kalpit Sawhney,37,+913595993637,3.72,77,Yes
+67453257-c178-4851-86b7-d075a3a3796a,Bhatnagar-Ganguly,Indian,Chennai,Yauvani Peri,35,05976441355,3.75,85,Yes
+6cee7669-cfe4-40a7-af54-8856916f46e4,Swaminathan Group,Italian,Chennai,Udarsh Chawla,20,3764201579,2.93,63,Yes
+47300db6-d042-4744-afc2-b096c77178e1,Iyer-Shan,Thai,Chennai,Bhanumati Mammen,43,+918791869779,2.11,73,Yes
+a05e9296-2f8f-4d1a-887c-d11cfbbeb622,Ganguly LLC,Chinese,Chennai,Girish Rana,48,7476602818,1.08,39,Yes
+c5c44c3a-ba86-4aec-8c2e-96985023ee9b,Anand-Samra,Italian,Chennai,Charles Gupta,53,02952849940,4.79,5,No
+44e4b8f7-7dcb-40a2-a434-7b27ce26445e,"Palla, Bhandari and Rajan",Chinese,Chennai,Ojas Prabhu,43,+914344822087,4.92,51,No
+eee67b07-aaf2-408f-affe-aa26da1d2b78,Hegde-Lalla,Italian,Chennai,Samaksh Bumb,46,01612213892,3.5,7,No
+7d85c6d2-3a58-40c3-b79d-7ee2ce9e9dfe,"Barman, Menon and Kibe",Indian,Chennai,Gaurangi Ramachandran,48,08953159099,2.75,22,Yes
+2334a2bd-3ef4-4c31-8636-23901ae461c5,Ghosh LLC,Indian,Chennai,Tejas Kota,35,+915792694904,1.7,68,Yes
+c76eff98-6cc3-4111-8f4a-b1c05cfd2544,Balay and Sons,Chinese,Chennai,Pushti Uppal,36,01501532705,4.49,16,No
+12f73b5a-f240-44e3-932b-72ebbd560062,Manda-Balan,Indian,Chennai,Naveen Mall,54,6952987134,3.49,88,No
+2294df96-dc52-40d5-a9a1-011875d4db53,Narula-Subramanian,Indian,Chennai,Hemangini Zachariah,28,7539323609,1.87,92,No
+f7e22ed9-17b7-4034-8be8-0feef613591d,"Dada, Yadav and Magar",Mexican,Chennai,Mahika Bhatt,36,5245077937,2.87,66,No
+a35bc2f5-a7e9-46f2-abe2-391744506b43,Ram Inc,Thai,Chennai,Abha Rattan,26,3288427814,2.9,69,Yes
+fa58a685-2280-4d9b-8e03-bf5b044ed3c5,Yogi-Morar,Thai,Chennai,Kiaan Mohan,20,+913689416425,1.55,55,Yes
+9215c9fc-b586-4905-aa8f-12d44ce39e71,"Gala, Sant and Nori",Mexican,Chennai,Yachana Goswami,30,+911541474176,3.11,50,Yes
+94f18d7c-8d3a-420a-90aa-6692e00f35a4,Bobal PLC,Italian,Chennai,Wakeeta Goel,48,+915128965925,2.92,11,Yes
+81a5eb8b-e782-481b-93df-12e683213bd1,Parmer and Sons,Mexican,Chennai,Barkha Som,28,03874454584,2.32,98,No
+bd9264d6-87f6-4911-8a80-f260c87755c9,Varghese-Bakshi,Thai,Chennai,Yashasvi Shan,40,09551162796,2.51,55,No
+00b428d5-dd24-48e7-a93d-39a56a5e13bf,"Acharya, Parsa and Dora",Italian,Chennai,Gunbir Comar,53,02454514375,3.99,87,No
+2f9e07ed-b979-464d-9c7f-b0b9a60d95ce,Yogi-Dewan,Chinese,Chennai,Dev Pradhan,58,3400881956,2.75,30,No
+546fe512-10e5-4a11-908e-5659b5f8b5eb,"Warrior, Kara and Char",Italian,Chennai,Ekansh Das,24,5736463944,3.57,40,Yes
+f9bd9a8b-484e-40f4-a332-688417a32b75,Pandit-Pant,Indian,Chennai,Meghana Jaggi,59,+917899210834,3.41,93,Yes
+7f517590-cb5a-4645-8c3c-1c13170028b0,Naidu-Zacharia,Indian,Chennai,Diya Bail,50,5508461189,2.81,9,Yes
+8151d2ce-fda1-4c24-8901-a2860fa7e4fc,Kant LLC,Indian,Chennai,Jhalak Bhagat,24,5304054207,3.0,59,Yes
+0bccf42a-8fea-44ce-a80f-3b6fcf1d83c1,Dara and Sons,Indian,Chennai,Rudra Sankaran,51,6462450968,1.88,7,Yes
+ff28d290-a2e0-4352-b100-083489c82685,Aggarwal Group,Mexican,Chennai,Liam Sandal,33,+912423701829,3.84,23,No
+f608792a-adbd-49a6-80ad-ac9bc1f14f88,Shroff-Sengupta,Mexican,Chennai,Chandran Kapur,56,01112401742,3.32,58,No
+36cb1de5-b04a-4262-8155-3371474d5fbe,Sarna-Tara,Chinese,Chennai,Tanish Ganesh,54,+911192828318,4.99,11,Yes
+1e7c92e1-34c6-403f-88ef-3fcb52d98344,"Sundaram, Gole and Din",Italian,Chennai,Chaitanya Bhavsar,52,00488757747,3.06,44,Yes
+3e98e4e5-5a24-4033-bcb5-b58d95e5990a,Rajagopal PLC,Thai,Chennai,Anvi Chahal,29,06452063962,2.73,52,No
+6cf43b7e-aad4-4586-bfde-233e13f5da87,Mangal-Gala,Thai,Chennai,Arunima Deo,46,04975515425,1.76,81,Yes
+539cf273-f631-4982-a787-9994fc5e32e8,Patil Inc,Mexican,Chennai,Zayyan Natt,51,2219504448,2.4,32,Yes
+92c0a8f6-004c-48a4-b3e7-82c922770f32,Loyal Group,Thai,Chennai,Ekanta Virk,60,0184614389,4.19,33,Yes
+4b0c8e74-3952-42b6-a7d2-4f2511a42ce3,"Dubey, Mohan and Shah",Mexican,Chennai,Isaac Seth,60,04067570022,2.29,52,Yes
+f4d08d30-5e0a-457f-b77c-f56c0bfc7160,Ramachandran-Prashad,Italian,Chennai,Gautami Muni,45,00471027894,2.87,31,No
+7dc1e082-37f4-4f71-8b1e-02d1c33b50cd,Gaba-Jaggi,Chinese,Chennai,Ranbir Pradhan,43,06103092332,4.57,52,Yes
+720fa3c4-a68b-4dbd-afeb-3424ee12e520,"Ravi, Jani and Halder",Mexican,Chennai,Champak Shah,43,9325810035,1.55,78,No
+f64a987e-4ad4-4a80-9f48-3313773d8f8c,Koshy-Lad,Thai,Chennai,Devika Savant,60,3999145997,1.75,89,Yes
+4d898fb5-aec7-4b4c-94d1-48563fd76aa5,Murthy PLC,Indian,Chennai,Rajeshri Bhandari,26,+918907059072,3.81,61,No
+df197867-7e11-41ec-9cb8-20dc71526602,"Bahl, Bhargava and Ahluwalia",Thai,Chennai,Dayita Nath,27,+910196069987,4.31,24,No
+69c600f0-33ca-4ad0-aace-1aac085e93f6,Tank PLC,Chinese,Chennai,Warjas Pai,56,02962813165,3.08,11,No
+88e596c6-def3-423f-b95e-79a947ceae68,"Raval, Ramanathan and Nori",Thai,Chennai,Yashasvi Palan,33,+919387399302,1.72,65,Yes
+baca1cc0-1796-4ae2-ba68-3c945622a702,Srinivas LLC,Italian,Chennai,Rajata Rout,31,+916952600544,3.22,26,Yes
+59af8d6e-2fbb-46ad-a600-76533abef4ad,"Ramaswamy, Bora and Anne",Indian,Chennai,Manan Raghavan,60,01330877366,1.04,16,Yes
+9f355501-6298-4076-881b-7bc6b3225e96,"Pai, Sani and Narasimhan",Italian,Chennai,Alexander Bajaj,49,00007065840,3.07,36,No
+4bad732b-43a7-4351-991a-0a4fa4c9a256,Nadkarni Inc,Italian,Chennai,Tara Venkatesh,47,+910302349692,1.86,93,No
+04222972-deec-45d3-94e2-db96509d04ae,Kara-Kara,Thai,Chennai,Indira Tandon,53,+917796921677,3.31,22,Yes
+5fec6755-c8a1-4499-9938-217a44a5ef6e,Manda Ltd,Mexican,Chennai,Maya Rao,30,0917459735,2.02,52,No
+663d91e2-5304-4aaa-babb-467d1f4d479d,"Sharaf, Barman and Dani",Chinese,Chennai,Vansha Gara,22,+915101610372,3.19,70,Yes
+2e42c937-b8b5-43c5-aa97-00f5361189f9,Lall PLC,Chinese,Chennai,Hamsini Halder,49,+911088540645,5.0,22,Yes
+55b96833-a744-41ea-8b1d-031e2d34d677,Roy-Memon,Italian,Chennai,Kiaan Samra,39,03089411084,3.59,25,No
+a681d5e0-e039-4aaa-a74f-c4f000be6f1d,Wable PLC,Thai,Chennai,Pratyush Sankar,26,00811378512,4.56,98,No
+3a8241b7-cad9-496d-b0f9-bf438bf69c74,Suresh and Sons,Italian,Chennai,Darpan Krishnan,45,+917234242645,2.68,49,No
+24b83dbd-c3df-460c-a058-f5f5f8cc3a1a,"Sethi, Devan and Sharaf",Chinese,Chennai,Divya Guha,38,05025885285,4.55,97,Yes
+c3f048bd-410e-44d6-be92-27d1ceedb77b,Soni-Patel,Chinese,Chennai,Hema Patla,41,05424271944,3.1,29,Yes
+6f036b6d-8af2-4a85-9f2f-5313ea6885ce,Thakur-Mani,Italian,Chennai,Balhaar Kota,25,9021534868,2.13,32,Yes
+5562b14e-6e03-4837-ba01-bd5a85562a3a,"Singhal, Chadha and Vora",Thai,Chennai,Tara Master,59,+914597929275,2.07,80,Yes
+aab43494-a973-4191-a30f-dbb434010b58,Sarma-Ramanathan,Italian,Chennai,Umang Lad,32,+910560281617,3.78,88,Yes
+43582fea-f2a2-44ba-a320-6e44628a1022,Bakshi and Sons,Mexican,Chennai,Neel Sabharwal,21,+910834313882,1.78,13,No
+521b22ab-4622-4048-9427-bbdd8fb1d121,Ratti PLC,Indian,Chennai,Yash Thakkar,34,06994023018,2.87,35,No
+cfb29383-5483-4055-b66b-caa15274cfc3,"Patla, Bhandari and Sarna",Chinese,Chennai,Ishani Rout,59,+918139359727,4.42,72,Yes
+84eb8163-8f7a-4a35-a213-d8668cd96973,Vasa-Jain,Italian,Chennai,Matthew Ganesh,39,+911418801892,3.75,55,No
+3bfebe19-f1e3-4e69-b288-449ba31b4240,Pradhan PLC,Italian,Chennai,Manbir Dubey,58,+915107075297,1.08,23,No
+5fb42602-1bc9-4156-ae9e-665b432c0464,Dora Group,Chinese,Chennai,Jai Dayal,56,01832251745,1.54,58,No
+265ea1ac-bced-4184-8466-15f28b3b68c7,"Joshi, Jain and Sharaf",Thai,Chennai,Daksh Sarna,46,9451180532,2.86,82,Yes
+e4e697bb-35d3-4ef2-b5b6-27fcd8c8e421,Borde PLC,Italian,Chennai,Yuvraj Mallick,31,+917297105332,2.99,35,No
+5fd9669e-fb5b-48f6-8d9d-74933849b669,Ramachandran Inc,Mexican,Chennai,Daksha Subramanian,43,02844453703,1.91,76,Yes
+12589e33-3952-4c86-859b-41c128ff34d4,Sachdeva Inc,Mexican,Chennai,Qabil Cheema,50,+912278802662,2.73,45,No
+e4a6cee0-9ffd-45cf-9f4f-bafade4b7090,"Kuruvilla, Rastogi and Karan",Italian,Chennai,Neha Sengupta,28,+915262025149,2.46,49,Yes
+84703758-c0bc-4db0-9938-c185b6d626c2,Upadhyay-Munshi,Chinese,Chennai,Yoshita Parsa,26,08444622385,1.18,99,No
+9e2c4b37-8ffa-4ac0-aaca-7211f6107cd5,Mutti-More,Chinese,Chennai,Max Karpe,25,4347453366,2.26,95,No
+8ec75f81-8f84-4926-9609-6915292c1909,Ghose-Varghese,Indian,Chennai,Rachita Cherian,41,0627046918,4.46,6,Yes
+24941d98-4bc4-4272-9ae6-041138e6a207,"Randhawa, Wagle and Rout",Chinese,Chennai,Irya Sampath,20,+914865497190,4.74,7,Yes
+54be37ef-5049-43f6-a58d-3c03c2af8884,Shanker Group,Thai,Chennai,Yatin Mutti,34,0732319912,1.27,73,Yes
+aac304f0-5df6-4ef3-97fd-441eaac2d865,"Sama, Zachariah and Singh",Thai,Chennai,Darsh Patel,25,+916605165500,3.5,92,No
+5e444199-fc45-446a-8db9-2d9d879372bc,More-Memon,Chinese,Chennai,Chatura D’Alia,26,0345167167,1.82,51,No
+8bc32b9c-2677-496a-a072-5ce94efd08e6,Sankar-Vaidya,Chinese,Chennai,Nandini Rana,60,1842454271,4.68,73,No
+296ae547-e496-4aad-9780-ed8ccb252206,Boase Ltd,Thai,Chennai,Vincent Dara,32,6562716780,4.49,74,Yes
+dc0bba1e-78b3-44aa-bc27-58e50c7658d6,Mand-Issac,Mexican,Chennai,Leena Chakrabarti,22,0911840646,2.69,30,No
+87797a2a-b407-4854-b192-df3feea806f6,"Sha, Ghose and Brahmbhatt",Chinese,Chennai,Sara Luthra,34,02498286349,4.61,81,Yes
+bb0671ba-4f2c-467b-abb2-5a2702fd31ee,"Kar, Jani and Rajan",Chinese,Chennai,Balveer Menon,41,+911532226607,2.21,72,No
+55257edf-a179-4283-9edf-9e932ebe655d,Krishnan PLC,Italian,Chennai,Lopa Kalla,48,06890518061,2.05,30,No
+6f776794-0949-4451-b489-2c8212018646,Sinha-Prashad,Thai,Chennai,Anirudh Sule,37,4328841839,3.12,37,No
+f0cf3c28-f3a3-443f-ac66-4172984edc2c,"Pillay, Dara and Chana",Indian,Chennai,Peter Ahluwalia,28,4825697389,3.23,4,No
+539f48f3-3d76-47c5-91ef-1d90e7f67ec2,"Prasad, Brar and Parekh",Thai,Chennai,Jyoti Subramaniam,56,+919593211300,3.68,9,Yes
+f29da4f8-809d-4e02-bdb4-1a53b0f1315c,"Jhaveri, Halder and Chaudry",Thai,Chennai,Udarsh Randhawa,27,+911477146828,3.1,99,Yes
+659c682f-2929-4d2d-8812-daf178c92f28,"Sura, Suri and Hora",Italian,Chennai,David Ramakrishnan,60,4034197136,1.64,58,No
+8eab571b-51eb-41ea-a732-1242d3b94dbc,"Modi, Swamy and Sampath",Chinese,Chennai,Tara Kamdar,39,4373072248,1.38,90,Yes
+9b4c5579-02e4-4b15-b5a4-93a4d0de9cfc,"Puri, Setty and Issac",Mexican,Chennai,Tristan Gill,58,+913771885642,3.74,69,No
+807d6d49-43d6-4267-8b12-a2c5ba36835b,Radhakrishnan-Dalal,Mexican,Chennai,Yachana Bhatti,48,4420952289,4.55,40,No
+c5a1f8a5-d8d2-41dd-9a6d-e08a564cfc56,Srinivasan-Dey,Chinese,Chennai,Omkaar Kashyap,30,4960809506,4.37,78,No
+93c1e48e-2617-4f99-8f40-d7f12b61333c,Uppal-Pradhan,Thai,Chennai,Meghana Dar,44,9412789605,4.7,6,No
+3d74d9f0-2333-4314-8b4c-6ba1a6b7ab6e,"Buch, Borra and Randhawa",Italian,Chennai,Wriddhish Chaudhry,20,6519300566,1.39,26,No
+76b1ef37-1803-4db2-862f-e319a755531d,"Walla, Chaudhari and Narayanan",Thai,Chennai,Radha Jaggi,59,1857004386,2.23,27,Yes
+2ae3b685-5328-4532-a4b4-f818acdeaaef,Jain-Sampath,Thai,Chennai,Omya Bansal,38,+911462625452,2.32,62,Yes
+5658eeca-1c1c-4272-b949-a434bce34be3,Samra Inc,Thai,Chennai,Niharika Grover,53,08193720594,3.75,14,Yes
+7516c4d8-b502-4762-8e84-7e93b6cd00bb,Tripathi-Uppal,Indian,Chennai,Tarak Kanda,46,9365265389,3.2,24,No
+aa2511a3-8076-483e-85d0-c1000ec6de3d,Ganesan-Mistry,Italian,Chennai,Logan Rajagopal,42,+914749762284,1.58,33,Yes
+ce850eaa-1bcf-4b90-a1c9-d1352d4f209d,Narula-Dara,Mexican,Chennai,Yash Tripathi,31,04667464063,4.44,28,Yes
+dcefc177-f854-4e13-9c83-2aa61694bb93,Bail-Dar,Thai,Chennai,Tanish Aggarwal,30,+910226532846,1.56,22,No
+463c64ea-c459-4b14-8afb-3cc402479dfb,"Bose, Hegde and Pradhan",Mexican,Chennai,Kalpit Gole,42,3858426380,1.77,60,No
+c2c8c0fa-cae2-4fd1-9975-a54aa30f5308,Chaudhry-Reddy,Italian,Chennai,Shivansh Thaman,48,0921986471,4.49,31,Yes
+a1305bfb-b54f-4898-8818-2cf3d75716f1,Garg-Char,Italian,Chennai,Qabil Khare,54,+917761184348,4.23,7,No
+f8145d2a-47c5-4e5c-b7ca-edc79544b250,Tripathi-Kota,Indian,Chennai,Samuel Jani,41,+912488413311,2.74,45,Yes
+98f000fa-a0ac-49db-b6ec-4c260a81a293,Patil-Devi,Thai,Chennai,Unni Varma,20,01219047050,3.1,1,Yes
+6d913361-7447-4bd0-9e7c-ef3f66cf02ee,Nagy-Rau,Mexican,Chennai,Patrick Chandran,24,4671455658,1.25,16,Yes
+2f9bef3c-ae46-4826-9f50-1010f1ccb341,"Yohannan, Ganguly and Yogi",Italian,Chennai,Charita Varghese,34,+916714121972,1.83,90,No
+3c89926d-b833-43c2-bc4b-7e977c7100c5,Vig-Kaul,Mexican,Chennai,Jason Buch,37,2838716048,2.44,69,Yes
+3b0dbd8c-4e73-4127-885f-693eefa4a237,Sood-Bala,Mexican,Chennai,Xavier Zacharia,50,+910539592597,4.3,19,No
+ae6dd185-05bd-492e-a534-44466dfc59c5,"Prabhakar, Nagy and Lala",Italian,Chennai,Elijah Tara,34,8055823274,2.55,52,No
+8c2b153a-1fcd-4672-975d-5f3f302f75c0,Chakrabarti Ltd,Thai,Chennai,Isha Kohli,58,8930849850,1.02,51,Yes
+6ebd3db1-e451-48f0-af88-0a46767c25fb,"Mani, Venkataraman and Kala",Italian,Chennai,Kashvi Seshadri,26,+918217323068,3.81,97,Yes
+a431ed7c-8f79-48d5-bc1d-a1ae30c84e2e,D’Alia-Ramesh,Indian,Chennai,Umang Biswas,53,+916118907153,1.86,44,No
+39206795-1100-48ba-b894-c7b31aeece56,"Dora, Krishnan and Suri",Mexican,Chennai,Manan Chahal,21,05352994263,4.71,87,No
+200ae83e-9561-4bd7-b54b-97c897c11f83,Biswas-Mody,Italian,Chennai,Watika Balasubramanian,28,+918676166236,3.59,44,No
+b6e10e69-a043-4cec-82f5-e5fd046f204c,"Gara, Saran and Jayaraman",Mexican,Chennai,Lekha Vasa,24,08281519525,4.08,55,Yes
+f65f0ff5-33e2-4e97-b1c5-e797132ed837,"Raman, Sani and Nigam",Thai,Chennai,Chakradhar Dhar,47,+911259371192,1.13,86,No
+c9fd1fd0-1f06-4495-ada1-1238f137d917,Agrawal-Kari,Italian,Chennai,Abdul Prasad,46,+912588409835,5.0,63,No
+a7c4a286-2143-495c-a55e-9ba1c062c9b5,"Rau, Raghavan and Khatri",Mexican,Chennai,Lohit Bhatt,54,02037220338,3.71,72,Yes
+05d740e3-1304-45e2-8785-44b38c3ca9d3,"Gulati, Hans and Bahri",Chinese,Chennai,Vedika Doshi,59,2701469902,3.98,27,Yes
+80777ec8-d4cf-4446-a90e-fcf3712b8a7e,Desai-Sami,Italian,Chennai,Vinaya Varughese,21,00802610052,3.66,48,No
+ceb07973-428a-4b6e-9ea4-0fb83cd0871c,Ramaswamy LLC,Indian,Chennai,Vasudha Narula,29,+911070626790,1.29,67,No
+29b926ef-207e-49ea-948e-1e2b87e1c74e,"Das, Prasad and Dass",Thai,Chennai,Brijesh Sarraf,49,07829138148,3.93,51,No
+5056ff96-41c1-4565-83a2-94a389d1e32b,"Sani, Aggarwal and Tara",Italian,Chennai,Qabil Madan,57,03419794042,4.68,75,Yes
+59fddc16-c29b-438e-9e77-536483baaa0c,"Bhardwaj, Mitra and Bahl",Indian,Chennai,Oscar Bal,24,+915604202936,1.94,16,Yes
+9130422a-2c96-4f1d-9083-29e2f3c4ab0d,Dugar-Dhingra,Italian,Chennai,Nidhi Keer,36,+911126737145,3.09,45,Yes
+a311d78b-a7d3-4a97-8210-53170f719ebc,Hegde-Kumar,Indian,Chennai,Atharv Rama,33,0934121190,2.15,8,Yes
+cf7e30d6-ba74-4973-8c7f-b63c3e0da417,Dayal-Cherian,Chinese,Chennai,Raghav Wagle,37,03182532508,2.06,22,Yes
+b17dc724-1be0-4e1a-8f8e-f4bbee12f3af,Sathe-Mohanty,Chinese,Chennai,Falak Sunder,42,+916106953315,3.51,34,Yes
+d3951a9b-f275-48d5-8485-86968c6df35d,Kamdar Group,Italian,Chennai,Anusha Sami,32,06631226398,1.8,39,Yes
+907cba21-a391-4868-87c6-d74aed112ec7,Contractor-Chawla,Mexican,Chennai,Anirudh Arora,20,4185264148,4.71,54,No
+7be3b56f-8e7f-468c-88bb-e798601a2466,Nayak Inc,Indian,Chennai,Harish Hora,58,8630334540,1.93,1,Yes
+28d213a6-9e17-4a2a-b6db-79cef1cd8424,"Bawa, Sarma and Khosla",Chinese,Chennai,Parth Kakar,60,6291393396,2.66,31,No
+aa764ea5-ca47-4f85-8af8-75fd48bdffa9,"Manne, Pandit and Saxena",Indian,Chennai,Raagini Madan,45,05368683241,4.64,52,No
+bfac784b-39e3-424d-83f1-296b20bad0e3,Shankar PLC,Indian,Chennai,Ikshita Nayar,60,06101961005,3.46,73,Yes
+122be832-2428-482b-bd76-6903c94789c2,Soman Group,Italian,Chennai,Fariq Dutt,51,09129254511,2.88,19,Yes
+3b26f908-9ad2-46d1-bce1-ede457cf6746,Doctor Inc,Thai,Chennai,Sara Yogi,39,4451416850,4.04,48,Yes
+9a63b9ff-dded-4609-9532-35e0995b2a2f,"Khare, Rajan and Sankar",Mexican,Chennai,Triveni Dhar,22,04993552168,4.36,10,Yes
+5a007632-a84e-4f86-8a8e-c98ed28b9d34,"Mahajan, Savant and Boase",Chinese,Chennai,Jagat Gaba,56,2209546570,1.38,99,Yes
+6904bcf0-3600-4f28-8632-ae1a76244e8d,Swaminathan-Panchal,Italian,Chennai,Idika Subramaniam,36,6490880150,3.19,12,Yes
+81a9eb0e-d83e-4c42-a8e5-e39ae4ca6e37,Bhattacharyya-Pillay,Thai,Chennai,Harsh Lad,38,4052054126,1.48,1,Yes
+94003f56-a56a-43e9-8123-10d17cdeac6c,Oza-Sharma,Italian,Chennai,Quincy Pant,55,00312355837,2.43,66,Yes
+ec330770-7972-40ac-aae5-0f831399ceec,"Lata, Narang and Nanda",Chinese,Chennai,Vedant Pillai,21,04172059274,1.24,33,Yes
+67cb0ed7-b92d-460f-ae1b-b212c3fd86c4,"Rege, Hegde and Choudhury",Italian,Chennai,Jacob Nadkarni,21,9316459599,2.41,36,Yes
+6c4ef148-cbd4-40a3-96d5-5cce17f3f420,Lad-Sur,Indian,Chennai,Thomas Jha,50,+918618735572,3.01,82,No
+bb639d39-90ed-460a-bb91-2016939a2879,Ben PLC,Indian,Chennai,Rajeshri Bawa,26,+917131958705,1.66,92,Yes
+1e2ae0e4-4e9e-410d-abb2-0190245d5956,Rege-Sani,Mexican,Chennai,Riya Sarkar,22,04220421861,3.38,67,No
+7b4a5454-9fb0-4008-a675-db0e9fae60d9,Nadkarni Inc,Italian,Chennai,Anthony Borde,53,00932786592,3.21,30,No
+f009320e-cd36-4fe2-b002-5081f22ef83f,Gade Inc,Chinese,Chennai,Girik Sethi,34,04319662648,2.0,85,Yes
+1ef03634-3abc-4df9-8d09-78d73f47adbd,Sibal-Morar,Mexican,Chennai,Zansi Sani,23,8636855730,1.77,43,No
+2adfe115-3343-4ae3-aeec-86cb323900f3,"Lanka, Bava and Parmer",Indian,Chennai,Chaitaly Yohannan,42,03961386249,4.23,32,No
+7a6adb74-b077-4345-8630-98420dfa9c33,Sama Group,Chinese,Chennai,Neel Talwar,58,+916987192646,3.03,72,No
+cf2aee5c-2df2-4b57-a3df-58d372f79907,Mohanty-Mistry,Chinese,Chennai,Charles Vohra,59,06690084935,3.7,46,No
+9817f43e-b115-4081-be83-9dc16c131b22,Lanka-Contractor,Italian,Chennai,Gaurang Dave,28,+916602773238,2.56,70,Yes
+41b483cf-5af6-4e1e-93bd-f9f766dea708,"Issac, Padmanabhan and Minhas",Chinese,Chennai,Nimrat Edwin,42,1551143097,4.76,21,Yes
+d45ea675-6cb7-46c7-a937-252c93363bdd,Pai Ltd,Mexican,Chennai,Ladli Mand,25,02974890379,2.69,66,No
+0d306579-3998-4e06-b736-d6225cb84d18,Oza-Sur,Chinese,Chennai,Wyatt Narang,60,+915216812631,4.42,65,No
+e0d6b537-5be6-49fc-9168-695cee314afa,"Pau, Sani and Manne",Thai,Chennai,Madhav Kumer,20,8384362210,2.15,58,No
+d1b55507-56f5-4496-8dce-7b70e007b41e,"Sahota, Sethi and Roy",Chinese,Chennai,Aashi Murthy,44,+911197623427,2.0,21,Yes
+5118ca3f-aa15-4e40-aec2-80d185971e09,Chacko-Nagy,Thai,Chennai,Balveer Varty,31,+916048461334,2.22,35,No
+364c5321-8360-4d8b-a305-6970b270567c,More-Sandal,Mexican,Chennai,Rehaan Uppal,44,4676023656,3.74,58,Yes
+e052599e-f36b-4064-b5d4-1d2145e5149f,Morar PLC,Italian,Chennai,Aditya Solanki,36,9842286056,4.28,86,No
+194ed6ce-bff9-4790-874c-ab79ed11ac93,Venkataraman Group,Thai,Chennai,Ridhi Talwar,38,02469287097,4.74,57,No
+b4069dad-e564-4bba-9c66-b32436da83d9,"Gara, Anand and Sidhu",Thai,Chennai,Gautami Bawa,28,01912938714,2.47,2,Yes
+46637afe-69d2-42af-86dd-1a675457426b,Mistry PLC,Mexican,Chennai,Nachiket Rana,22,+917053363000,1.79,78,No
+50781f7a-9811-4f50-851a-f8d653d0dde8,Sibal Inc,Mexican,Chennai,Rushil Kara,56,04270111879,2.08,68,No
+5caa6ab6-bd88-4abd-ad16-e0682d0e9280,"Mistry, Suri and Ghosh",Italian,Chennai,Varsha Gandhi,29,09405339197,1.84,90,No
+1046b96a-9162-4ba8-8a1b-8df63032609c,"Virk, Dani and Lalla",Italian,Chennai,Ekaraj Seshadri,59,00733714576,4.28,68,No
+026a76b3-fd32-48bb-a4f9-871db5a6a052,Ramachandran-Shah,Indian,Chennai,Qabil Rao,46,+915460349168,4.88,11,No
+85d26934-d93f-43a3-bf87-e5f10c484551,Narayanan Ltd,Chinese,Chennai,Amaira Bala,25,01604749746,4.2,88,No
+01525b9f-4b84-4614-8856-e9260c202fbf,Sethi-Talwar,Italian,Chennai,Ridhi Narasimhan,56,+917704920386,1.35,25,Yes
+ccc56272-f00d-4a0c-ae2f-e1f306a113ac,Thakur-Morar,Thai,Chennai,Alka Mander,39,+913453445109,4.6,67,No
+02f1b49a-4d81-4885-ae8c-fd2a07e38eac,"Parekh, Parsa and Yogi",Italian,Chennai,Champak Mitter,59,+911963255187,1.02,47,Yes
+3663a5a1-5b6a-4c8f-b3ad-26032d622bb1,Rege Inc,Thai,Chennai,Vyanjana Sathe,27,04620438769,4.92,62,Yes
+6a2b0231-6674-4df0-bda1-089f4e53cf92,Kanda-Nagy,Mexican,Chennai,Charvi Shetty,43,+911929627885,2.88,37,No
+52b968b5-feaf-4cb2-8ff6-213d1721a15c,Mane-Sekhon,Thai,Chennai,Dayamai Sodhi,57,02648448192,2.5,48,Yes
+f2ff55e7-c98d-49f5-85b8-c8e3982e0984,Roy LLC,Chinese,Chennai,Falguni Om,44,+910305700510,2.35,44,No
+e10c58e6-53ac-4b73-a3d1-d07471397257,Parikh-Sathe,Italian,Chennai,Gaurika Padmanabhan,34,0705916556,2.24,97,Yes
+1fa0d65f-516a-48a6-a10b-fde4c477aebe,Baral and Sons,Italian,Chennai,Quincy Bhatia,49,05455680965,3.92,29,Yes
+3d6243ba-b9f0-4054-989c-0c47cb4449ca,Raja-Bhasin,Indian,Chennai,Radhika Bumb,32,+911861999135,4.14,50,No
+9f6a52a1-1bf9-4282-a1ca-118b9a327292,"Nath, Chatterjee and Bal",Thai,Chennai,Yuvraj Panchal,35,1676267029,1.44,98,No
+a7560848-4e9f-4edf-b091-9186e03f1efa,Dash-Nadkarni,Thai,Chennai,Hemang Upadhyay,43,5787330411,4.28,70,No
+c4681b8e-1d18-4c95-9017-c9da1420bc71,Sarin Ltd,Mexican,Chennai,Arjun Dalal,48,05909255464,1.33,6,Yes
+fd984aed-4d8d-4d1b-90ad-3ea8c9be18f7,"Nayar, Bhat and Raj",Italian,Chennai,Januja Bhagat,50,04422088559,2.9,39,Yes
+f37225f8-f5fe-480f-9fa9-c55697ee5588,"Patla, Karnik and Morar",Mexican,Chennai,Ronith Nath,50,4060925137,4.38,59,No
+4ba08786-67cc-48f0-9cc2-39f43fccbe19,Sen-Bhat,Thai,Chennai,Manbir Edwin,50,2742056103,3.84,97,Yes
+44cce499-2919-40a7-a8e5-80fff274088d,"Bhatti, Radhakrishnan and Mallick",Mexican,Chennai,Jyoti Korpal,60,4570571646,4.24,19,No
+6c72a6e4-4cdd-4822-9b50-0ba4c0a2baec,Munshi-Mohan,Thai,Chennai,Jagdish Mahajan,59,0804277378,2.78,93,No
+1bd55881-d1e5-413f-a23b-cf8fd076de0a,Mani Group,Italian,Chennai,Ranveer Prashad,56,+910950364380,3.92,89,Yes
+95472d3c-b8a8-4b9b-a761-cdc2079c4b66,"De, Lad and Kulkarni",Indian,Chennai,Faras Boase,38,1349940986,2.63,27,No
+f5f267ab-a2ce-4d82-8165-a58d9fe00a6e,"Dubey, Karan and Badal",Italian,Chennai,Aryan Jha,23,4112772945,2.24,48,No
+0de5cf26-4af0-4490-ae06-31191bf58c10,Thakkar Group,Chinese,Chennai,Indrajit Konda,20,09562583696,1.95,9,Yes
+149c581e-01fd-4200-848c-3eb3fc62c162,Thaker LLC,Italian,Chennai,Fiyaz Gara,40,6233502303,2.72,58,No
+88204e2a-5a19-4a07-873f-a25855e875e9,Upadhyay Inc,Italian,Chennai,Kalpit Yadav,47,07361496147,4.93,42,No
+6d461436-db9e-4324-8b8a-1e5c5c68b94f,"Nayak, Koshy and Patel",Chinese,Chennai,Chakrika Walla,57,4021981401,2.84,16,No
+c0d08fdf-80e2-4113-ab39-b7d6a5ce2499,"Bhandari, Rao and Joshi",Italian,Chennai,Jackson Rout,37,+911823230822,3.15,3,No
+6b45ebc6-45eb-4010-a5b2-ab6089f17c34,Kohli and Sons,Thai,Chennai,Daksha Hans,25,7501876289,1.66,21,Yes
+638aa163-1f41-4514-a889-f73cd7eac87f,Doshi Ltd,Mexican,Chennai,Daniel Pant,50,+919474325917,4.81,23,No
+eb73bf58-5d9c-4268-9eba-ccb67ccbcde4,"Mukhopadhyay, Dave and Ben",Mexican,Chennai,Indira Prasad,35,07271175093,2.6,45,No
+1e368016-440b-48c9-b038-76cd61b88761,Sachdev Ltd,Italian,Chennai,Yutika Setty,31,04838906382,1.47,56,No
+41079d1c-c510-4575-afc9-cd419cdf37f9,"Rout, Rout and Sant",Indian,Chennai,Aishani Nagy,27,+918220831428,4.83,36,No
+591f4f88-f280-4fe6-837b-47b62bf8e920,"Arya, Zachariah and Radhakrishnan",Thai,Chennai,Christopher Gara,46,5205655604,2.62,77,No
+73bc7110-2ca3-4618-bf54-7e2336fc7688,Nanda-Deshmukh,Indian,Chennai,Hredhaan Venkatesh,32,+913473126968,4.92,82,Yes
+420436bd-5d4f-4463-9201-63e11274320b,Barad Inc,Indian,Chennai,Chandani Nagy,34,0510550279,2.53,48,Yes
+40b4f9f5-cbc3-4c5a-aa10-e4c31a334e20,"Saraf, Viswanathan and Bahri",Indian,Chennai,Pooja Narasimhan,44,07274526807,2.14,29,No
+bcfeaaf8-f896-4176-b659-82ce5e3551d6,"Sethi, Acharya and Nair",Indian,Chennai,Oni Salvi,41,07785097060,4.31,92,Yes
+28e3f08d-7386-4c1a-89fc-82275a4c1acc,Yogi-Shukla,Italian,Chennai,Charan Vasa,50,04399974203,3.0,23,Yes
+7475cbae-9dbd-45bc-93b8-03f7b7bd9612,"Tak, Lal and Babu",Italian,Chennai,Ishani Sura,42,03765107658,1.29,53,Yes
+4e1184c8-07c0-475b-8c0f-986ed0f96b48,Konda Inc,Chinese,Chennai,Logan Krishnan,49,01901901224,2.26,55,Yes
+be8e57e4-0f45-45f2-bef2-ba55da92aa21,Sridhar and Sons,Indian,Chennai,Girish Garg,59,6238451968,3.96,82,No
+62e52a5b-1beb-408e-b3d9-cd5b6fc10466,Sangha LLC,Mexican,Chennai,Rajata Borra,43,+918515538142,3.24,13,No
+9c63c86a-9402-4b36-8a98-a1ca3c009ef5,Kar-Bhandari,Italian,Chennai,Vamakshi Ravi,58,+919982774642,3.26,50,Yes
+329b91a9-4db8-4da4-a577-a36125805e0e,Patil PLC,Chinese,Chennai,Zayan Sarraf,49,08373171075,3.57,13,No
+b1ad6feb-d8c1-4cc4-a1f3-2b9a06da5b51,Chatterjee PLC,Italian,Chennai,Vrinda Pradhan,49,03400745242,2.66,71,No
+39718f69-6175-45af-8574-18e9a62b47d5,"Shetty, Sani and Aurora",Indian,Chennai,Chaitanya Virk,45,08853926029,2.47,75,No
+6f5e32a8-8975-43d2-adee-937ca7ab977e,Dalal Group,Thai,Chennai,Balhaar Deep,46,01700287276,4.97,27,No
+d75dc8a7-961e-4d46-8d9b-4404a75b52b7,Wali-Batta,Thai,Chennai,Nathaniel Grewal,47,8773820414,3.12,89,Yes
+b0f07733-85e7-4525-89c0-f1e76e5db988,Khosla Inc,Italian,Chennai,Baghyawati Saxena,31,4938331674,4.65,5,Yes
+be4fd60d-36ee-44fe-9556-2e469e10e5e3,Soman-Devi,Chinese,Chennai,Charvi Ramachandran,24,+910253712781,4.68,83,Yes
+dc1e7220-6306-4cd7-af49-a7422ab1fabb,Kapoor and Sons,Indian,Chennai,Nihal Tank,25,3447841732,2.26,23,Yes
+9df6767c-e4a5-410f-b61f-2bf2cbbc441d,"Hayer, Rau and Baria",Mexican,Chennai,Ijaya Wali,42,+917120948620,2.02,55,Yes
+c7926081-6c49-4686-90f9-3afcdb1fa0d4,Kulkarni Group,Mexican,Chennai,Wishi Bakshi,46,+916456119044,3.31,3,Yes
+5e0a6a8e-1cb7-4c20-b025-7ccf7ec9517a,Chadha LLC,Chinese,Chennai,Oviya Sekhon,29,08985701063,1.47,30,No
+069f7ca4-5512-4649-bf31-32f3c42fc746,Shere-Solanki,Mexican,Chennai,Falguni Kuruvilla,49,2076464672,4.86,21,No
+e43808b8-784a-4067-bbf8-1d4337e3d5d4,"Dara, Hans and Savant",Indian,Chennai,Gaurang Deep,53,+912475707237,2.38,52,No
+a9778952-9b00-47d9-9dd7-d0df52f7bdf8,Boase and Sons,Italian,Chennai,Ishita Dalal,48,3863137260,2.12,91,Yes
+ac4c66c5-4cd7-4549-ad67-ac42d80859e1,Patla LLC,Italian,Chennai,Pranit Gupta,28,08131675639,1.56,44,Yes
+0cbb86fa-33ab-442d-a6ca-23c432cf73de,Sangha Inc,Chinese,Chennai,Yashoda Suri,21,+910413045911,4.9,2,Yes
+556a6d0a-6d87-4ef5-9f6d-b6dc4df02003,"Khatri, Palla and Dhaliwal",Thai,Chennai,Indali Sur,20,07223863412,1.47,82,No
+89de78dd-326c-40d2-a25a-565ef68306fa,"Modi, Balasubramanian and Ahuja",Chinese,Chennai,Kashvi Anand,49,03171504758,1.57,72,Yes
+5e9d6f08-3067-467e-a5a6-68f37cd282a2,Chandran and Sons,Indian,Chennai,Rajata Ben,35,+912839312579,2.54,91,No
+b0921796-baea-4b5c-a606-b5048dd9dcbc,Pandya-Patel,Mexican,Chennai,Sneha Mody,39,6835222162,2.07,67,Yes
+ceffbcc9-c1ef-413f-9934-7c75ed4b60e8,Sangha-Nath,Thai,Chennai,Amaira Chandra,54,+910734980892,1.79,63,No
+f208fbc8-42c2-4471-a9fc-6b75371c1ac1,Sunder-Karnik,Mexican,Chennai,Sanaya Chakraborty,58,0400037142,2.92,40,Yes
+8e488b43-d8b0-4c49-a999-95c239151afa,Goyal-Sule,Mexican,Chennai,Yashvi Sastry,45,+917429464681,3.49,29,No
+124b9be2-bd8f-4778-91d0-2132aa8c4766,"Ram, Kale and Sha",Chinese,Chennai,Hemang Dugal,31,05346399473,1.14,95,Yes
+62c7eef9-6960-41f9-a3e9-590d9503f642,Chakrabarti-Bir,Thai,Chennai,Arya Chaudhari,25,3706630572,3.96,24,Yes
+accea8ff-fb7a-493e-9ced-2b7190a33e54,"Devan, Ramakrishnan and Nayak",Thai,Chennai,Arin Batra,30,+919500868821,4.16,94,No
+931df941-4ba2-4ddd-995c-9bb0cd8b8daf,Chand-Arya,Thai,Chennai,Hemangini Viswanathan,56,7713848757,1.74,8,Yes
+9ae7f3aa-be0f-48c3-ac00-92acebec599f,Agrawal Group,Chinese,Chennai,Yashoda Rajagopalan,38,03829482535,4.2,36,No
+03f0b8f6-f526-4abd-bcc6-7f8375b59bf7,Chander and Sons,Italian,Chennai,Reva Murty,35,06076477564,4.02,70,No
+16de0430-0846-46cc-847c-07bda99360d0,Vasa LLC,Mexican,Chennai,Bhavini Krish,56,03740252245,4.6,4,No
+0751185b-df2b-4b3b-bc1e-75e3e4141c64,Lall PLC,Italian,Chennai,Ucchal Borra,52,4084446049,2.22,18,No
+cddb0cce-d683-424c-91f4-9e6dd544d988,Kumar and Sons,Thai,Chennai,Ekapad Shroff,23,01370807592,2.87,56,Yes
+48dc773b-c2bc-477b-93f8-6d18d15c9eb8,Bassi Group,Thai,Chennai,Aachal Deshpande,54,05113876769,2.76,13,Yes
+a15452bb-d3e5-4161-8a11-caff3b27cd72,"Dube, Saran and Johal",Thai,Chennai,Manya Desai,46,00024255809,3.01,28,Yes
+3eb0ac2a-28a3-476d-8f24-c277ca45363a,Kala-Natarajan,Italian,Chennai,Nathaniel Buch,58,06857772874,1.76,39,No
+1ecd0f68-198e-4983-8a91-3940454ece30,"Prabhakar, Sibal and Uppal",Mexican,Chennai,Sneha Kapadia,24,07239146169,1.15,87,No
+efbe8863-b765-4d22-81bf-156bee3ded03,Singhal-Butala,Thai,Chennai,Yashica Sachdeva,28,07746965632,4.88,34,No
+55d86fd7-ed73-4059-bca6-35f77e40973f,"Basu, Ramaswamy and Bava",Indian,Chennai,Tripti Butala,46,+912325770682,2.92,8,Yes
+2514a8c7-e650-440c-a668-bd1ad13647c4,Sarna Group,Thai,Chennai,Chanchal Joshi,39,8872338394,4.41,1,No
+353b06da-84e0-4e1a-89ca-f907ec42e1be,"Kalla, Kota and Purohit",Italian,Chennai,Keya Nagi,35,+915141733082,2.77,4,Yes
+b2064fdc-ec22-4bb3-953f-b2358f6c7c34,Sengupta Inc,Italian,Chennai,Naveen Kaul,26,+910375992494,2.36,53,Yes
+68df4a8f-d399-4aa9-8fd6-719e2fb3109a,"Minhas, Bala and Bir",Chinese,Chennai,Chakradhar Kanda,47,01797532926,4.5,94,Yes
+eadc2771-c285-49c6-b422-6327780e6534,"Tank, Zachariah and Sarna",Thai,Chennai,Alka Mohan,26,0419386554,4.01,43,No
+863b326c-0b2a-4e75-a781-718c6fb3e7fa,"Kohli, Brar and Madan",Chinese,Chennai,Isha Chaudhry,50,+917134321880,4.0,58,Yes
+93d041b8-143f-42e8-becf-66aecaefee52,Mohanty and Sons,Thai,Chennai,Abhiram Sant,55,+919865275508,2.62,3,Yes
+5ebbe5dd-37da-46b6-a7ca-565960c2e993,Sarraf-Sood,Thai,Chennai,Bhavya Date,32,06529657323,1.12,85,Yes
+94be5aee-6a42-4f68-8d0f-a935842161dd,Dave-Anand,Indian,Chennai,Zayyan Chhabra,33,03433847598,1.47,89,No
+97704d1b-6d86-48ec-8c3d-1f59978289df,"Mammen, Gera and Uppal",Indian,Chennai,Eiravati Dixit,35,6715071520,3.63,84,No
+5a071ebd-e74d-4d1c-8c7e-52f6ef4495a8,Merchant Inc,Chinese,Chennai,Girik Sagar,47,4991988924,3.3,26,Yes
+d40dad9b-c980-45ab-9964-2f082b881244,Mital and Sons,Thai,Chennai,Utkarsh Banik,26,06473033964,3.55,51,No
+7d665c60-7e4a-44e6-a569-7d88bac41796,"Rege, Halder and Vora",Indian,Chennai,Veda Wali,57,+912061920615,3.7,61,No
+3ef58658-e208-4273-97f4-6a2ac9f67f8f,"Bandi, Pandit and Menon",Mexican,Chennai,Lucky Kade,57,00866834807,4.25,23,No
+335b1e07-3b2d-42b0-ac75-70fa47831eb1,Brahmbhatt Group,Chinese,Chennai,Gagan Kaur,50,+911421682630,1.34,5,No
+047178f7-34ea-4037-8fda-fdf680146169,"Brahmbhatt, Baria and Thaman",Mexican,Chennai,Raagini Srinivas,29,8458825149,4.34,27,Yes
+b564fe49-c27b-4f58-85f0-50480ae01e6d,Tella-Nair,Thai,Chennai,Ganga Raja,41,09224251897,2.17,59,No
+78d4d7c6-f35c-4e0e-95f8-09993ac952e0,"Gour, Wali and Sama",Italian,Chennai,Hamsini More,54,2695328316,3.87,78,Yes
+1c603d82-6349-4f5f-9aaa-f4201a8442e4,"Tripathi, Nagi and Barad",Mexican,Chennai,Sanya Bora,33,+912288320490,4.13,99,No
+a37f0b11-edbf-4ff4-8869-bf31a587b02d,Dhawan-Tata,Indian,Chennai,Faqid Mandal,32,0075133565,2.45,76,No
+8b0096d3-17b3-4c85-8d68-dd2cb3f56814,"Mani, Sankaran and Sandal",Mexican,Chennai,Damyanti Chana,23,+912435711566,3.6,16,Yes
+5c0f97dd-190e-472c-99b2-5af56cc40eb5,"Rege, Patil and Jani",Chinese,Chennai,Yashasvi Gupta,59,+914382492646,2.25,30,Yes
+079a28f3-6a50-43a0-9ab9-ec0d0784087b,"Kaul, Dubey and Arora",Indian,Chennai,Upma Mital,55,+919858770710,2.14,92,No
+63d48894-5765-4990-b475-0b7e0aa193b9,Kant LLC,Chinese,Chennai,Wakeeta Modi,31,06139064079,4.93,30,Yes
+188c6d2d-745d-4130-ab7c-43989d1a622c,Mishra PLC,Indian,Chennai,Rohan Sanghvi,41,9876925201,1.99,69,No
+5662d208-c5c6-4ee5-9374-42a0bc34e36c,"Rao, Mittal and Joshi",Thai,Chennai,Charvi Thaker,57,09332708090,3.85,78,Yes
+662ad535-e200-427d-a0b8-e923b294a96f,Swamy-Krishnan,Italian,Chennai,Nathan Kata,27,+910683100547,2.37,86,No
+7800709d-ea77-40ae-9a02-a34776e90c3f,"Mani, Dugar and Pau",Mexican,Chennai,Pallavi Bhardwaj,24,+911841325877,4.34,80,No
+81809956-5ba7-4750-9897-8b01e6a41faf,Pandit LLC,Chinese,Chennai,Aadhya Dar,47,+914800413107,4.07,69,No
+75257059-3ea1-47c1-85bf-0316a60cd315,Warrior Group,Thai,Chennai,Harinakshi Deshpande,46,+913977941359,4.67,13,Yes
+a1eeced8-0815-4430-a257-aec23d7b29b1,Mukhopadhyay-Iyer,Italian,Chennai,Varenya Bains,55,4184732002,1.09,68,Yes
+c4b5a8ca-86b3-420e-a716-7ed871ed57c6,Walla Group,Indian,Chennai,Girik Pingle,49,6886547915,3.7,40,Yes
+56414f79-275d-431b-8fae-ae95821a1370,Menon Group,Indian,Chennai,Yuvraj Chakraborty,51,5654046283,4.09,52,Yes
+e26f7b7f-a223-4cae-ad12-6712e26ab3b9,"Bail, Sarkar and Lad",Indian,Chennai,Sai Khatri,47,07157104583,4.75,20,No
+8ea8c24f-d347-4112-a587-e017d1159ff3,Sem Ltd,Indian,Chennai,Reyansh Kala,57,2199060064,2.05,17,No
+a344dedb-9d8b-4b4f-afda-4d50a3f2f971,Tata LLC,Indian,Chennai,Siya Char,21,+914921369951,1.36,51,Yes
+0f7da7a1-9b9e-402e-b332-275035cc8438,"Goyal, Wali and Agate",Chinese,Chennai,Yashoda Atwal,39,+916444392674,2.62,60,Yes
+2bc83fc4-82ab-47b0-802d-346e3b52201a,Dhawan-Badal,Indian,Chennai,Sanaya Rege,26,09986401528,1.02,53,No
+de2d318b-09f0-47b7-bd2b-e552f679c44d,Mani Inc,Thai,Chennai,Arin Borra,57,5960531925,2.71,80,No
+463b36da-0d73-43a7-a8cc-c2f462d7c674,Shroff-Mutti,Chinese,Chennai,Faqid Ghose,56,+919757132016,1.5,79,No
+1b80f3f9-f06a-4ea0-b97e-3fb0fd0b615b,Bhalla-Contractor,Mexican,Chennai,Manbir Setty,56,+913397907606,2.06,56,No
+19a9d074-e628-49b0-b0c3-9b96e0ec96b4,Bath-Misra,Italian,Chennai,Janani Din,32,00648048071,4.05,25,No
+2e819a3c-a0df-46e3-9a64-4494b73c7352,"Vasa, Krishna and Saran",Italian,Chennai,Hiral Pal,36,+914082327756,2.6,96,Yes
+47c80694-b4f6-4575-96fd-9e802b1d5868,Keer Ltd,Thai,Chennai,Nidhi Gera,37,2292147386,3.87,3,Yes
+850ff386-373b-457a-bbb7-5361bbd8278d,Patil-Dhingra,Thai,Chennai,Vamakshi Ravel,23,07658761612,4.57,6,Yes
+813c94c5-70b3-4180-8cd5-e066f1393a62,Balan PLC,Indian,Chennai,Chanakya Kadakia,43,9635732447,3.01,70,Yes
+6ee41fca-43c0-443f-86b8-e44dd14d8181,Dhaliwal-Sama,Mexican,Chennai,Tamanna Chhabra,56,+917958046176,1.39,66,No
+9acca82e-3c43-49c9-b8dc-6c809633b18b,Mitter Group,Chinese,Chennai,Zarna Nigam,54,5342676037,4.74,49,No
+ffcc8857-daa8-4b77-9e9a-62ad047af38d,"Borah, Pandey and Ramakrishnan",Chinese,Chennai,Ikbal Garg,26,3551739021,2.22,28,No
+b82d7e7d-f8e9-4fbc-a43a-9d2fb6947190,Palan-Konda,Thai,Chennai,Pranit Panchal,48,06231785500,4.01,83,No
+4ec5b95a-a3de-49e0-8676-9ac7b8c0f04f,Nadig and Sons,Chinese,Chennai,Aahana Venkatesh,40,3340035383,1.81,18,Yes
+d1ff8626-8fb0-4a3f-8cd5-166a2a77df37,Sachdev Ltd,Italian,Chennai,Hema Sheth,57,9880816080,1.23,42,Yes
+1d9f029d-8ab7-408c-bdda-a488ac361a9b,"Kashyap, Sood and Balakrishnan",Indian,Chennai,Shivani Ghose,45,1715877806,3.85,3,No
+e9677a0f-086d-483b-93d6-cc2c87b78a9f,Bala LLC,Mexican,Chennai,Yashodhara Chaudry,29,0655805002,1.63,47,Yes
+611b2e62-5e0e-412b-a8e1-ea06dee067e5,Sagar LLC,Mexican,Chennai,Panini Nagy,36,+914674781537,3.54,1,No
+52f49753-8fc7-48b4-b308-7b65f1d2c217,Bail-Krishnan,Indian,Chennai,Chakrika Brar,34,+910834113481,2.22,79,Yes
+9e0846f7-c597-4699-8bce-219f8b70d271,Grover and Sons,Thai,Chennai,Laksh Mittal,35,+910971774604,2.21,10,No
+bad2ff91-f10b-48ec-bd38-27311581afb5,"Purohit, Tara and Behl",Indian,Chennai,Urvi Jani,34,09949760304,3.81,38,No
+5330c9af-968c-47a1-b1a7-0809d2601e74,"Menon, Nazareth and Dutta",Italian,Chennai,Aarush Savant,52,3743450969,1.02,83,No
+d5e9af43-58d9-4057-9169-46bb9a23499d,"Tara, Nagy and Jha",Chinese,Chennai,Joshua Chawla,60,07904061892,1.03,13,No
+fdf71e1e-94ce-43e4-af51-a65297d9372a,Handa-Gokhale,Indian,Chennai,Chanakya Goyal,40,+916931823116,2.26,65,No
+3f7585df-1595-49a0-9a16-eb4755ae383a,Pandit PLC,Italian,Chennai,Yashvi Tandon,47,8280994819,4.51,88,Yes
+2615d138-aded-4a61-8782-7d5a57edb606,Chakrabarti Group,Italian,Chennai,Pranav Prabhu,21,9354590054,2.01,36,Yes
+333c6db8-e752-4f9c-9cb6-b46d9aae754a,Tiwari Group,Italian,Chennai,Bhanumati Dara,36,01108284710,3.91,42,No
+67231433-6cf7-4796-8188-4f5fc17ff5ad,"Deol, Lall and Oommen",Thai,Chennai,Baljiwan Tara,31,+918389027146,4.51,52,No
+255d44ac-8eb4-4928-8acd-a6ca51493a0a,Guha-Mandal,Mexican,Chennai,Qasim Warrior,39,9873088303,1.6,18,Yes
+c0e99f57-f8de-41c0-aa33-be1aa949386f,Narang Group,Mexican,Chennai,Amaira Sheth,56,3222300565,1.52,61,Yes
+96f2749b-df7a-4e3c-b975-49004671fc7a,Shah-Nori,Indian,Chennai,Yashoda Devan,49,07090979678,4.9,52,Yes
+f57b3fb6-7810-4b4f-9b38-03d3d68730ab,Kumer LLC,Italian,Chennai,Yatin Nayar,37,1009336645,4.37,8,No
+95828a7c-6391-4e65-a996-c69bf3519022,Garde Inc,Mexican,Chennai,Aditya Sinha,41,2061713145,3.53,74,Yes
+da51f4af-1159-46ef-a824-14d41d350dac,Bhardwaj-Chaudhuri,Mexican,Chennai,Dalaja Kapadia,41,4369301165,1.66,35,Yes
+f26d12d2-11f2-4191-b2d6-656cd5527a9a,"Thaman, Vora and Menon",Thai,Chennai,Anvi Choudhury,35,07529375938,4.34,60,Yes
+43367b35-7b83-4531-9cd0-3cb81fc517c3,"Kulkarni, Patla and Thakur",Chinese,Chennai,Imaran Biswas,25,+911601713383,4.88,98,Yes
+487d3d2c-a380-427a-b7aa-6940127f0834,Chacko-Soni,Indian,Chennai,Tanay Barad,54,+914463448837,1.07,6,No
+6bdb777c-7a2c-4dbe-be35-69a9e4503519,"Deshmukh, Tiwari and Yadav",Italian,Chennai,Advik Mital,42,03561174100,1.15,41,No
+fb45f159-aeee-46e3-b2f0-d25dca4641d7,Walla Group,Chinese,Chennai,Joshua Tailor,22,03537118881,2.42,41,Yes
+afdb8c14-60f1-4707-b1d6-1511364c6886,"Date, Devi and Tiwari",Chinese,Chennai,Vanya Krishnan,35,08458499441,2.33,93,No
+b7118604-1ad4-4a74-88cd-5298a1c3b519,"Chad, Anne and Krishna",Chinese,Chennai,Hema Sabharwal,34,+919705608602,2.01,49,Yes
+3bb9d313-6941-433f-bde4-c4d41cc38cf9,Barman Inc,Chinese,Chennai,Chandani Chanda,21,+911582853665,4.51,3,No
+06935cf5-439e-4a33-bb16-7ba8e25c5857,Naidu Ltd,Chinese,Chennai,Zehaan Chaudhary,40,02627378676,1.52,69,Yes
+a7dc844b-fea5-428d-a2c1-cdcbe8752042,Prashad PLC,Italian,Chennai,Sai Sengupta,60,+916029936957,3.29,27,No
+0c467ca9-2b7f-41b1-8b42-e0a018c88d8a,Badal Inc,Thai,Chennai,Zilmil Chaudry,37,+912608347654,2.27,36,No
+98411a09-7902-4628-8106-83f571916880,Chowdhury LLC,Chinese,Chennai,Jhalak Dass,48,+919745837211,1.28,28,No
+8cd02947-16c9-4ef8-879e-bc5eb15d8754,Kata-Yogi,Thai,Chennai,Harish Tara,35,05723194503,1.82,63,No
+dacc0879-3873-43b1-9ab5-6697e480b8ca,Sampath Group,Italian,Chennai,Azaan Agarwal,56,03507262824,3.51,55,Yes
+5bdd65b4-11ec-44d9-9ad7-a970189cb9dc,Dhingra and Sons,Chinese,Chennai,Kamya Sur,41,06999554897,2.17,34,Yes
+a01272ed-0a60-4bcb-b4af-28e39a94d28c,"Ganesh, Kohli and Chanda",Mexican,Chennai,Saumya Keer,26,+917696704937,1.6,59,Yes
+163bf6ef-554f-4de3-8443-8602477a6255,Tandon Inc,Thai,Chennai,Saksham Aurora,49,4342241393,4.38,65,Yes
+bd3bd090-799d-47ad-bee0-3f33f89be198,Chaudry LLC,Mexican,Chennai,Vyanjana Mannan,47,+918817120520,3.33,28,No
+26c18d85-78c1-400d-9605-f2261102f99f,Mitra-Dhaliwal,Mexican,Chennai,Rayaan Thaker,49,+911129520184,3.24,18,No
+0e4f88cf-e286-44cc-8c07-41fe2f667b0a,Dhawan LLC,Indian,Chennai,Zashil Devan,39,2907616851,3.14,81,No
+e752a5c3-a558-4346-b285-52ca1be89611,"Chada, Chopra and Chhabra",Italian,Chennai,Panini Palan,51,01786107397,3.63,80,Yes
+58679669-f2f7-480f-ac7e-9cc427d13eeb,Bansal Group,Italian,Chennai,Vihaan Deol,54,05191762058,2.09,89,No
+75434680-fb3c-4577-ad17-0b9ee746e7dd,"Hari, Garg and Goel",Italian,Chennai,Samar Salvi,20,+917915085866,1.28,80,No
+b08bd383-0c06-459f-b3e7-2b0740f5d9a3,"Kashyap, Chander and Ahuja",Chinese,Chennai,Chakradev Bansal,32,7212452018,3.27,66,Yes
+91ea011b-f94f-4c11-9fb0-f06bc3eecb71,Agrawal-Konda,Mexican,Chennai,Girik Dyal,21,01376612214,3.76,57,Yes
+2c408c67-db85-478a-ac79-bccd476ceed9,"Radhakrishnan, Pillay and Kakar",Thai,Chennai,Atharv Dua,52,04955364019,4.24,52,Yes
+38a09966-fde7-4832-997c-cc83edee2600,Dugal-Ram,Italian,Chennai,Nicholas Datta,26,08719398787,2.63,13,Yes
+df9e733e-8acc-4605-ae09-5bdb63328df7,"Hayre, Chadha and Golla",Mexican,Chennai,Vivaan Modi,28,5853080235,4.18,12,Yes
+343dd99e-cae3-42f7-b0ff-985b44faa8ee,Devan-Shankar,Italian,Chennai,Lavanya Minhas,35,03900500020,4.44,1,No
+afc21036-8bbe-44b3-8c1e-14124b604ab1,Date Ltd,Thai,Chennai,Aarush Doshi,57,+919570023258,2.89,36,Yes
+cf3048f9-2772-4556-b163-e87a04cf5d6c,"Gola, Shankar and Upadhyay",Chinese,Chennai,Veda Kalita,43,+916257845200,1.92,47,Yes
+c71439d8-5257-4a0b-b697-fb323ae3a00c,Prakash-Devan,Chinese,Chennai,Tejas Suri,37,+919749778202,2.02,10,No
+b3a52473-55c1-43af-93fe-2f519f46143b,Tripathi-Pradhan,Thai,Chennai,Lavanya Palla,56,00113536745,3.51,95,Yes
+12a3e011-c99e-46ae-82c9-ee4dec213d85,"Gill, Chand and Muni",Thai,Chennai,Netra Ratti,58,07556032137,4.07,89,Yes
+71acf8ad-aed0-4d87-bcee-d91c90d729dd,Tailor Group,Italian,Chennai,Lekha Sandal,45,+911506186094,2.24,86,Yes
+6ae6fd1f-9955-42a2-b734-3b30378ce605,Suri-Gandhi,Italian,Chennai,Lakshit Kurian,30,+916188615325,3.91,44,No
+1091d4aa-b59d-4506-884f-0546359e70c5,"Badami, Nori and Raja",Indian,Chennai,Ayushman Ahluwalia,45,+911493576028,2.92,83,Yes
+0249850a-d4cb-4bef-bddc-caff8e6979bc,"De, Chauhan and Hayer",Italian,Chennai,Odika Kalita,25,7582913360,4.76,42,Yes
+c4f433df-2002-43a2-b1d2-6385fd6f72c6,"Ganguly, Nagy and Sankaran",Mexican,Chennai,Ekansh Nori,45,04005247879,1.08,51,Yes
+b0d3050b-6b80-435b-8da0-4671efeb9e33,"Gera, Mann and Chowdhury",Thai,Chennai,Saanvi Goda,60,9248460481,3.27,59,Yes
+d87b5ed1-2aed-4a9c-8ace-7b546c4944ff,Balakrishnan Group,Mexican,Chennai,Benjamin Anne,38,+916359280111,1.93,88,Yes
+bf224957-7bdd-4c01-9d96-d7100d498f8b,"Varughese, Saraf and Natt",Thai,Chennai,Radhika Yohannan,33,+915243870847,3.43,53,Yes
+ec699b10-c99b-4bc9-96a1-77c513988822,Gokhale Ltd,Indian,Chennai,Lopa Soman,47,3479092608,4.37,91,Yes
+08fce29d-ebc2-4c54-9e07-8628d5f36cea,"Hayer, Varma and Tara",Indian,Chennai,Vidhi Vala,52,06073839595,3.45,78,No
+7ebb0872-ac35-4c95-847f-ac51d450e821,"Sha, Ram and Goel",Thai,Chennai,Zilmil Chahal,27,+917488066254,1.47,20,No
+5ef625fd-30f7-4b21-8e49-ace933c137f2,Grewal-Hari,Mexican,Chennai,Baghyawati Gole,38,+913397669660,2.69,82,Yes
+3ca1f394-95e7-496d-8552-63546f141912,Kala and Sons,Mexican,Chennai,Vivaan Krishna,31,3018641981,3.41,42,Yes
+f6131a5c-1ed7-4914-988d-6e747052ae51,Modi-Bandi,Indian,Chennai,Gopal Mangal,44,4645064178,1.1,94,Yes
+b1db4be5-da2d-460e-ba92-eaef9a9d683a,Yohannan-Wali,Mexican,Chennai,Gautami Bala,41,0467970439,2.72,100,No
+c66b0c79-7f2e-4cb5-9117-dd1627017c15,Arya Inc,Italian,Chennai,Rudra Lall,24,6005586967,3.54,35,No
+1572e6bf-90ec-4e1d-97d4-067a60e4419c,"Nair, Roy and Zacharia",Chinese,Chennai,Zarna Merchant,41,+912941583142,2.05,80,No
+e70388d8-c75b-4964-a458-87f38427f466,"Nadkarni, Vaidya and Datta",Indian,Chennai,Fitan Dua,57,7614005847,1.72,39,Yes
+7a56bc1c-91a9-4acb-89bb-fcc57aaaf360,"Sharaf, Butala and Pandya",Chinese,Chennai,Oeshi Bal,25,06431907614,1.12,92,Yes
+f3bcbac6-0d65-45e4-88eb-adbd9b0664e7,Vora Group,Indian,Chennai,Hemangini Misra,42,07089036750,1.76,1,Yes
+6f0577c3-7ddc-469a-8cc6-83807624f009,"Ramesh, Kapadia and Parikh",Indian,Chennai,Charles Shah,52,08680556906,2.87,82,Yes
+c80ce0a3-6ef6-4922-b87e-80b408dc1a0f,Ram-Batra,Mexican,Chennai,Aadi Sawhney,57,7375524247,2.13,4,No
+f99e43e5-bf33-44f3-952b-0c72938d2907,Sabharwal-Mand,Chinese,Chennai,Oni Morar,38,+918703225466,3.32,19,Yes
+c43012ef-d584-4247-8f79-c6ed927c9a52,Som-Johal,Thai,Chennai,Utkarsh Kothari,21,05076366961,3.94,40,Yes
+3c561f50-1a82-4136-b897-8647f9a7048e,Keer Ltd,Italian,Chennai,Tripti Som,46,4214388798,2.29,55,No
+8f2d1325-c0ed-445d-a1b9-65d5d342d27a,"Rao, Gara and Mitter",Thai,Chennai,Bakhshi Soni,36,05025584149,1.98,80,No
+d7d5b2be-62cf-4fec-8058-eba1cbebe61f,Bhat-Purohit,Indian,Chennai,Frederick Vora,56,+915413382139,2.18,9,Yes
+be8a9ae2-e429-4fd1-ad77-c5e7312be194,Buch PLC,Indian,Chennai,Upma Dada,35,1343286920,4.98,43,No
+13d02bb6-2a4f-49ea-a7f3-9dfb80ba8c60,Varty-Garde,Mexican,Chennai,Isaac Dash,54,+916411436430,1.83,40,Yes
+f1a4c0d9-22c5-4071-a727-b3ba0da1ed80,"Wagle, Dalal and Deep",Thai,Chennai,Ekta Bhandari,23,07898364103,4.86,100,No
+5e038382-0d6a-44e8-8380-339195a5bc0e,Ghose LLC,Indian,Chennai,Chakradhar Dayal,32,2114648734,3.07,28,No
+f735e6f7-8423-45f5-a4b9-f7f936809f90,Ramanathan-Kumer,Mexican,Chennai,Radhika Krishna,34,+918866063397,1.58,68,Yes
+cd44dc6b-1bb1-4492-8002-83c480dc1f14,Kibe-Kumar,Italian,Chennai,Harrison Sachar,60,+913210101269,1.42,78,No
+f831b3ad-7d58-4fa3-ace8-4fe4238d9808,Shah LLC,Italian,Chennai,Ishani Tripathi,60,00970968943,1.85,1,No
+c3f05a16-2445-469d-96e9-c85d55087574,"Badal, Khosla and Tak",Italian,Chennai,Darika Mander,54,9783211428,3.23,63,No
+e2c8755d-be45-48e1-9294-681e87053df0,"Walia, Morar and Sahota",Mexican,Chennai,Indrajit Peri,37,5777602173,2.33,65,No
+e34e93a2-5437-41af-a96c-660deb672bfa,Seshadri-Vohra,Indian,Chennai,Ubika Nanda,21,+911964171931,4.53,95,No
+d6bbfa79-8f07-40ba-929d-67cc8ff75516,Wason PLC,Mexican,Chennai,Sudiksha Mangat,23,+912206913726,1.14,5,No
+377e6fa5-dc42-4a3c-8c61-0b01e9efa365,Dhillon-Som,Thai,Chennai,Samesh Bahri,53,02235084684,2.41,34,Yes
+c33cf22c-34a8-421d-aff3-62ef1d5328c3,Varughese-Kothari,Thai,Chennai,Yutika Purohit,44,05334729907,4.02,77,Yes
+34636dc0-014c-416e-8d3b-b05e28fa6963,Salvi and Sons,Chinese,Chennai,Saumya Wagle,49,5700981130,4.67,21,No
+5aedb0cd-96c9-46b1-b174-fca4151689eb,"Naik, Devan and Sandhu",Mexican,Chennai,Anita Pandya,42,1709811878,2.63,3,No
+c6789610-cbe6-4c34-a8d7-7e9ab5ef86fc,"Butala, Dhawan and Golla",Thai,Chennai,Vedant Chaudry,53,9892865799,4.33,48,No
+eb62ea53-033d-4bcd-bfeb-bbea09d3adef,Kata Ltd,Indian,Chennai,Pranav Andra,27,02993801539,4.04,11,Yes
+3c896478-1fce-44da-ac5a-4dc70c8ed02f,Hayer-Sastry,Mexican,Chennai,Isaiah Mital,58,+918739610827,4.22,62,Yes
+997f6a68-e4ff-4756-8572-b117be9dc761,Tailor-Walla,Thai,Chennai,Yahvi Mittal,29,08472690623,1.27,50,Yes
+9b7ec45c-2fcc-4fe0-924b-16037387ebe4,Aurora-Mukherjee,Chinese,Chennai,Yashodhara Kari,43,04866136366,1.3,69,Yes
+c7da2cda-f85a-4ecb-aae5-7890909a2e3f,Hari-Chopra,Thai,Chennai,Vanya Deol,41,8137815294,4.65,2,Yes
+9ab6e4f1-66e8-4c24-9b67-da5eeaab96d8,Gour-Dhar,Italian,Chennai,Mugdha Raman,25,2275785463,3.95,31,No
+e9603bee-7d08-476d-bde7-21ced387fa55,Virk LLC,Thai,Chennai,Jatin Mannan,30,+917303719684,3.63,85,Yes
+ded0767b-3f25-45e5-82bf-61d2da5197f3,Soman-Kamdar,Italian,Chennai,Indira Rajagopal,41,04643525165,4.63,65,No
+b77ea2cc-b60a-49a4-b93e-f581cf6f74dc,Agarwal Group,Indian,Chennai,Oliver Bhandari,46,+912389037425,1.93,29,No
+711b2435-959a-4fbf-84dc-16203b455791,"Devi, Narasimhan and Tripathi",Italian,Chennai,Warjas Parsa,29,+919095459581,4.49,28,Yes
+f5e82b08-e3ba-4eed-a669-90c1f4edb367,Maharaj Inc,Thai,Chennai,Nirja Misra,60,9702844130,1.91,59,Yes
